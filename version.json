@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.6",
-  "updated_at": 1590677817789,
+  "bundle_version": "1.0.7",
+  "updated_at": 1590757361932,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1589676445322
@@ -11,13 +11,13 @@
       "name": "动画",
       "key": "a",
       "path": "./sentences/a.json",
-      "timestamp": 1590675296059
+      "timestamp": 1590757361907
     },
     {
       "name": "漫画",
       "key": "b",
       "path": "./sentences/b.json",
-      "timestamp": 1589554386609
+      "timestamp": 1590757361912
     },
     {
       "name": "游戏",
@@ -29,19 +29,19 @@
       "name": "文学",
       "key": "d",
       "path": "./sentences/d.json",
-      "timestamp": 1590675296067
+      "timestamp": 1590757361917
     },
     {
       "name": "原创",
       "key": "e",
       "path": "./sentences/e.json",
-      "timestamp": 1589554387673
+      "timestamp": 1590757361921
     },
     {
       "name": "网络",
       "key": "f",
       "path": "./sentences/f.json",
-      "timestamp": 1589676445505
+      "timestamp": 1590757361924
     },
     {
       "name": "其他",
@@ -53,7 +53,7 @@
       "name": "影视",
       "key": "h",
       "path": "./sentences/h.json",
-      "timestamp": 1589676445509
+      "timestamp": 1590757361927
     },
     {
       "name": "诗词",
@@ -71,7 +71,7 @@
       "name": "哲学",
       "key": "k",
       "path": "./sentences/k.json",
-      "timestamp": 1589676445512
+      "timestamp": 1590757361930
     },
     {
       "name": "抖机灵",
