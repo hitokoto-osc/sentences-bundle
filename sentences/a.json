@@ -16814,5 +16814,53 @@
     "owner": "0",
     "created_at": "1588494321",
     "length": 16
+  },
+  {
+    "id": 6106,
+    "uuid": "d226f5d1-bd4e-416b-96ec-c1f95fa7d747",
+    "hitokoto": "花早晚会凋谢，记忆最终也会消散。",
+    "type": "a",
+    "from": "镇魂街",
+    "from_who": "null",
+    "creator": "PercyDan",
+    "creator_uid": 6125,
+    "reviewer": 1,
+    "commit_from": "web",
+    "assessor": null,
+    "owner": "0",
+    "created_at": "1588659101",
+    "length": 16
+  },
+  {
+    "id": 6107,
+    "uuid": "96c42da2-737e-4044-b08e-e05a69d59e7f",
+    "hitokoto": "所谓首领，只不过是被势力绑架上制高点的走狗而已。而且，都是身不由己的走狗。",
+    "type": "a",
+    "from": "狐妖小红娘",
+    "from_who": "东方月初",
+    "creator": "PercyDan",
+    "creator_uid": 6125,
+    "reviewer": 1,
+    "commit_from": "web",
+    "assessor": null,
+    "owner": "0",
+    "created_at": "1588659240",
+    "length": 37
+  },
+  {
+    "id": 6108,
+    "uuid": "080ad240-2965-45f1-9e2d-a5eff77da242",
+    "hitokoto": "无论是人类还是妖怪，只要内心希望他人接触，那么就是相同的存在；会因独处而感到寂寞，也会害怕踏出第一步。",
+    "type": "a",
+    "from": "夏目友人帐",
+    "from_who": "夏目",
+    "creator": "PercyDan",
+    "creator_uid": 6125,
+    "reviewer": 1,
+    "commit_from": "web",
+    "assessor": null,
+    "owner": "0",
+    "created_at": "1588659273",
+    "length": 51
   }
 ]
