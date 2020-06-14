@@ -10,8 +10,6 @@
     "creator_uid": 4818,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1580886541",
     "length": 20
   },
@@ -26,8 +24,6 @@
     "creator_uid": 1803,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1580792293",
     "length": 10
   },
@@ -42,8 +38,6 @@
     "creator_uid": 3642,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1580370816",
     "length": 32
   },
@@ -58,8 +52,6 @@
     "creator_uid": 4071,
     "reviewer": 1,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1571142742",
     "length": 16
   },
@@ -74,8 +66,6 @@
     "creator_uid": 2225,
     "reviewer": 1,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1574250827",
     "length": 23
   },
@@ -90,8 +80,6 @@
     "creator_uid": 3669,
     "reviewer": 1,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1573714325",
     "length": 13
   },
@@ -106,8 +94,6 @@
     "creator_uid": 4861,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1581398835",
     "length": 58
   },
@@ -122,8 +108,6 @@
     "creator_uid": 4728,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1580116451",
     "length": 43
   },
@@ -138,8 +122,6 @@
     "creator_uid": 3642,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1582074043",
     "length": 54
   },
@@ -154,8 +136,6 @@
     "creator_uid": 1713,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1582459011",
     "length": 37
   },
@@ -170,8 +150,6 @@
     "creator_uid": 4270,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1582694688",
     "length": 9
   },
@@ -186,8 +164,6 @@
     "creator_uid": 4656,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1579018067",
     "length": 49
   },
@@ -202,8 +178,6 @@
     "creator_uid": 4516,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1576919441",
     "length": 10
   },
@@ -218,8 +192,6 @@
     "creator_uid": 5129,
     "reviewer": 1044,
     "commit_from": "app",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1582876573",
     "length": 98
   },
@@ -234,8 +206,6 @@
     "creator_uid": 5085,
     "reviewer": 1044,
     "commit_from": "app",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1583075832",
     "length": 15
   },
@@ -250,8 +220,6 @@
     "creator_uid": 1044,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1583786533",
     "length": 14
   },
@@ -266,8 +234,6 @@
     "creator_uid": 5341,
     "reviewer": 1044,
     "commit_from": "app",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1583893749",
     "length": 58
   },
@@ -282,8 +248,6 @@
     "creator_uid": 5341,
     "reviewer": 1044,
     "commit_from": "app",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1583893817",
     "length": 76
   },
@@ -298,8 +262,6 @@
     "creator_uid": 5341,
     "reviewer": 1044,
     "commit_from": "app",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1583894042",
     "length": 32
   },
@@ -314,8 +276,6 @@
     "creator_uid": 4386,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1584030182",
     "length": 36
   },
@@ -330,8 +290,6 @@
     "creator_uid": 5544,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1584697156",
     "length": 77
   },
@@ -346,8 +304,6 @@
     "creator_uid": 5645,
     "reviewer": 1,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585269003",
     "length": 19
   },
@@ -362,8 +318,6 @@
     "creator_uid": 5655,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585291368",
     "length": 26
   },
@@ -378,8 +332,6 @@
     "creator_uid": 5655,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585293573",
     "length": 16
   },
@@ -394,8 +346,6 @@
     "creator_uid": 5229,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585296385",
     "length": 13
   },
@@ -410,8 +360,6 @@
     "creator_uid": 5229,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585296454",
     "length": 27
   },
@@ -426,8 +374,6 @@
     "creator_uid": 5655,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585293619",
     "length": 23
   },
@@ -442,8 +388,6 @@
     "creator_uid": 5655,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585293655",
     "length": 27
   },
@@ -458,8 +402,6 @@
     "creator_uid": 5655,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585293912",
     "length": 27
   },
@@ -474,8 +416,6 @@
     "creator_uid": 3905,
     "reviewer": 1044,
     "commit_from": "app",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585215070",
     "length": 15
   },
@@ -490,8 +430,6 @@
     "creator_uid": 5655,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585293712",
     "length": 27
   },
@@ -506,8 +444,6 @@
     "creator_uid": 1,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585616988",
     "length": 62
   },
@@ -522,8 +458,6 @@
     "creator_uid": 5713,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585647296",
     "length": 28
   },
@@ -538,8 +472,6 @@
     "creator_uid": 2150,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1586362271",
     "length": 40
   },
@@ -554,8 +486,6 @@
     "creator_uid": 1032,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1588353078",
     "length": 46
   },
@@ -570,8 +500,6 @@
     "creator_uid": 5658,
     "reviewer": 1,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1586939443",
     "length": 21
   },
@@ -586,8 +514,6 @@
     "creator_uid": 5658,
     "reviewer": 1,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1586939487",
     "length": 21
   },
@@ -602,8 +528,6 @@
     "creator_uid": 5658,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1586776496",
     "length": 15
   },
@@ -618,8 +542,6 @@
     "creator_uid": 5658,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1586939583",
     "length": 14
   },
@@ -634,8 +556,6 @@
     "creator_uid": 5658,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1586939770",
     "length": 68
   },
@@ -650,8 +570,6 @@
     "creator_uid": 5658,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1586939826",
     "length": 64
   },
@@ -666,8 +584,6 @@
     "creator_uid": 6125,
     "reviewer": 1,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1588648123",
     "length": 28
   },
@@ -682,8 +598,6 @@
     "creator_uid": 6125,
     "reviewer": 1,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1588658329",
     "length": 25
   }

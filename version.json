@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.10",
-  "updated_at": 1592038860615,
+  "bundle_version": "1.0.14",
+  "updated_at": 1592153668371,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1589676445322
@@ -11,73 +11,73 @@
       "name": "动画",
       "key": "a",
       "path": "./sentences/a.json",
-      "timestamp": 1592038860370
+      "timestamp": 1592153668326
     },
     {
       "name": "漫画",
       "key": "b",
       "path": "./sentences/b.json",
-      "timestamp": 1590768060260
+      "timestamp": 1592153668330
     },
     {
       "name": "游戏",
       "key": "c",
       "path": "./sentences/c.json",
-      "timestamp": 1590768060262
+      "timestamp": 1592153668332
     },
     {
       "name": "文学",
       "key": "d",
       "path": "./sentences/d.json",
-      "timestamp": 1590768060267
+      "timestamp": 1592153668336
     },
     {
       "name": "原创",
       "key": "e",
       "path": "./sentences/e.json",
-      "timestamp": 1590768060272
+      "timestamp": 1592153668340
     },
     {
       "name": "网络",
       "key": "f",
       "path": "./sentences/f.json",
-      "timestamp": 1592038860593
+      "timestamp": 1592153668343
     },
     {
       "name": "其他",
       "key": "g",
       "path": "./sentences/g.json",
-      "timestamp": 1592038860600
+      "timestamp": 1592153668346
     },
     {
       "name": "影视",
       "key": "h",
       "path": "./sentences/h.json",
-      "timestamp": 1592038860602
+      "timestamp": 1592153668349
     },
     {
       "name": "诗词",
       "key": "i",
       "path": "./sentences/i.json",
-      "timestamp": 1590768060283
+      "timestamp": 1592153668366
     },
     {
       "name": "网易云",
       "key": "j",
       "path": "./sentences/j.json",
-      "timestamp": 1590768060286
+      "timestamp": 1592153668368
     },
     {
       "name": "哲学",
       "key": "k",
       "path": "./sentences/k.json",
-      "timestamp": 1590768060287
+      "timestamp": 1592153668369
     },
     {
       "name": "抖机灵",
       "key": "l",
       "path": "./sentences/l.json",
-      "timestamp": 1589554388618
+      "timestamp": 1592153668369
     }
   ]
 }

@@ -10,8 +10,6 @@
     "creator_uid": 494,
     "reviewer": 1,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1574512325",
     "length": 40
   },
@@ -26,8 +24,6 @@
     "creator_uid": 4289,
     "reviewer": 1,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1573825095",
     "length": 36
   },
@@ -42,8 +38,6 @@
     "creator_uid": 4897,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1581589896",
     "length": 40
   },
@@ -58,8 +52,6 @@
     "creator_uid": 4950,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1581866804",
     "length": 17
   },
@@ -74,8 +66,6 @@
     "creator_uid": 4701,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1582646685",
     "length": 19
   },
@@ -90,8 +80,6 @@
     "creator_uid": 4701,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1582646766",
     "length": 20
   },
@@ -106,8 +94,6 @@
     "creator_uid": 4929,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1581739852",
     "length": 15
   },
@@ -122,8 +108,6 @@
     "creator_uid": 5126,
     "reviewer": 1044,
     "commit_from": "app",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1582871417",
     "length": 16
   },
@@ -138,8 +122,6 @@
     "creator_uid": 5129,
     "reviewer": 1044,
     "commit_from": "app",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1583345015",
     "length": 29
   },
@@ -154,8 +136,6 @@
     "creator_uid": 5305,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1583727209",
     "length": 83
   },
@@ -170,8 +150,6 @@
     "creator_uid": 5577,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1584884275",
     "length": 31
   },
@@ -186,8 +164,6 @@
     "creator_uid": 5577,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1584884340",
     "length": 24
   },
@@ -202,8 +178,6 @@
     "creator_uid": 5611,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585216455",
     "length": 66
   },
@@ -218,8 +192,6 @@
     "creator_uid": 5623,
     "reviewer": 1,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1585139991",
     "length": 32
   },
@@ -234,8 +206,6 @@
     "creator_uid": 5882,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1586821497",
     "length": 19
   },
@@ -250,8 +220,6 @@
     "creator_uid": 5678,
     "reviewer": 4756,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1587181370",
     "length": 23
   },
@@ -266,8 +234,6 @@
     "creator_uid": 5943,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1587639189",
     "length": 19
   },
@@ -282,8 +248,6 @@
     "creator_uid": 5882,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1587877950",
     "length": 75
   },
@@ -298,8 +262,6 @@
     "creator_uid": 5882,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1587878094",
     "length": 81
   },
@@ -314,8 +276,6 @@
     "creator_uid": 5882,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1587878121",
     "length": 27
   },
@@ -330,9 +290,35 @@
     "creator_uid": 6104,
     "reviewer": 1044,
     "commit_from": "web",
-    "assessor": null,
-    "owner": "0",
     "created_at": "1588497019",
     "length": 20
+  },
+  {
+    "id": 6126,
+    "uuid": "fe327dae-bbf7-49f4-9684-1f31897b4a5f",
+    "hitokoto": "流萤漫天花共舞，闲蝉栖柳风奏湖。十年一梦不觉醒，夏祭花火终成空。",
+    "type": "j",
+    "from": "夏祭り、夢花火",
+    "from_who": "旋土浮尘",
+    "creator": "Liak",
+    "creator_uid": 6141,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1588760942",
+    "length": 32
+  },
+  {
+    "id": 6128,
+    "uuid": "7257297b-5995-4506-adf9-efa24f6abb2b",
+    "hitokoto": "幽幽轻音入梦来，淡淡忧伤曲中闻。似乐又皮更轻音，原是梦入幻想乡。",
+    "type": "j",
+    "from": "蓬莱传说（蓬莱伝説）",
+    "from_who": "千茗猫",
+    "creator": "Liak",
+    "creator_uid": 6141,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1588772123",
+    "length": 32
   }
 ]
