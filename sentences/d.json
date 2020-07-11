@@ -9980,5 +9980,61 @@
     "commit_from": "web",
     "created_at": "1593061851",
     "length": 12
+  },
+  {
+    "id": 6283,
+    "uuid": "d00713de-91cf-4c42-b0a6-79a035abdad4",
+    "hitokoto": "既然选择了远方，便只顾风雨兼程。",
+    "type": "d",
+    "from": "热爱生命",
+    "from_who": "汪国真",
+    "creator": "陈默",
+    "creator_uid": 2334,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1592290834",
+    "length": 16
+  },
+  {
+    "id": 6286,
+    "uuid": "a1cd7c19-c607-489a-ac59-826271f5abdd",
+    "hitokoto": "我一生恶事做，轻易许愿只怕没有神明会眷顾，只好亲自为你点了一万盏灯，每点一盏心中默念一句南无阿弥陀佛，上有九天神明下有阴间官判，天可怜见，能算我心诚了么？",
+    "type": "d",
+    "from": "暴君",
+    "from_who": "漫漫何其多",
+    "creator": "朝烟",
+    "creator_uid": 6473,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1592396639",
+    "length": 77
+  },
+  {
+    "id": 6287,
+    "uuid": "e660a1d0-a955-4da0-a877-b782db2c5b19",
+    "hitokoto": "年长者最大的修养就是控制住批评年轻人的欲望。",
+    "type": "d",
+    "from": "月亮与六便士",
+    "from_who": "毛姆",
+    "creator": "朝烟",
+    "creator_uid": 6473,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1592396811",
+    "length": 22
+  },
+  {
+    "id": 6292,
+    "uuid": "099ac550-f121-4377-bd28-ec44ffdab22b",
+    "hitokoto": "每个人都会对未知充满恐惧，因为未知代表着你不知道以自己的能力是否能够应对。",
+    "type": "d",
+    "from": "渡魂实录",
+    "from_who": "余连方",
+    "creator": "xuj",
+    "creator_uid": 6496,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1592528521",
+    "length": 37
   }
 ]

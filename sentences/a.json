@@ -15020,5 +15020,47 @@
     "commit_from": "web",
     "created_at": "1591971197",
     "length": 17
+  },
+  {
+    "id": 6289,
+    "uuid": "145992fc-9dca-4a12-b5a4-8d0c56f1d1ce",
+    "hitokoto": "既然没有终点，那在何处又何妨呢。",
+    "type": "a",
+    "from": "异度侵入",
+    "from_who": "null",
+    "creator": "莽红尘觅知嘤",
+    "creator_uid": 5611,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1592460956",
+    "length": 16
+  },
+  {
+    "id": 6290,
+    "uuid": "4e70b812-ee17-4664-a71a-c68410bfe803",
+    "hitokoto": "人生在世只有一次，不必勉强选择自己不喜欢的路，随性而生或随性而死都没关系，不过，无论选择哪条路，都不要忘记保护自己所珍惜的人。",
+    "type": "a",
+    "from": "火影忍者",
+    "from_who": "猿飞日斩",
+    "creator": "北笙",
+    "creator_uid": 6495,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1592528467",
+    "length": 63
+  },
+  {
+    "id": 6291,
+    "uuid": "82a5ba4a-74d8-46eb-8d60-1282054362fc",
+    "hitokoto": "只要是人都是依靠自己的知识与认知并且被之束缚生活着的，那就叫做现实。但是知识与认知是模糊不清的东西，现实也许只是镜花水月，人都是活在自己的执念中的。",
+    "type": "a",
+    "from": "火影忍者",
+    "from_who": "宇智波鼬",
+    "creator": "北笙",
+    "creator_uid": 6495,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1592528503",
+    "length": 74
   }
 ]
