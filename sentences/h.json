@@ -628,5 +628,19 @@
     "commit_from": "web",
     "created_at": "1592397411",
     "length": 41
+  },
+  {
+    "id": 6297,
+    "uuid": "d6e55120-3aea-439c-965d-70d957a26925",
+    "hitokoto": "爸爸我也不是一生下来就是爸爸，爸爸也是头一次当爸爸。",
+    "type": "h",
+    "from": "请回答1988",
+    "from_who": "德善父亲",
+    "creator": "xuj",
+    "creator_uid": 6496,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1592529632",
+    "length": 26
   }
 ]
