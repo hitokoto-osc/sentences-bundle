@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.19",
-  "updated_at": 1594483260818,
+  "bundle_version": "1.0.20",
+  "updated_at": 1595250061270,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1589676445322
@@ -23,7 +23,7 @@
       "name": "游戏",
       "key": "c",
       "path": "./sentences/c.json",
-      "timestamp": 1594436460840
+      "timestamp": 1595250061233
     },
     {
       "name": "文学",
@@ -35,7 +35,7 @@
       "name": "原创",
       "key": "e",
       "path": "./sentences/e.json",
-      "timestamp": 1594436460885
+      "timestamp": 1595250061249
     },
     {
       "name": "网络",
