@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.20",
-  "updated_at": 1595250061270,
+  "bundle_version": "1.0.21",
+  "updated_at": 1595386860865,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1589676445322
@@ -53,7 +53,7 @@
       "name": "影视",
       "key": "h",
       "path": "./sentences/h.json",
-      "timestamp": 1594483260793
+      "timestamp": 1595386860853
     },
     {
       "name": "诗词",
