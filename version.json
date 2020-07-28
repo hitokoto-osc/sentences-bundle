@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.22",
-  "updated_at": 1595502061042,
+  "bundle_version": "1.0.23",
+  "updated_at": 1595952060827,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1589676445322
@@ -23,25 +23,25 @@
       "name": "游戏",
       "key": "c",
       "path": "./sentences/c.json",
-      "timestamp": 1595502060858
+      "timestamp": 1595952060740
     },
     {
       "name": "文学",
       "key": "d",
       "path": "./sentences/d.json",
-      "timestamp": 1595502060886
+      "timestamp": 1595952060752
     },
     {
       "name": "原创",
       "key": "e",
       "path": "./sentences/e.json",
-      "timestamp": 1595502060900
+      "timestamp": 1595952060774
     },
     {
       "name": "网络",
       "key": "f",
       "path": "./sentences/f.json",
-      "timestamp": 1595502060910
+      "timestamp": 1595952060786
     },
     {
       "name": "其他",
@@ -59,13 +59,13 @@
       "name": "诗词",
       "key": "i",
       "path": "./sentences/i.json",
-      "timestamp": 1595502060969
+      "timestamp": 1595952060804
     },
     {
       "name": "网易云",
       "key": "j",
       "path": "./sentences/j.json",
-      "timestamp": 1595502060976
+      "timestamp": 1595952060811
     },
     {
       "name": "哲学",

@@ -7432,5 +7432,33 @@
     "commit_from": "web",
     "created_at": "1594981312",
     "length": 17
+  },
+  {
+    "id": 6382,
+    "uuid": "954ed277-51c4-4b28-aa47-85bdbc4103c9",
+    "hitokoto": "我得罪了领导，领导醉了。",
+    "type": "e",
+    "from": "ideng",
+    "from_who": "ideng",
+    "creator": "ideng",
+    "creator_uid": 6229,
+    "reviewer": 6,
+    "commit_from": "web",
+    "created_at": "1593351205",
+    "length": 12
+  },
+  {
+    "id": 6384,
+    "uuid": "6a833e0d-7dd7-4cb7-9184-47a7412ab934",
+    "hitokoto": "这世间太不公平了，我都已经完完全全失去你了，可你还拥有着我。",
+    "type": "e",
+    "from": "落陈",
+    "from_who": "落陈",
+    "creator": "落陈",
+    "creator_uid": 6737,
+    "reviewer": 6,
+    "commit_from": "web",
+    "created_at": "1595168492",
+    "length": 30
   }
 ]
