@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.25",
-  "updated_at": 1596121260989,
+  "bundle_version": "1.0.26",
+  "updated_at": 1596175261212,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1589676445322
@@ -47,7 +47,7 @@
       "name": "其他",
       "key": "g",
       "path": "./sentences/g.json",
-      "timestamp": 1596121260975
+      "timestamp": 1596175261171
     },
     {
       "name": "影视",
@@ -59,7 +59,7 @@
       "name": "诗词",
       "key": "i",
       "path": "./sentences/i.json",
-      "timestamp": 1595952060804
+      "timestamp": 1596175261185
     },
     {
       "name": "网易云",

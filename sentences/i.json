@@ -7852,5 +7852,33 @@
     "commit_from": "web",
     "created_at": "1595319722",
     "length": 12
+  },
+  {
+    "id": 6394,
+    "uuid": "85eadd99-6d8d-45c9-a5f9-043627aff376",
+    "hitokoto": "海内存知己，天涯若比邻。",
+    "type": "i",
+    "from": "送杜少府之任蜀州",
+    "from_who": "王勃",
+    "creator": "你有多久没有看过星星",
+    "creator_uid": 6840,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1596109154",
+    "length": 12
+  },
+  {
+    "id": 6395,
+    "uuid": "2ef85357-9b1a-4d11-9c78-e0e54af3d0cd",
+    "hitokoto": "伤心桥下春波绿，曾是惊鸿照影来。",
+    "type": "i",
+    "from": "《沈园二首》(其一)",
+    "from_who": "陆游",
+    "creator": "「❦」",
+    "creator_uid": 3191,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1596112405",
+    "length": 16
   }
 ]
