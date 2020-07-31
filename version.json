@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.26",
-  "updated_at": 1596175261212,
+  "bundle_version": "1.0.27",
+  "updated_at": 1596182460867,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1589676445322
@@ -65,7 +65,7 @@
       "name": "网易云",
       "key": "j",
       "path": "./sentences/j.json",
-      "timestamp": 1595952060811
+      "timestamp": 1596182460864
     },
     {
       "name": "哲学",
