@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.27",
-  "updated_at": 1596182460867,
+  "bundle_version": "1.0.28",
+  "updated_at": 1596258060820,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1589676445322
@@ -11,7 +11,7 @@
       "name": "动画",
       "key": "a",
       "path": "./sentences/a.json",
-      "timestamp": 1596121260927
+      "timestamp": 1596258060766
     },
     {
       "name": "漫画",
@@ -59,7 +59,7 @@
       "name": "诗词",
       "key": "i",
       "path": "./sentences/i.json",
-      "timestamp": 1596175261185
+      "timestamp": 1596258060813
     },
     {
       "name": "网易云",
