@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.29",
-  "updated_at": 1596427260953,
+  "bundle_version": "1.0.30",
+  "updated_at": 1596805260879,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1589676445322
@@ -71,7 +71,7 @@
       "name": "哲学",
       "key": "k",
       "path": "./sentences/k.json",
-      "timestamp": 1592250771101
+      "timestamp": 1596805260868
     },
     {
       "name": "抖机灵",
