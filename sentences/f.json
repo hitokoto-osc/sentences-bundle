@@ -5822,5 +5822,47 @@
     "commit_from": "web",
     "created_at": "1595148435",
     "length": 16
+  },
+  {
+    "id": 6412,
+    "uuid": "648b1517-749b-4045-b4e3-561f472ca2ea",
+    "hitokoto": "我喜欢草莓，草莓蛋糕不行，草莓软糖不行，只有草莓才行。就像我喜欢你，长得像你不行，性格像你不行，只有你才行。",
+    "type": "f",
+    "from": "网络",
+    "from_who": "null",
+    "creator": "麻吉酷博异",
+    "creator_uid": 6796,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1595666281",
+    "length": 54
+  },
+  {
+    "id": 6421,
+    "uuid": "d0513cdc-f304-4c36-bede-5f5a6b479692",
+    "hitokoto": "有些父母宁愿相信不真实的营销号，也不愿意相信自己的孩子。",
+    "type": "f",
+    "from": "Bilibili",
+    "from_who": "滑稽的游侠",
+    "creator": "wujiuqier",
+    "creator_uid": 6858,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1596266893",
+    "length": 28
+  },
+  {
+    "id": 6422,
+    "uuid": "bb74eb6c-884f-45f8-be0c-cddc37d02f20",
+    "hitokoto": "若他仍在世，现在可能会尝试做不同的音乐，发掘新人，不过我们个性一样，会去挑战自己。",
+    "type": "f",
+    "from": "网络",
+    "from_who": "张惠妹",
+    "creator": "PaulWong",
+    "creator_uid": 6535,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1596122132",
+    "length": 41
   }
 ]

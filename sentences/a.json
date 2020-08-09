@@ -15272,5 +15272,61 @@
     "commit_from": "web",
     "created_at": "1595572123",
     "length": 19
+  },
+  {
+    "id": 6411,
+    "uuid": "ba56c9fe-ee5d-4dfc-85e8-5dfe2908adc4",
+    "hitokoto": "做好人需要比恶人更狡猾，他们的名字终将成为传说，而真实沉没于历史的波涛中。",
+    "type": "a",
+    "from": "万国志",
+    "from_who": "万国志",
+    "creator": "厌猫",
+    "creator_uid": 5103,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1595664074",
+    "length": 37
+  },
+  {
+    "id": 6413,
+    "uuid": "9fe746bb-99e5-435e-90ab-023909ffda47",
+    "hitokoto": "一旦失去的东西，就再也拿不回来了。",
+    "type": "a",
+    "from": "黑执事",
+    "from_who": "夏尔·凡多姆海威",
+    "creator": "麻吉酷博异",
+    "creator_uid": 6796,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1595666602",
+    "length": 17
+  },
+  {
+    "id": 6415,
+    "uuid": "5a36601f-27a5-4355-b93a-03747680a382",
+    "hitokoto": "难道我输了吗？",
+    "type": "a",
+    "from": "火影忍者",
+    "from_who": "宇智波·带土",
+    "creator": "ITACHI",
+    "creator_uid": 6876,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1596514209",
+    "length": 7
+  },
+  {
+    "id": 6428,
+    "uuid": "d3c84c04-7658-43b7-a5f8-a14cb9f546f8",
+    "hitokoto": "遇到事情不能坐以待毙。",
+    "type": "a",
+    "from": "捷德奥特曼",
+    "from_who": null,
+    "creator": "雨啸青锋",
+    "creator_uid": 5808,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1596722538",
+    "length": 11
   }
 ]
