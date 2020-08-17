@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.35",
-  "updated_at": 1597590060977,
+  "bundle_version": "1.0.36",
+  "updated_at": 1597640461320,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1589676445322
@@ -47,7 +47,7 @@
       "name": "其他",
       "key": "g",
       "path": "./sentences/g.json",
-      "timestamp": 1596985260798
+      "timestamp": 1597640461302
     },
     {
       "name": "影视",
