@@ -7530,5 +7530,61 @@
     "commit_from": "web",
     "created_at": "1596861224",
     "length": 50
+  },
+  {
+    "id": 6440,
+    "uuid": "6cab6512-8cfe-4dfe-a1de-54532d884ff4",
+    "hitokoto": "旅人不识清明雨，深院碧桃香红袖。",
+    "type": "e",
+    "from": "日央",
+    "from_who": null,
+    "creator": "日央",
+    "creator_uid": 6882,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1596599067",
+    "length": 16
+  },
+  {
+    "id": 6443,
+    "uuid": "4c92849d-7011-43ea-957f-9c7180c83019",
+    "hitokoto": "若有来生，我愿重至，月明花下。化雨为雾，赏曾经，灼灼桃花。",
+    "type": "e",
+    "from": "夜言",
+    "from_who": "刘渤源",
+    "creator": "负雨",
+    "creator_uid": 6885,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1596624737",
+    "length": 29
+  },
+  {
+    "id": 6444,
+    "uuid": "87af43a0-60cc-42e8-9990-02707b7a5209",
+    "hitokoto": "负断只舟阡陌短，雨淋青瓦深巷中。",
+    "type": "e",
+    "from": "负雨",
+    "from_who": "刘渤源",
+    "creator": "负雨",
+    "creator_uid": 6885,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1596625748",
+    "length": 16
+  },
+  {
+    "id": 6448,
+    "uuid": "31a6ef13-6f24-4f71-82f0-3b92ffbe5961",
+    "hitokoto": "究竟要说多少次你才能明白：在真正的友谊中，最强大的不是能力，而是信任。",
+    "type": "e",
+    "from": "原创",
+    "from_who": "pokon548",
+    "creator": "pokon548",
+    "creator_uid": 4761,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1596952499",
+    "length": 35
   }
 ]
