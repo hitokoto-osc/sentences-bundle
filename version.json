@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.38",
-  "updated_at": 1597870860924,
+  "bundle_version": "1.0.39",
+  "updated_at": 1598162460915,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1597712000881
@@ -29,13 +29,13 @@
       "name": "文学",
       "key": "d",
       "path": "./sentences/d.json",
-      "timestamp": 1597870860851
+      "timestamp": 1598162460855
     },
     {
       "name": "原创",
       "key": "e",
       "path": "./sentences/e.json",
-      "timestamp": 1597870860878
+      "timestamp": 1598162460869
     },
     {
       "name": "网络",
