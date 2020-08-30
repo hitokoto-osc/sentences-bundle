@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.39",
-  "updated_at": 1598162460915,
+  "bundle_version": "1.0.40",
+  "updated_at": 1598756460957,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1597712000881
@@ -29,7 +29,7 @@
       "name": "文学",
       "key": "d",
       "path": "./sentences/d.json",
-      "timestamp": 1598162460855
+      "timestamp": 1598756460873
     },
     {
       "name": "原创",
@@ -59,7 +59,7 @@
       "name": "诗词",
       "key": "i",
       "path": "./sentences/i.json",
-      "timestamp": 1596985260845
+      "timestamp": 1598756460915
     },
     {
       "name": "网易云",
