@@ -6046,5 +6046,19 @@
     "commit_from": "web",
     "created_at": "1596764619",
     "length": 21
+  },
+  {
+    "id": 6456,
+    "uuid": "0c627f5d-708a-4aeb-b843-e3faf0370e24",
+    "hitokoto": "所以当你迷茫的时候，至少要笑着原谅自己，因为不被使用的心总有一天会枯萎。",
+    "type": "g",
+    "from": "九番目の迷路",
+    "from_who": "アリスシャッハと魔法の楽団",
+    "creator": "xiong_6",
+    "creator_uid": 6953,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1597399012",
+    "length": 36
   }
 ]
