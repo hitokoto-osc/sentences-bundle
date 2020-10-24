@@ -6060,5 +6060,33 @@
     "commit_from": "web",
     "created_at": "1597399012",
     "length": 36
+  },
+  {
+    "id": 6458,
+    "uuid": "0a47f2ff-c33a-4689-b0d7-2a8652e35d26",
+    "hitokoto": "岁月，你别催，该来的我不推。岁月，你别催，走远的仍要追。当不得不说再见的时候，挥别的那一刻就如同流水的光阴，谁能抵得过？谁能叹息？奈何！",
+    "type": "g",
+    "from": "天下足球",
+    "from_who": null,
+    "creator": "流幻的光",
+    "creator_uid": 7468,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1602838177",
+    "length": 68
+  },
+  {
+    "id": 6589,
+    "uuid": "7b6e5172-9bcd-445d-b2cd-70cf17cea0a1",
+    "hitokoto": "现实没有reset bottom, 没有extra life, 没有代打上分,没有游戏删挡再重来。",
+    "type": "g",
+    "from": "头号玩家",
+    "from_who": "老番茄",
+    "creator": "那隻喵",
+    "creator_uid": 7495,
+    "reviewer": 5198,
+    "commit_from": "web",
+    "created_at": "1603106257",
+    "length": 49
   }
 ]

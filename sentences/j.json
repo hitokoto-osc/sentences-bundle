@@ -432,5 +432,33 @@
     "commit_from": "web",
     "created_at": "1596107216",
     "length": 32
+  },
+  {
+    "id": 6457,
+    "uuid": "0e763da0-7eda-431f-9712-0accf900edb9",
+    "hitokoto": "我希望兜兜转转之后那个人还是你.",
+    "type": "j",
+    "from": "网易云音乐",
+    "from_who": "不要半夜躲在被子里哭了",
+    "creator": "VenomSnake",
+    "creator_uid": 7323,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1601639030",
+    "length": 16
+  },
+  {
+    "id": 6527,
+    "uuid": "fddf5bb3-f3ec-499b-b637-0ea093250c76",
+    "hitokoto": "哪有顷刻之间的心灰意冷，有的，只是日积月累的看透罢了。",
+    "type": "j",
+    "from": "觅楽-语录",
+    "from_who": "觅楽",
+    "creator": "悟空",
+    "creator_uid": 7256,
+    "reviewer": 6844,
+    "commit_from": "web",
+    "created_at": "1601175266",
+    "length": 27
   }
 ]
