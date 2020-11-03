@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.48",
-  "updated_at": 1604113261282,
+  "bundle_version": "1.0.49",
+  "updated_at": 1604408460959,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1597712000881
@@ -11,7 +11,7 @@
       "name": "动画",
       "key": "a",
       "path": "./sentences/a.json",
-      "timestamp": 1603688460797
+      "timestamp": 1604408460804
     },
     {
       "name": "漫画",
@@ -29,7 +29,7 @@
       "name": "文学",
       "key": "d",
       "path": "./sentences/d.json",
-      "timestamp": 1603990860698
+      "timestamp": 1604408460945
     },
     {
       "name": "原创",
@@ -47,7 +47,7 @@
       "name": "其他",
       "key": "g",
       "path": "./sentences/g.json",
-      "timestamp": 1603771260712
+      "timestamp": 1604408460953
     },
     {
       "name": "影视",
@@ -71,7 +71,7 @@
       "name": "哲学",
       "key": "k",
       "path": "./sentences/k.json",
-      "timestamp": 1603688460940
+      "timestamp": 1604408460958
     },
     {
       "name": "抖机灵",
