@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.54",
-  "updated_at": 1612512061019,
+  "bundle_version": "1.0.55",
+  "updated_at": 1613296860769,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1597712000881
@@ -29,7 +29,7 @@
       "name": "文学",
       "key": "d",
       "path": "./sentences/d.json",
-      "timestamp": 1612512060995
+      "timestamp": 1613296860691
     },
     {
       "name": "原创",
@@ -71,7 +71,7 @@
       "name": "哲学",
       "key": "k",
       "path": "./sentences/k.json",
-      "timestamp": 1612504860882
+      "timestamp": 1613296860768
     },
     {
       "name": "抖机灵",
