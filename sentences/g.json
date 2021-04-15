@@ -6242,5 +6242,19 @@
     "commit_from": "web",
     "created_at": "1606566352",
     "length": 33
+  },
+  {
+    "id": 6805,
+    "uuid": "b5e618f3-c161-4f11-9723-498d5e0ab1d4",
+    "hitokoto": "在战略上要藐视敌人，在战术上要重视敌人！",
+    "type": "g",
+    "from": "毛泽东选集",
+    "from_who": "毛主席",
+    "creator": "鹿饮林空·",
+    "creator_uid": 5643,
+    "reviewer": 9016,
+    "commit_from": "web",
+    "created_at": "1618384160",
+    "length": 20
   }
 ]
