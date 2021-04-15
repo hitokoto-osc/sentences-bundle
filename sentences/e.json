@@ -8132,5 +8132,47 @@
     "commit_from": "web",
     "created_at": "1606058425",
     "length": 29
+  },
+  {
+    "id": 6791,
+    "uuid": "30cc780f-b116-4c50-b3f1-60c0f841a44b",
+    "hitokoto": "你不是畏惧黑暗吗？那你为何还喜欢在黑暗潜行。",
+    "type": "e",
+    "from": "博客",
+    "from_who": "御辞",
+    "creator": "御辞",
+    "creator_uid": 7886,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1606564614",
+    "length": 22
+  },
+  {
+    "id": 6792,
+    "uuid": "2a3bd5fb-00fe-4532-949a-b272d3aad415",
+    "hitokoto": "我宁愿错过也不愿意相遇。",
+    "type": "e",
+    "from": "博客",
+    "from_who": "御辞",
+    "creator": "御辞",
+    "creator_uid": 7886,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1606564642",
+    "length": 12
+  },
+  {
+    "id": 6793,
+    "uuid": "7777404f-492e-437f-9471-c4e3d61bce70",
+    "hitokoto": "请不要带着不好的事情去做自己喜欢做的事情。",
+    "type": "e",
+    "from": "博客",
+    "from_who": "御辞",
+    "creator": "御辞",
+    "creator_uid": 7886,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1606564757",
+    "length": 21
   }
 ]

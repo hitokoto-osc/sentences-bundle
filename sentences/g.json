@@ -6186,5 +6186,61 @@
     "commit_from": "web",
     "created_at": "1605722174",
     "length": 17
+  },
+  {
+    "id": 6751,
+    "uuid": "337b159c-5485-47f5-83c4-646a58f44d39",
+    "hitokoto": "川端康成自杀， 在送往医院急救的途中， 对司机说了最后一句话： “路这么挤，辛苦你了”。",
+    "type": "g",
+    "from": "网络",
+    "from_who": "null",
+    "creator": "古いいい日",
+    "creator_uid": 7856,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1606309273",
+    "length": 44
+  },
+  {
+    "id": 6774,
+    "uuid": "55d85c9e-511e-4c76-a24b-b48f3ad36118",
+    "hitokoto": "I think I speak very poor English, but anyway I dare to say. This is very important.",
+    "type": "g",
+    "from": "江泽民",
+    "from_who": "null",
+    "creator": "SomeyaMako",
+    "creator_uid": 7867,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1606404446",
+    "length": 84
+  },
+  {
+    "id": 6794,
+    "uuid": "9bec85e2-4055-4c1c-b745-ac92e8167d74",
+    "hitokoto": "无论别人说什么，你只要坚持自我就好了。",
+    "type": "g",
+    "from": "oioweb",
+    "from_who": null,
+    "creator": "Daiyangcheng",
+    "creator_uid": 7801,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1606566101",
+    "length": 19
+  },
+  {
+    "id": 6795,
+    "uuid": "c0f4db09-0cee-4cb1-a855-bb9a74f03108",
+    "hitokoto": "我终于发觉了自己迷茫的原因。我并不是缺少地图，我缺少的，是目的地。",
+    "type": "g",
+    "from": "oioweb",
+    "from_who": null,
+    "creator": "Daiyangcheng",
+    "creator_uid": 7801,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1606566352",
+    "length": 33
   }
 ]

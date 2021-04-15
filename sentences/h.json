@@ -796,5 +796,19 @@
     "commit_from": "web",
     "created_at": "1605768805",
     "length": 26
+  },
+  {
+    "id": 6771,
+    "uuid": "4ee65e3d-5884-498d-931f-f4a0c4504b9c",
+    "hitokoto": "めまぐるしい景色の中,君だけが止まって見えた.",
+    "type": "h",
+    "from": "グランドエスケープ",
+    "from_who": "野田洋次郎",
+    "creator": "qiokio",
+    "creator_uid": 8506,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1613294162",
+    "length": 23
   }
 ]
