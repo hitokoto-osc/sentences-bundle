@@ -12024,5 +12024,33 @@
     "commit_from": "web",
     "created_at": "1616846761",
     "length": 24
+  },
+  {
+    "id": 6812,
+    "uuid": "d265984b-c2d3-43a8-a217-b04f56ba752d",
+    "hitokoto": "再小的个子，也能给沙漠留下长长的身影；再小的人物，也能让历史吐出重重的叹息。",
+    "type": "d",
+    "from": "《文化苦旅》",
+    "from_who": "余秋雨",
+    "creator": "yudong_820",
+    "creator_uid": 8663,
+    "reviewer": 9016,
+    "commit_from": "web",
+    "created_at": "1615031351",
+    "length": 38
+  },
+  {
+    "id": 6813,
+    "uuid": "89411d43-1cb3-44c7-9ffd-9386e2759f09",
+    "hitokoto": "一个笑就击败了一辈子，一滴泪就还清了一个人，一人花开，一人花落，这些从头到尾，无人问询。",
+    "type": "d",
+    "from": "《何以笙箫默》",
+    "from_who": "顾漫",
+    "creator": "yudong_820",
+    "creator_uid": 8663,
+    "reviewer": 9016,
+    "commit_from": "web",
+    "created_at": "1615031157",
+    "length": 44
   }
 ]
