@@ -908,5 +908,47 @@
     "commit_from": "web",
     "created_at": "1591841930",
     "length": 38
+  },
+  {
+    "id": 6665,
+    "uuid": "d0a7f63d-d4d1-48fc-9726-fa99cfc402ea",
+    "hitokoto": "军人天生就舍弃了战斗的意义！",
+    "type": "b",
+    "from": "机动战士高达00",
+    "from_who": "格拉汉姆",
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1604587434",
+    "length": 14
+  },
+  {
+    "id": 6668,
+    "uuid": "4e854a10-9603-423b-be31-1c71773c2b85",
+    "hitokoto": "两个人从监狱的窗户往外看，一个看见了土地，一个看见了星星。",
+    "type": "b",
+    "from": "jojo的奇妙冒险",
+    "from_who": "空条徐伦",
+    "creator": "草生出来了",
+    "creator_uid": 7674,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1604752220",
+    "length": 29
+  },
+  {
+    "id": 6678,
+    "uuid": "0ca5d0e4-0715-4c9c-af2d-cfbae544e7d4",
+    "hitokoto": "富江有天使的脸孔，但其实她是个恶魔，不，恶魔也比她要好一点。",
+    "type": "b",
+    "from": "富江",
+    "from_who": "伊藤润二",
+    "creator": "草生出来了",
+    "creator_uid": 7674,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1604753846",
+    "length": 30
   }
 ]

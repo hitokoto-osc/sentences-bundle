@@ -3820,5 +3820,19 @@
     "commit_from": "web",
     "created_at": "1604310397",
     "length": 12
+  },
+  {
+    "id": 6695,
+    "uuid": "c886f5fb-a72a-4c58-b8b1-185436383013",
+    "hitokoto": "我回来，是为了那些回不来的人。",
+    "type": "c",
+    "from": "英雄联盟",
+    "from_who": "Ada",
+    "creator": "Ada",
+    "creator_uid": 6698,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1604798647",
+    "length": 15
   }
 ]
