@@ -8398,5 +8398,19 @@
     "commit_from": "web",
     "created_at": "1606907197",
     "length": 12
+  },
+  {
+    "id": 6934,
+    "uuid": "f1198625-25a6-4d1f-8fe4-7d6cc21ffefc",
+    "hitokoto": "古有一言腰相印，谁教他、满箧婴鳞疏。",
+    "type": "i",
+    "from": "贺新郎·宣引东华去",
+    "from_who": "刘克庄",
+    "creator": "勾股定理",
+    "creator_uid": 8216,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1610256031",
+    "length": 18
   }
 ]

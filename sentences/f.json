@@ -6158,5 +6158,47 @@
     "commit_from": "web",
     "created_at": "1608438837",
     "length": 33
+  },
+  {
+    "id": 6944,
+    "uuid": "fb8d7e63-8bd3-4a67-8f5d-fa5c59945a5a",
+    "hitokoto": "从来就没有什么失败的人，只有半途而废的人。",
+    "type": "f",
+    "from": "锤子科技发布会",
+    "from_who": "罗永浩",
+    "creator": "菊花丶一紧",
+    "creator_uid": 8280,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1611112001",
+    "length": 21
+  },
+  {
+    "id": 6946,
+    "uuid": "03c9c019-c546-448a-8921-e18dbf8c930f",
+    "hitokoto": "爵士乐响起之时便是吉翁覆灭之日！",
+    "type": "f",
+    "from": "机动战士高达雷霆宙域",
+    "from_who": "null",
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1611229400",
+    "length": 16
+  },
+  {
+    "id": 6967,
+    "uuid": "8cf943da-62ed-4b2f-8da5-eb9a0ac92fac",
+    "hitokoto": "明知道这颗种子不会发芽，却依然每天盼望它能长大。",
+    "type": "f",
+    "from": "网络",
+    "from_who": "佚名",
+    "creator": "青医.",
+    "creator_uid": 8323,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1611562228",
+    "length": 24
   }
 ]
