@@ -12976,5 +12976,47 @@
     "commit_from": "web",
     "created_at": "1613568353",
     "length": 58
+  },
+  {
+    "id": 6973,
+    "uuid": "e472f82c-63b6-4a91-8718-8c391330b595",
+    "hitokoto": "醉翁之意不在酒，在乎山水之间也。",
+    "type": "d",
+    "from": "醉翁亭记",
+    "from_who": "欧阳修",
+    "creator": "BlueSu",
+    "creator_uid": 8526,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1613570482",
+    "length": 16
+  },
+  {
+    "id": 6974,
+    "uuid": "a628aed0-5fca-4629-8d99-290df7803ce9",
+    "hitokoto": "宁教我负天下人，休教天下人负我。",
+    "type": "d",
+    "from": "三国演义",
+    "from_who": "曹操",
+    "creator": "BlueSu",
+    "creator_uid": 8526,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1613570544",
+    "length": 16
+  },
+  {
+    "id": 6975,
+    "uuid": "142f44cd-3dd8-47db-8188-54f53c3b5526",
+    "hitokoto": "月出于东山之上，徘徊于斗牛之间。",
+    "type": "d",
+    "from": "前赤壁赋",
+    "from_who": "苏轼",
+    "creator": "BlueSu",
+    "creator_uid": 8526,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1613570569",
+    "length": 16
   }
 ]
