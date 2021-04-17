@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.69",
-  "updated_at": 1618664460743,
+  "bundle_version": "1.0.70",
+  "updated_at": 1618671660693,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1597712000881
@@ -17,7 +17,7 @@
       "name": "漫画",
       "key": "b",
       "path": "./sentences/b.json",
-      "timestamp": 1618477260761
+      "timestamp": 1618671660678
     },
     {
       "name": "游戏",
