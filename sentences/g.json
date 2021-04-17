@@ -6270,5 +6270,33 @@
     "commit_from": "web",
     "created_at": "1616686360",
     "length": 19
+  },
+  {
+    "id": 6852,
+    "uuid": "db9b7e0b-6daf-4f58-b0a7-b1a3bac3d7a7",
+    "hitokoto": "大部分的生活都乏味得不值一提，根本就没有不乏味的时候。换另一种牌子的香烟也好，搬到一个新地方去住也好，订阅别的报纸也好，坠入爱河又脱身出来也好，我们一直在以或轻浮或深沉的方式，来对抗日常生活那无法消释的乏味成分。",
+    "type": "g",
+    "from": "杜鲁门·卡波特",
+    "from_who": null,
+    "creator": "Yousazoe",
+    "creator_uid": 7945,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1607220029",
+    "length": 106
+  },
+  {
+    "id": 6856,
+    "uuid": "5c322745-725a-4cff-bda7-6a999ee98906",
+    "hitokoto": "我们活过的刹那，前后皆是暗夜。",
+    "type": "g",
+    "from": "费尔南多·佩索阿",
+    "from_who": null,
+    "creator": "Yousazoe",
+    "creator_uid": 7945,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1607266035",
+    "length": 15
   }
 ]
