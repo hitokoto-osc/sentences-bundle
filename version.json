@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.67",
-  "updated_at": 1618657260801,
+  "bundle_version": "1.0.68",
+  "updated_at": 1618660860973,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1597712000881
@@ -11,7 +11,7 @@
       "name": "动画",
       "key": "a",
       "path": "./sentences/a.json",
-      "timestamp": 1618653660848
+      "timestamp": 1618660860941
     },
     {
       "name": "漫画",
@@ -23,55 +23,55 @@
       "name": "游戏",
       "key": "c",
       "path": "./sentences/c.json",
-      "timestamp": 1618491660887
+      "timestamp": 1618660860948
     },
     {
       "name": "文学",
       "key": "d",
       "path": "./sentences/d.json",
-      "timestamp": 1618657260785
+      "timestamp": 1618660860952
     },
     {
       "name": "原创",
       "key": "e",
       "path": "./sentences/e.json",
-      "timestamp": 1618653660862
+      "timestamp": 1618660860957
     },
     {
       "name": "网络",
       "key": "f",
       "path": "./sentences/f.json",
-      "timestamp": 1618657260791
+      "timestamp": 1618660860961
     },
     {
       "name": "其他",
       "key": "g",
       "path": "./sentences/g.json",
-      "timestamp": 1618657260794
+      "timestamp": 1618660860964
     },
     {
       "name": "影视",
       "key": "h",
       "path": "./sentences/h.json",
-      "timestamp": 1618657260796
+      "timestamp": 1618660860967
     },
     {
       "name": "诗词",
       "key": "i",
       "path": "./sentences/i.json",
-      "timestamp": 1618495260752
+      "timestamp": 1618660860969
     },
     {
       "name": "网易云",
       "key": "j",
       "path": "./sentences/j.json",
-      "timestamp": 1618653660871
+      "timestamp": 1618660860971
     },
     {
       "name": "哲学",
       "key": "k",
       "path": "./sentences/k.json",
-      "timestamp": 1618657260800
+      "timestamp": 1618660860972
     },
     {
       "name": "抖机灵",

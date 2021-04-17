@@ -397,7 +397,7 @@
     "hitokoto": "有的人，终生都在怀念那个夏天。最好的我们，始终会留在那年八月。前程似锦是一句离别时说的话 ，祝你前程似锦也祝我前途无量。这首歌的评论刷的这么快，就让这条评论，带着我对你祝福沉下去吧。",
     "type": "j",
     "from": "网易云热评",
-    "from_who": "null",
+    "from_who": null,
     "creator": "HuiGuo",
     "creator_uid": 6591,
     "reviewer": 1,
@@ -509,7 +509,7 @@
     "hitokoto": "我在最没有能力的年纪，遇见了最想照顾一生的人。",
     "type": "j",
     "from": "网易云音乐",
-    "from_who": "null",
+    "from_who": null,
     "creator": "小透明",
     "creator_uid": 7788,
     "reviewer": 1044,
@@ -544,5 +544,19 @@
     "commit_from": "web",
     "created_at": "1607219032",
     "length": 16
+  },
+  {
+    "id": 6894,
+    "uuid": "55eb86a8-b0e5-4e35-986d-45db57c48b19",
+    "hitokoto": "成熟的人眼里满是前途，稚嫩的人眼里满是爱恨情仇。",
+    "type": "j",
+    "from": "网易云热评",
+    "from_who": null,
+    "creator": "星空下的约定",
+    "creator_uid": 7959,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1607433993",
+    "length": 24
   }
 ]
