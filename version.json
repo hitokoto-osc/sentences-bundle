@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.72",
-  "updated_at": 1618686060795,
+  "bundle_version": "1.0.73",
+  "updated_at": 1618722060796,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1597712000881
@@ -59,7 +59,7 @@
       "name": "诗词",
       "key": "i",
       "path": "./sentences/i.json",
-      "timestamp": 1618682460769
+      "timestamp": 1618722060793
     },
     {
       "name": "网易云",
