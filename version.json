@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.73",
-  "updated_at": 1618722060796,
+  "bundle_version": "1.0.74",
+  "updated_at": 1618736460809,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1597712000881
@@ -29,25 +29,25 @@
       "name": "文学",
       "key": "d",
       "path": "./sentences/d.json",
-      "timestamp": 1618686060782
+      "timestamp": 1618736460789
     },
     {
       "name": "原创",
       "key": "e",
       "path": "./sentences/e.json",
-      "timestamp": 1618664460731
+      "timestamp": 1618736460794
     },
     {
       "name": "网络",
       "key": "f",
       "path": "./sentences/f.json",
-      "timestamp": 1618664460735
+      "timestamp": 1618736460799
     },
     {
       "name": "其他",
       "key": "g",
       "path": "./sentences/g.json",
-      "timestamp": 1618660860964
+      "timestamp": 1618736460802
     },
     {
       "name": "影视",
@@ -59,13 +59,13 @@
       "name": "诗词",
       "key": "i",
       "path": "./sentences/i.json",
-      "timestamp": 1618722060793
+      "timestamp": 1618736460806
     },
     {
       "name": "网易云",
       "key": "j",
       "path": "./sentences/j.json",
-      "timestamp": 1618660860971
+      "timestamp": 1618736460808
     },
     {
       "name": "哲学",

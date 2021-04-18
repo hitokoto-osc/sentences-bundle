@@ -6200,5 +6200,33 @@
     "commit_from": "web",
     "created_at": "1611562228",
     "length": 24
+  },
+  {
+    "id": 6977,
+    "uuid": "807d8467-8d59-4ac0-aac6-46caef96251e",
+    "hitokoto": "我劝这两个年轻人耗子尾汁，好好反思，以后不要再犯这样的聪明，小聪明啊！",
+    "type": "f",
+    "from": "马老师视频",
+    "from_who": "马保国",
+    "creator": "ChRshichi",
+    "creator_uid": 8336,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1611710227",
+    "length": 35
+  },
+  {
+    "id": 6983,
+    "uuid": "eb65cb76-b24c-4373-a366-2f4112a28318",
+    "hitokoto": "予力众生，成就不凡。",
+    "type": "f",
+    "from": "Microsoft",
+    "from_who": null,
+    "creator": "MinatoXeon",
+    "creator_uid": 8352,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1611757666",
+    "length": 10
   }
 ]
