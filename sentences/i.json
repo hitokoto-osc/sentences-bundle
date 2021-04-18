@@ -8468,5 +8468,47 @@
     "commit_from": "web",
     "created_at": "1611846856",
     "length": 16
+  },
+  {
+    "id": 6994,
+    "uuid": "5b15e5f1-02c9-4ee5-ab59-ce96dab37971",
+    "hitokoto": "若要断酒法，醒眼看醉人。",
+    "type": "i",
+    "from": "沪谚",
+    "from_who": "胡祖德",
+    "creator": "卫庄",
+    "creator_uid": 8393,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1612185961",
+    "length": 12
+  },
+  {
+    "id": 6995,
+    "uuid": "f97b5288-7a1a-42f5-8c48-0df2a893ed82",
+    "hitokoto": "白苎新袍入嫩凉。春蚕食叶响回廊，禹门已准桃花浪，月殿先收桂子香。鹏北海，凤朝阳。又携书剑路茫茫。明年此日青云去，却笑人间举子忙。",
+    "type": "i",
+    "from": "鹧鸪天·送廓之秋试",
+    "from_who": "辛弃疾",
+    "creator": "卫庄",
+    "creator_uid": 8393,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1612186098",
+    "length": 64
+  },
+  {
+    "id": 6996,
+    "uuid": "b9f6814d-f464-4737-92b6-c2f6d24002b4",
+    "hitokoto": "曾经沧海难为水，除却巫山不是云。取次花丛懒回顾，半缘修道半缘君。",
+    "type": "i",
+    "from": "离思五首·其四",
+    "from_who": "元稹",
+    "creator": "卫庄",
+    "creator_uid": 8393,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1612186185",
+    "length": 32
   }
 ]

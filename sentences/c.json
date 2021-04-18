@@ -4086,5 +4086,47 @@
     "commit_from": "web",
     "created_at": "1611432622",
     "length": 13
+  },
+  {
+    "id": 7017,
+    "uuid": "27a88dd7-e35a-40fb-8863-50f9b9256a80",
+    "hitokoto": "经历这种痛苦的人，我一个就够了！但为什么你就是不明白呢？！",
+    "type": "c",
+    "from": "美少女万华镜·理与迷宫的少女",
+    "from_who": "莲华",
+    "creator": "深见",
+    "creator_uid": 8420,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1612428830",
+    "length": 29
+  },
+  {
+    "id": 7018,
+    "uuid": "b52c33c6-5fec-4d82-b487-55526687fae9",
+    "hitokoto": "我拒绝，再一次和你分开。",
+    "type": "c",
+    "from": "美少女万华镜·理与迷宫的少女",
+    "from_who": "夏彦深见",
+    "creator": "深见",
+    "creator_uid": 8420,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1612428891",
+    "length": 12
+  },
+  {
+    "id": 7019,
+    "uuid": "271e1211-11da-49c4-b001-0733ec17e16d",
+    "hitokoto": "所谓这个世界的真理，就是由爱所记录下的一切。",
+    "type": "c",
+    "from": "美少女万华镜·理与迷宫的少女",
+    "from_who": "夏彦深见",
+    "creator": "深见",
+    "creator_uid": 8420,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1612428989",
+    "length": 22
   }
 ]

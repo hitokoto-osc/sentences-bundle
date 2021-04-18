@@ -782,5 +782,33 @@
     "commit_from": "web",
     "created_at": "1609720869",
     "length": 38
+  },
+  {
+    "id": 7001,
+    "uuid": "acc05888-b576-4cd1-b991-b6fdcdd26e36",
+    "hitokoto": "君子不器。",
+    "type": "k",
+    "from": "论语·为政",
+    "from_who": "孔子",
+    "creator": "徐凤年",
+    "creator_uid": 8400,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1612235959",
+    "length": 5
+  },
+  {
+    "id": 7011,
+    "uuid": "772d87da-d1d9-4233-9576-c32e043dcdee",
+    "hitokoto": "别错把工具当成目的。",
+    "type": "k",
+    "from": "原创",
+    "from_who": "子公",
+    "creator": "wsll子公",
+    "creator_uid": 6971,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1612325502",
+    "length": 10
   }
 ]
