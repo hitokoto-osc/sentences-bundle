@@ -16182,5 +16182,33 @@
     "commit_from": "web",
     "created_at": "1612495014",
     "length": 36
+  },
+  {
+    "id": 7023,
+    "uuid": "96e184f7-a91c-4837-be8f-809e74742002",
+    "hitokoto": "小的时候，总认为世界是单纯的。",
+    "type": "a",
+    "from": "游戏人生 zero",
+    "from_who": null,
+    "creator": "YINGMJ",
+    "creator_uid": 8456,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1613612136",
+    "length": 15
+  },
+  {
+    "id": 7024,
+    "uuid": "b262892e-ff0d-4bbc-a7fd-c4574bd941e3",
+    "hitokoto": "这个世界对温柔的你可一点也不温柔呀。",
+    "type": "a",
+    "from": "军火女王",
+    "from_who": null,
+    "creator": "YINGMJ",
+    "creator_uid": 8456,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1613612166",
+    "length": 18
   }
 ]
