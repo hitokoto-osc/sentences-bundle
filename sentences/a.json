@@ -16210,5 +16210,47 @@
     "commit_from": "web",
     "created_at": "1613612166",
     "length": 18
+  },
+  {
+    "id": 7032,
+    "uuid": "9495988e-6991-490c-81fa-10da588a9b81",
+    "hitokoto": "蔷薇不管被冠以什么名字，却依旧可以芳香扑鼻。",
+    "type": "a",
+    "from": "我的青春恋爱物语果然有问题",
+    "from_who": "null",
+    "creator": "YINGMJ",
+    "creator_uid": 8456,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1613612105",
+    "length": 22
+  },
+  {
+    "id": 7033,
+    "uuid": "9ee63685-03bf-463f-9e68-2e10806f69fe",
+    "hitokoto": "伤害别人的人，要有被别人伤害的觉悟。",
+    "type": "a",
+    "from": "罪恶王冠",
+    "from_who": "null",
+    "creator": "YINGMJ",
+    "creator_uid": 8456,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1613612197",
+    "length": 18
+  },
+  {
+    "id": 7040,
+    "uuid": "218806c1-0075-4e72-b95c-e882af388b78",
+    "hitokoto": "人可以为他人舍弃自身的生命，但并不代表你我的伟大。伟大的、美丽的是已经逝去的他们，我们只是卑微地、愚昧地、苟延残喘地，在这地狱中挣扎，匍匐着拼命求生，仅此而已。",
+    "type": "a",
+    "from": "UN-GO",
+    "from_who": "结成新十郎",
+    "creator": "YINGMJ",
+    "creator_uid": 8456,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1613612041",
+    "length": 80
   }
 ]
