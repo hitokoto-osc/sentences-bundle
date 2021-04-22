@@ -922,5 +922,33 @@
     "commit_from": "web",
     "created_at": "1613444892",
     "length": 8
+  },
+  {
+    "id": 7048,
+    "uuid": "b2f7cc0a-dd7a-4ea3-a430-700024284732",
+    "hitokoto": "机会的大门没有把手，自己无法打开，当有人替你打开大门时，你能否毫不犹豫地走进去。",
+    "type": "h",
+    "from": "花牌情缘：结",
+    "from_who": "真岛太一",
+    "creator": "hito",
+    "creator_uid": 8536,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1613666036",
+    "length": 40
+  },
+  {
+    "id": 7057,
+    "uuid": "63af2ed6-4023-4c49-ae04-8c1e9ae5b00f",
+    "hitokoto": "跟你在一起的时光都，很耀眼，因为天气好，因为天气不好，因为天气刚刚好，每一天，都很美好。",
+    "type": "h",
+    "from": "孤单又灿烂的神：鬼怪",
+    "from_who": null,
+    "creator": "Mango",
+    "creator_uid": 8555,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1613825445",
+    "length": 44
   }
 ]

@@ -4142,5 +4142,33 @@
     "commit_from": "web",
     "created_at": "1613813347",
     "length": 25
+  },
+  {
+    "id": 7055,
+    "uuid": "dfe5e100-a633-43a4-baa2-a1690aa8f406",
+    "hitokoto": "外表可是具有欺骗性的。",
+    "type": "c",
+    "from": "英雄联盟",
+    "from_who": "妖姬",
+    "creator": "dfxlm",
+    "creator_uid": 8553,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1613812961",
+    "length": 11
+  },
+  {
+    "id": 7056,
+    "uuid": "ccb12217-cdc6-433c-855c-fd5d01349de1",
+    "hitokoto": "有些失误无法犯两次。",
+    "type": "c",
+    "from": "英雄联盟",
+    "from_who": "疾风剑豪",
+    "creator": "dfxlm",
+    "creator_uid": 8553,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1613813063",
+    "length": 10
   }
 ]

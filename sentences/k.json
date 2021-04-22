@@ -810,5 +810,33 @@
     "commit_from": "web",
     "created_at": "1612325502",
     "length": 10
+  },
+  {
+    "id": 7046,
+    "uuid": "1bbed6ba-bf08-43d3-9538-134340f0c526",
+    "hitokoto": "人生而自由，却无往不在枷锁中。",
+    "type": "k",
+    "from": "社会契约论",
+    "from_who": "卢梭",
+    "creator": "luo",
+    "creator_uid": 8515,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1613622005",
+    "length": 15
+  },
+  {
+    "id": 7047,
+    "uuid": "94422198-895d-459f-98e2-f0d36bb52f21",
+    "hitokoto": "所谓辉煌的人生，不过是欲望的囚徒。",
+    "type": "k",
+    "from": "网络",
+    "from_who": "叔本华",
+    "creator": "luo",
+    "creator_uid": 8515,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1613624478",
+    "length": 17
   }
 ]
