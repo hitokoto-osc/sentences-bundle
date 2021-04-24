@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.84",
-  "updated_at": 1619164860848,
+  "bundle_version": "1.0.85",
+  "updated_at": 1619244060732,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1597712000881
@@ -11,7 +11,7 @@
       "name": "动画",
       "key": "a",
       "path": "./sentences/a.json",
-      "timestamp": 1619024460742
+      "timestamp": 1619244060706
     },
     {
       "name": "漫画",
@@ -23,7 +23,7 @@
       "name": "游戏",
       "key": "c",
       "path": "./sentences/c.json",
-      "timestamp": 1619064060711
+      "timestamp": 1619244060714
     },
     {
       "name": "文学",
@@ -35,13 +35,13 @@
       "name": "原创",
       "key": "e",
       "path": "./sentences/e.json",
-      "timestamp": 1619164860838
+      "timestamp": 1619244060721
     },
     {
       "name": "网络",
       "key": "f",
       "path": "./sentences/f.json",
-      "timestamp": 1619024460763
+      "timestamp": 1619244060725
     },
     {
       "name": "其他",
