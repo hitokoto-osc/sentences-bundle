@@ -4,8 +4,8 @@
     "name": "动画",
     "desc": "Anime - 动画",
     "key": "a",
-    "created_at": "2020-05-15T10:48:09.000Z",
-    "updated_at": "2020-05-15T10:48:12.000Z",
+    "created_at": "2020-05-15T10:48:09Z",
+    "updated_at": "2020-05-15T10:48:12Z",
     "path": "./sentences/a.json"
   },
   {
@@ -13,7 +13,7 @@
     "name": "漫画",
     "desc": "Comic - 漫画",
     "key": "b",
-    "created_at": "2020-05-15T10:52:16.000Z",
+    "created_at": "2020-05-15T10:52:16Z",
     "updated_at": "2020-05-15T10:52:50.929Z",
     "path": "./sentences/b.json"
   },
@@ -22,8 +22,8 @@
     "name": "游戏",
     "desc": "Game - 游戏",
     "key": "c",
-    "created_at": "2020-05-15T10:53:35.000Z",
-    "updated_at": "2020-05-15T10:53:38.000Z",
+    "created_at": "2020-05-15T10:53:35Z",
+    "updated_at": "2020-05-15T10:53:38Z",
     "path": "./sentences/c.json"
   },
   {
@@ -40,8 +40,8 @@
     "name": "原创",
     "desc": "Original - 原创",
     "key": "e",
-    "created_at": "2020-05-15T10:59:39.000Z",
-    "updated_at": "2020-05-15T10:59:42.000Z",
+    "created_at": "2020-05-15T10:59:39Z",
+    "updated_at": "2020-05-15T10:59:42Z",
     "path": "./sentences/e.json"
   },
   {
@@ -58,8 +58,8 @@
     "name": "其他",
     "desc": "Other - 其他",
     "key": "g",
-    "created_at": "2020-05-15T11:01:51.000Z",
-    "updated_at": "2020-05-15T11:01:54.000Z",
+    "created_at": "2020-05-15T11:01:51Z",
+    "updated_at": "2020-05-15T11:01:54Z",
     "path": "./sentences/g.json"
   },
   {
@@ -67,8 +67,8 @@
     "name": "影视",
     "desc": "Video - 影视",
     "key": "h",
-    "created_at": "2020-05-15T11:02:33.000Z",
-    "updated_at": "2020-05-15T11:02:36.000Z",
+    "created_at": "2020-05-15T11:02:33Z",
+    "updated_at": "2020-05-15T11:02:36Z",
     "path": "./sentences/h.json"
   },
   {
@@ -94,7 +94,7 @@
     "name": "哲学",
     "desc": "Philosophy - 哲学",
     "key": "k",
-    "created_at": "2020-05-15T11:05:08.670Z",
+    "created_at": "2020-05-15T11:05:08.67Z",
     "updated_at": "2020-05-15T11:06:19.836Z",
     "path": "./sentences/k.json"
   },
