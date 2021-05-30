@@ -4184,5 +4184,47 @@
     "commit_from": "web",
     "created_at": "1613893220",
     "length": 24
+  },
+  {
+    "id": 7091,
+    "uuid": "c165d1f2-4587-49ab-a73b-355663f60d0e",
+    "hitokoto": "生物趋利避害，生命自私无情。",
+    "type": "c",
+    "from": "《明日方舟》",
+    "from_who": null,
+    "creator": "TN XG",
+    "creator_uid": 7060,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1615652741",
+    "length": 14
+  },
+  {
+    "id": 7092,
+    "uuid": "2fc8d4f5-f784-4702-99ca-31fb617d6b10",
+    "hitokoto": "你能预见，你能准备，你能承受，那你也能胜过不幸。",
+    "type": "c",
+    "from": "《明日方舟》",
+    "from_who": null,
+    "creator": "TN XG",
+    "creator_uid": 7060,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1615652762",
+    "length": 24
+  },
+  {
+    "id": 7099,
+    "uuid": "969094d4-9ea0-4fce-be13-0eef8913b012",
+    "hitokoto": "我要把你叫醒，哪怕赌上我的一切.",
+    "type": "c",
+    "from": "SummerPocket",
+    "from_who": null,
+    "creator": "EdgeNeko",
+    "creator_uid": 8761,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1615991423",
+    "length": 16
   }
 ]
