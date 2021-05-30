@@ -6256,5 +6256,19 @@
     "commit_from": "web",
     "created_at": "1614068423",
     "length": 26
+  },
+  {
+    "id": 7102,
+    "uuid": "47bab181-2d70-46df-ab37-cc0c83a7b070",
+    "hitokoto": "I'm still asking you to believe - not in my ability to bring about change, but in yours. I believe in change because I believe in you.",
+    "type": "f",
+    "from": "Twitter",
+    "from_who": "美国第44任总统 Barack Hussein Obama",
+    "creator": "roco",
+    "creator_uid": 8685,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1616333212",
+    "length": 134
   }
 ]
