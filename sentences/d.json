@@ -13452,5 +13452,19 @@
     "commit_from": "web",
     "created_at": "1619082206",
     "length": 33
+  },
+  {
+    "id": 7120,
+    "uuid": "8ccea8ba-58d5-4715-8d4d-cbeb338ece5a",
+    "hitokoto": "She was still too young to know that life never gives anything for nothing, and that a price is always exacted for what fate bestows.",
+    "type": "d",
+    "from": "Marie Antoinette: Bildnis eines mittleren",
+    "from_who": "Stefan Zweig",
+    "creator": "Aaron-Alison",
+    "creator_uid": 9054,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1619082248",
+    "length": 133
   }
 ]
