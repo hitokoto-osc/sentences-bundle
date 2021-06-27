@@ -16434,5 +16434,61 @@
     "commit_from": "web",
     "created_at": "1614084868",
     "length": 12
+  },
+  {
+    "id": 7141,
+    "uuid": "fca77279-1b14-4b1f-b906-2ea4aab10e5d",
+    "hitokoto": "有时写信才能表达，平时难以说出口的心声。",
+    "type": "a",
+    "from": "紫罗兰的永恒花园",
+    "from_who": "薇尔莉特·伊芙嘉登",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614341756",
+    "length": 20
+  },
+  {
+    "id": 7142,
+    "uuid": "fde0112a-fe11-4d87-a588-b8013328163e",
+    "hitokoto": "没有一封信不必要被送达，因为没有一份思念不需要被送达。",
+    "type": "a",
+    "from": "紫罗兰的永恒花园",
+    "from_who": "薇尔莉特·伊芙嘉登",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614342110",
+    "length": 27
+  },
+  {
+    "id": 7143,
+    "uuid": "9fb6e6cf-47d5-463a-b2da-f5b216cfb46c",
+    "hitokoto": "唯有前进，才能享受这被诅咒的疯狂。",
+    "type": "a",
+    "from": "机动战士高达雷霆宙域",
+    "from_who": null,
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614349660",
+    "length": 17
+  },
+  {
+    "id": 7144,
+    "uuid": "f49de0d7-451b-411f-af17-7efc4d0569bf",
+    "hitokoto": "不可以逃避！活下去！活下去也是一种战斗！",
+    "type": "a",
+    "from": "机动战士高达独角兽",
+    "from_who": "卡嘉丽·尤拉·阿斯哈",
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614349874",
+    "length": 20
   }
 ]

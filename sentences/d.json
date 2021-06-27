@@ -4396,20 +4396,6 @@
     "length": 47
   },
   {
-    "id": 4488,
-    "uuid": "83440e3a-8109-4e3c-9b56-9b9a54269e9c",
-    "hitokoto": "弱小和无知不是生存的障碍，傲慢才是。",
-    "type": "d",
-    "from": "三体",
-    "from_who": null,
-    "creator": "QIQI",
-    "creator_uid": 494,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1560767814",
-    "length": 18
-  },
-  {
     "id": 4489,
     "uuid": "8cb1b1bb-0e41-40c8-8b36-751b253566dc",
     "hitokoto": "当太阳落山以后，烛光永无法替代。",
@@ -13521,6 +13507,34 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1614086748",
+    "length": 16
+  },
+  {
+    "id": 7140,
+    "uuid": "d8dd895a-3af4-49e1-a746-de1d6df7e93e",
+    "hitokoto": "这个世界上，有种名为死后文的奇迹。",
+    "type": "d",
+    "from": "死后文",
+    "from_who": null,
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614341584",
+    "length": 17
+  },
+  {
+    "id": 7145,
+    "uuid": "57f991d6-15f9-4a6c-b3db-25d2f939f691",
+    "hitokoto": "曾经沧海难为水，除却巫山不是云。",
+    "type": "d",
+    "from": "离思五首·其四",
+    "from_who": "元稹",
+    "creator": "Hacbox",
+    "creator_uid": 8608,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614353730",
     "length": 16
   }
 ]
