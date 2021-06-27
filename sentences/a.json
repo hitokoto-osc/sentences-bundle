@@ -406,20 +406,6 @@
     "length": 28
   },
   {
-    "id": 30,
-    "uuid": "567f12b2-7bf6-4fb1-8fdd-c62e7e06b575",
-    "hitokoto": "隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。",
-    "type": "a",
-    "from": "言叶之庭",
-    "from_who": null,
-    "creator": "_____丶X。",
-    "creator_uid": 0,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1468605909",
-    "length": 22
-  },
-  {
     "id": 31,
     "uuid": "655acf6f-0b90-4284-a288-d197fb2f8a0f",
     "hitokoto": "就是因为你不好，才要留在你身边，给你幸福。",
@@ -2924,20 +2910,6 @@
     "commit_from": "web",
     "created_at": "1468605912",
     "length": 11
-  },
-  {
-    "id": 213,
-    "uuid": "b6a52119-73e8-4ae1-a066-8bae15283747",
-    "hitokoto": "隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。",
-    "type": "a",
-    "from": "言叶之庭",
-    "from_who": null,
-    "creator": "_____丶X。",
-    "creator_uid": 0,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1468605912",
-    "length": 22
   },
   {
     "id": 214,
@@ -5964,20 +5936,6 @@
     "length": 42
   },
   {
-    "id": 797,
-    "uuid": "bf671e3e-77ab-4fc1-a8c2-561f077ec743",
-    "hitokoto": "挡着在我们面前的是巨大庞然的人生，阻隔在我们中间的是广阔无际的时间，对于他们，我们无能为力…",
-    "type": "a",
-    "from": "秒速五厘米",
-    "from_who": null,
-    "creator": "hitokoto",
-    "creator_uid": 1775,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1478787580",
-    "length": 46
-  },
-  {
     "id": 799,
     "uuid": "55f5e370-1227-4c54-a3e7-dc84b65ab301",
     "hitokoto": "叶え！私たちの夢ー。",
@@ -6060,20 +6018,6 @@
     "commit_from": "web",
     "created_at": "1478787580",
     "length": 48
-  },
-  {
-    "id": 812,
-    "uuid": "1800984c-d21c-48cf-9ef1-fbedb0eb1985",
-    "hitokoto": "将愿望倾入不愿忘却的回忆中…",
-    "type": "a",
-    "from": "ef-a tale of memories",
-    "from_who": null,
-    "creator": "hitokoto",
-    "creator_uid": 1775,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1478787580",
-    "length": 14
   },
   {
     "id": 820,
@@ -6550,20 +6494,6 @@
     "commit_from": "web",
     "created_at": "1478787580",
     "length": 15
-  },
-  {
-    "id": 894,
-    "uuid": "f39ab572-ec36-4600-bc06-5984ba0a8fc5",
-    "hitokoto": "比自己,比梦想更重要的东西永远都存在着...",
-    "type": "a",
-    "from": "钢之炼金术师",
-    "from_who": null,
-    "creator": "hitokoto",
-    "creator_uid": 1775,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1478787580",
-    "length": 22
   },
   {
     "id": 896,
@@ -9168,20 +9098,6 @@
     "commit_from": "web",
     "created_at": "1320425511000",
     "length": 42
-  },
-  {
-    "id": 1387,
-    "uuid": "c515ce0d-4230-4c5a-b930-c91e45c774f8",
-    "hitokoto": "将愿望倾入不愿忘却的回忆中⋯⋯",
-    "type": "a",
-    "from": "ef-a tale of memories",
-    "from_who": null,
-    "creator": "lqsasa",
-    "creator_uid": 0,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1320586764000",
-    "length": 15
   },
   {
     "id": 1388,
@@ -12458,20 +12374,6 @@
     "commit_from": "web",
     "created_at": "1567080688",
     "length": 10
-  },
-  {
-    "id": 4601,
-    "uuid": "fdc39a48-6cb8-4e88-95ce-9e7e5e9a9712",
-    "hitokoto": "隐约雷鸣阴霾天空即使风无雨我亦留此地",
-    "type": "a",
-    "from": "言叶之庭",
-    "from_who": null,
-    "creator": "xifen",
-    "creator_uid": 3803,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1567141130",
-    "length": 18
   },
   {
     "id": 4604,

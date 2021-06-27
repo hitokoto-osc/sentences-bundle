@@ -2450,20 +2450,6 @@
     "length": 26
   },
   {
-    "id": 1390,
-    "uuid": "f9eba1b7-3f44-470b-a5ed-a79abaa388f0",
-    "hitokoto": "既不回头，何必不忘；既然无缘，何须誓言；今日种种，似水无痕；明夕何夕，君已陌路。",
-    "type": "g",
-    "from": "仙剑奇侠传",
-    "from_who": null,
-    "creator": "drr",
-    "creator_uid": 0,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1414334706000",
-    "length": 40
-  },
-  {
     "id": 1391,
     "uuid": "f088e9b9-5f63-4592-846b-91c7b625bc6f",
     "hitokoto": "爱的是你，最爱的还是你。",
@@ -2490,34 +2476,6 @@
     "commit_from": "web",
     "created_at": "1460208005000",
     "length": 34
-  },
-  {
-    "id": 1399,
-    "uuid": "b91bf94b-b434-4021-bfb5-b39643293f18",
-    "hitokoto": "少罗嗦，你还不如虫子呢！",
-    "type": "g",
-    "from": "迷糊餐厅",
-    "from_who": null,
-    "creator": "yiyan123568",
-    "creator_uid": 0,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1456328332000",
-    "length": 12
-  },
-  {
-    "id": 1401,
-    "uuid": "a7c26897-7e1e-4c48-8124-4b85eb5d5e02",
-    "hitokoto": "与众不同的生活方式很累人呢，因为找不到借口。",
-    "type": "g",
-    "from": "幸运星",
-    "from_who": null,
-    "creator": "tifG39",
-    "creator_uid": 0,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1464340738000",
-    "length": 22
   },
   {
     "id": 3585,
