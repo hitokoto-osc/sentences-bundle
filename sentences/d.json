@@ -8274,20 +8274,6 @@
     "length": 25
   },
   {
-    "id": 5279,
-    "uuid": "ec3e9adb-68ea-462a-a46e-d3ef3464657f",
-    "hitokoto": "人就是这样的，想来想去，犹豫来犹豫去，觉得自己没有准备好，勇气没攒够，其实只要迈出去了那一步，就会发现其实所有的一切早就准备好了。",
-    "type": "d",
-    "from": "撒野",
-    "from_who": null,
-    "creator": "仄言",
-    "creator_uid": 5164,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1583890023",
-    "length": 65
-  },
-  {
     "id": 5280,
     "uuid": "ce8bbc45-4ce3-42b8-b206-f84f54257666",
     "hitokoto": "有些意外是意料之中，有些意外是意料之外，而你，就是我意料之外的意外。",
@@ -8412,20 +8398,6 @@
     "commit_from": "web",
     "created_at": "1583887943",
     "length": 16
-  },
-  {
-    "id": 5289,
-    "uuid": "54e387f7-9146-4066-9931-e6d023e921ed",
-    "hitokoto": "是非在己，毁誉由人，得失不论。",
-    "type": "d",
-    "from": "魔道祖师",
-    "from_who": null,
-    "creator": "仄言",
-    "creator_uid": 5164,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1583887506",
-    "length": 15
   },
   {
     "id": 5290,
@@ -9532,20 +9504,6 @@
     "commit_from": "web",
     "created_at": "1588510460",
     "length": 20
-  },
-  {
-    "id": 6118,
-    "uuid": "43af588a-1fc7-4e92-8de8-3c300246911a",
-    "hitokoto": "世界灿烂盛大，欢迎回家。",
-    "type": "d",
-    "from": "全球高考",
-    "from_who": "木苏里",
-    "creator": "水夕是汐",
-    "creator_uid": 6127,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1588668111",
-    "length": 12
   },
   {
     "id": 6119,
@@ -11380,20 +11338,6 @@
     "commit_from": "web",
     "created_at": "1604798396",
     "length": 127
-  },
-  {
-    "id": 6689,
-    "uuid": "5593f858-8593-4776-a306-9ab838080995",
-    "hitokoto": "世界灿烂盛大，欢迎回家。",
-    "type": "d",
-    "from": "全球高考",
-    "from_who": "木苏里",
-    "creator": "凤雏",
-    "creator_uid": 7748,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1605342359",
-    "length": 12
   },
   {
     "id": 6690,

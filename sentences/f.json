@@ -1778,20 +1778,6 @@
     "length": 16
   },
   {
-    "id": 1152,
-    "uuid": "fd16e371-0de7-4593-873a-e218512d5e72",
-    "hitokoto": "即使无法掌握未来，也请不要忘了明天。",
-    "type": "f",
-    "from": "网络",
-    "from_who": null,
-    "creator": "vclike",
-    "creator_uid": 271,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1490370409",
-    "length": 18
-  },
-  {
     "id": 1159,
     "uuid": "90da2563-31fb-4b25-bef6-9fe3bd2c685f",
     "hitokoto": "人的欲望永无止境，就像我一开始，也只是想知道你的名字。",
