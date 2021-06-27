@@ -728,20 +728,6 @@
     "length": 14
   },
   {
-    "id": 54,
-    "uuid": "ebeb01ab-2c58-4422-b302-3755c484ebb8",
-    "hitokoto": "错的不是我， 错的是世界。",
-    "type": "a",
-    "from": "School Day",
-    "from_who": null,
-    "creator": "雪丶风",
-    "creator_uid": 0,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1468605909",
-    "length": 13
-  },
-  {
     "id": 55,
     "uuid": "0742b29c-c8d2-4ba3-b5ce-277a5b07bf39",
     "hitokoto": "和哥哥的便当比起来夜空的薯片就像大便一样！只会给我大便的大便夜空是笨蛋～笨蛋～",
@@ -6204,7 +6190,7 @@
   {
     "id": 840,
     "uuid": "5fb5b2d1-c54e-4c3c-a807-81ac777a80a7",
-    "hitokoto": "El Psy Congroo..",
+    "hitokoto": "El Psy Congroo!",
     "type": "a",
     "from": "命运石之门",
     "from_who": null,
@@ -6213,7 +6199,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1478787580",
-    "length": 16
+    "length": 15
   },
   {
     "id": 842,
@@ -9294,48 +9280,6 @@
     "commit_from": "web",
     "created_at": "1319300372000",
     "length": 24
-  },
-  {
-    "id": 1398,
-    "uuid": "2c3f5377-0648-4f4d-94cf-e331eda1503d",
-    "hitokoto": "(」・ω・)」うー！(／・ω・)／にゃー！",
-    "type": "a",
-    "from": "潜行吧奈亚子",
-    "from_who": null,
-    "creator": "繋がれた愚者",
-    "creator_uid": 0,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1336649410000",
-    "length": 21
-  },
-  {
-    "id": 1400,
-    "uuid": "2d7944e7-23a9-4346-b479-c3c5ba7152df",
-    "hitokoto": "欺骗世界，欺骗最初的你。",
-    "type": "a",
-    "from": "Steins;Gate",
-    "from_who": null,
-    "creator": "南都夜夜",
-    "creator_uid": 0,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1318870538000",
-    "length": 12
-  },
-  {
-    "id": 1402,
-    "uuid": "0d52905d-0e99-47d6-84a3-46e6baab4b32",
-    "hitokoto": "在走廊上跌倒会流鼻血，在人生中跌倒会流眼泪。",
-    "type": "a",
-    "from": "龙虎斗",
-    "from_who": null,
-    "creator": "雪白封印",
-    "creator_uid": 0,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1318780615000",
-    "length": 22
   },
   {
     "id": 1403,
@@ -16139,20 +16083,6 @@
     "reviewer": 1044,
     "commit_from": "web",
     "created_at": "1612286081",
-    "length": 14
-  },
-  {
-    "id": 7015,
-    "uuid": "14a0557c-d8a7-4305-84ad-f375221bd263",
-    "hitokoto": "错的不是我，错的是这个世界。",
-    "type": "a",
-    "from": "东京食尸鬼",
-    "from_who": null,
-    "creator": "ChRshichi",
-    "creator_uid": 8336,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1612363386",
     "length": 14
   },
   {

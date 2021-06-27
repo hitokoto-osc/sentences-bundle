@@ -966,20 +966,6 @@
     "length": 28
   },
   {
-    "id": 1127,
-    "uuid": "e90b9162-3888-4bdb-bff3-192ae52f7e89",
-    "hitokoto": "El psy congroo!",
-    "type": "c",
-    "from": "Steins;Gate",
-    "from_who": null,
-    "creator": "althezsh",
-    "creator_uid": 185,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1483436599",
-    "length": 15
-  },
-  {
     "id": 1153,
     "uuid": "33dc988d-9e42-4f1e-9cd5-bce0eb03fe5b",
     "hitokoto": "十步杀一人，千里不留行。",

@@ -2324,20 +2324,6 @@
     "length": 49
   },
   {
-    "id": 3685,
-    "uuid": "b2704cc1-5af6-42dc-8802-f1c5a34706ae",
-    "hitokoto": "忘记本身就是一件不可能的事情，别妄想了。",
-    "type": "f",
-    "from": "来自网络",
-    "from_who": null,
-    "creator": "妖酆",
-    "creator_uid": 1702,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1530014408",
-    "length": 20
-  },
-  {
     "id": 3687,
     "uuid": "4a328ee7-973e-44db-a2d9-a7a2fdd6b529",
     "hitokoto": "没有光明是不幸的么？不，需要光明才是真正的不幸。",
