@@ -3449,7 +3449,7 @@
     "hitokoto": "失去人性，失去很多；失去兽性，失去一切。",
     "type": "d",
     "from": "三体",
-    "from_who": null,
+    "from_who": "刘慈欣",
     "creator": "wky32768",
     "creator_uid": 2486,
     "reviewer": 0,
@@ -3778,20 +3778,6 @@
     "commit_from": "web",
     "created_at": "1549898912",
     "length": 23
-  },
-  {
-    "id": 4287,
-    "uuid": "9a2a3d4a-7117-4f8d-ab52-5e08f1927d04",
-    "hitokoto": "失去人性，失去很多；失去兽性，失去一切。",
-    "type": "d",
-    "from": "三体",
-    "from_who": null,
-    "creator": "smallxu",
-    "creator_uid": 2639,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1549898934",
-    "length": 20
   },
   {
     "id": 4288,
@@ -6664,20 +6650,6 @@
     "length": 25
   },
   {
-    "id": 4951,
-    "uuid": "2114b5c2-e206-43dd-9219-77ed94bb1389",
-    "hitokoto": "失去人性，失去很多；失去兽性，失去一切。",
-    "type": "d",
-    "from": "三体",
-    "from_who": null,
-    "creator": "ƒine",
-    "creator_uid": 4433,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1575717991",
-    "length": 20
-  },
-  {
     "id": 4955,
     "uuid": "0d707444-f4a5-43b3-a5dc-064e64579cf0",
     "hitokoto": "前进！前进！不择手段的前进！",
@@ -7210,20 +7182,6 @@
     "length": 46
   },
   {
-    "id": 5052,
-    "uuid": "fdd6eacd-fcad-4234-8a1d-53808bc4fdcc",
-    "hitokoto": "失去人性失去很多，失去兽性失去一切。",
-    "type": "d",
-    "from": "三体",
-    "from_who": null,
-    "creator": "005",
-    "creator_uid": 4640,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1578844407",
-    "length": 18
-  },
-  {
     "id": 5057,
     "uuid": "8a32e748-1d48-4e2d-9370-8e1845a21772",
     "hitokoto": "维罗纳的夏天找不到这样一朵好花。",
@@ -7502,20 +7460,6 @@
     "commit_from": "web",
     "created_at": "1582512880",
     "length": 10
-  },
-  {
-    "id": 5139,
-    "uuid": "a1c905df-6532-41de-9d34-6b03ed83f0ac",
-    "hitokoto": "失去人性，失去很多。失去兽性，失去一切。",
-    "type": "d",
-    "from": "三体",
-    "from_who": null,
-    "creator": "748883120",
-    "creator_uid": 5014,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1582305613",
-    "length": 20
   },
   {
     "id": 5140,
@@ -9812,20 +9756,6 @@
     "commit_from": "web",
     "created_at": "1589951443",
     "length": 38
-  },
-  {
-    "id": 6177,
-    "uuid": "a0cbf976-2b57-4c46-8163-3ca8e533077a",
-    "hitokoto": "失去人性，失去很多，失去兽性，失去一切。",
-    "type": "d",
-    "from": "三体 Ⅲ 死神永生",
-    "from_who": "刘慈欣",
-    "creator": "~灿若繁星~",
-    "creator_uid": 6249,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1589952224",
-    "length": 20
   },
   {
     "id": 6178,
