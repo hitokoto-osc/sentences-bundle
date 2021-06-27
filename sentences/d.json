@@ -13466,5 +13466,61 @@
     "commit_from": "web",
     "created_at": "1619082248",
     "length": 133
+  },
+  {
+    "id": 7128,
+    "uuid": "573e7b58-d71f-42a6-811e-1bb9ff00cfb4",
+    "hitokoto": "生命本没有意义，你要能给它什么意义，它就有什么意义。",
+    "type": "d",
+    "from": "人生有何意义",
+    "from_who": "胡适",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1613910298",
+    "length": 26
+  },
+  {
+    "id": 7132,
+    "uuid": "3a62e87f-e7d9-4549-9b51-4a8258b275aa",
+    "hitokoto": "苟富贵，毋相忘。",
+    "type": "d",
+    "from": "史记",
+    "from_who": "司马迁",
+    "creator": "伊稚斜",
+    "creator_uid": 8593,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614222878",
+    "length": 8
+  },
+  {
+    "id": 7134,
+    "uuid": "70d44248-63ad-4d2b-81a0-6b95b5e09a64",
+    "hitokoto": "未来是绝对不变的。再怎么挣扎，都无法改变故事最终的结局。",
+    "type": "d",
+    "from": "侦探已经死了",
+    "from_who": "米娅·惠特洛克",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614340647",
+    "length": 28
+  },
+  {
+    "id": 7135,
+    "uuid": "06e3ccb1-25d5-4938-8502-f5acf21237c2",
+    "hitokoto": "悲观的面对生命，乐观的面对生活。",
+    "type": "d",
+    "from": "张慧腾",
+    "from_who": null,
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614086748",
+    "length": 16
   }
 ]
