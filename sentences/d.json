@@ -13410,5 +13410,33 @@
     "commit_from": "web",
     "created_at": "1614353730",
     "length": 16
+  },
+  {
+    "id": 7146,
+    "uuid": "984b53b1-bfec-4752-a0ae-f4a02d1f201b",
+    "hitokoto": "我所理解的生活就是和喜欢的一切在一起。",
+    "type": "d",
+    "from": "《我所理解的生活》",
+    "from_who": "韩寒",
+    "creator": "慕瑾",
+    "creator_uid": 7588,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1619436251",
+    "length": 19
+  },
+  {
+    "id": 7147,
+    "uuid": "011d386e-a35a-4d24-bdfa-a86368743b57",
+    "hitokoto": "你之所以相信一个人说的话,是因为他说了你想听的话。",
+    "type": "d",
+    "from": "《摆渡人》",
+    "from_who": "克莱儿·麦克福尔",
+    "creator": "慕瑾",
+    "creator_uid": 7588,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1619436362",
+    "length": 25
   }
 ]
