@@ -6368,5 +6368,47 @@
     "commit_from": "web",
     "created_at": "1615039122",
     "length": 72
+  },
+  {
+    "id": 7207,
+    "uuid": "d3033962-dd20-440c-b029-3931bef98bdf",
+    "hitokoto": "黑暗的环境容易做错事。",
+    "type": "g",
+    "from": "学校",
+    "from_who": "某中学数学老师",
+    "creator": "roco",
+    "creator_uid": 8685,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1616598920",
+    "length": 11
+  },
+  {
+    "id": 7210,
+    "uuid": "444762ad-18bf-443e-ad79-c734308f68c6",
+    "hitokoto": "没有绝对的废物，只有放错位置的资源。",
+    "type": "g",
+    "from": "上海市垃圾分类",
+    "from_who": "上海市垃圾分类",
+    "creator": "雄鹰展翅",
+    "creator_uid": 7520,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1616257566",
+    "length": 18
+  },
+  {
+    "id": 7211,
+    "uuid": "3cfabe10-91d1-455a-af65-2d9c59b90fee",
+    "hitokoto": "刚好知交，刚好欢笑，刚好闪耀。",
+    "type": "g",
+    "from": "长大就好",
+    "from_who": "陈亦洺",
+    "creator": "一只上上签",
+    "creator_uid": 8825,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1616751141",
+    "length": 15
   }
 ]
