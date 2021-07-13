@@ -16392,5 +16392,33 @@
     "commit_from": "web",
     "created_at": "1614946756",
     "length": 45
+  },
+  {
+    "id": 7179,
+    "uuid": "86259de2-47db-4395-97c4-73f5fa238f3c",
+    "hitokoto": "战争是什么？战争只不过是一群人对于另一群人的屠杀，只不过是屠杀的对象有所不同而已。",
+    "type": "a",
+    "from": "紫罗兰的永恒花园",
+    "from_who": "艾丹",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614946963",
+    "length": 41
+  },
+  {
+    "id": 7181,
+    "uuid": "7b1c50d9-f021-44ea-a63a-9e3440796881",
+    "hitokoto": "对于那个被照顾的人，她剩下的人生变得不再孤单寂寞，变得不再因为生命必然的终结而不能沾染上明丽的色彩。",
+    "type": "a",
+    "from": "仰望半月的夜空",
+    "from_who": "Group Tac",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614947469",
+    "length": 50
   }
 ]
