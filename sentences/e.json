@@ -9434,5 +9434,33 @@
     "commit_from": "web",
     "created_at": "1616180445",
     "length": 24
+  },
+  {
+    "id": 7224,
+    "uuid": "3c280de7-d709-4b25-b722-78d0d56b31c6",
+    "hitokoto": "免费的馈赠往往标明了无形的价格。",
+    "type": "e",
+    "from": "亚亚努阿",
+    "from_who": "亚亚努阿",
+    "creator": "亚亚努阿",
+    "creator_uid": 8848,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1617029389",
+    "length": 16
+  },
+  {
+    "id": 7225,
+    "uuid": "746ba691-5103-4b13-88e6-b11ffc215fe6",
+    "hitokoto": "人类最大的敌人是傲慢，其次是无知。",
+    "type": "e",
+    "from": "亚亚努阿",
+    "from_who": "亚亚努阿",
+    "creator": "亚亚努阿",
+    "creator_uid": 8848,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1617029737",
+    "length": 17
   }
 ]
