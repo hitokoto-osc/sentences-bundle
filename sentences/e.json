@@ -9280,5 +9280,33 @@
     "commit_from": "web",
     "created_at": "1620107242",
     "length": 9
+  },
+  {
+    "id": 7153,
+    "uuid": "92d84ee6-d17c-4137-8ca3-d95e56bc770e",
+    "hitokoto": "你不努力，你得到的一切一定会被夺走！",
+    "type": "e",
+    "from": "Posherlunch",
+    "from_who": "Posherlunch",
+    "creator": "Posherlunch",
+    "creator_uid": 8610,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614354562",
+    "length": 18
+  },
+  {
+    "id": 7154,
+    "uuid": "b0bbe987-02a3-4360-b445-27fe2c336d46",
+    "hitokoto": "死亡本身并不可怕，可怕的是它成为了唯一的选择；生命本身并不可贵，可贵的是它能够迸发出的无限力量。",
+    "type": "e",
+    "from": "Mi",
+    "from_who": "Mi",
+    "creator": "Mi",
+    "creator_uid": 7310,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1614396826",
+    "length": 48
   }
 ]
