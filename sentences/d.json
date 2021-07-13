@@ -13774,5 +13774,47 @@
     "commit_from": "web",
     "created_at": "1615032086",
     "length": 65
+  },
+  {
+    "id": 7202,
+    "uuid": "ba7d943f-a90f-4252-822c-61c8f5a3b24c",
+    "hitokoto": "必静必清，无劳女形。无摇女精，乃可以长生。",
+    "type": "d",
+    "from": "庄子·在宥",
+    "from_who": "庄子",
+    "creator": "北落师门",
+    "creator_uid": 9123,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1619423656",
+    "length": 21
+  },
+  {
+    "id": 7204,
+    "uuid": "3bc87fab-6e22-4382-bf42-9ec4175cf2e1",
+    "hitokoto": "谁终将声震人间，必长久独自缄默；谁终将点燃闪电，必永恒如云漂泊。",
+    "type": "d",
+    "from": "敌基督者",
+    "from_who": "尼采",
+    "creator": "白衣卿相",
+    "creator_uid": 8700,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1615275387",
+    "length": 32
+  },
+  {
+    "id": 7205,
+    "uuid": "ca1b8fa9-824d-4579-8c38-88cca1ae0314",
+    "hitokoto": "月色与雪色之间，你是第三种绝色。日月与星辉之中，你是第四种难得。",
+    "type": "d",
+    "from": "绝色",
+    "from_who": "余光中",
+    "creator": "lzt",
+    "creator_uid": 5623,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1615384532",
+    "length": 32
   }
 ]
