@@ -4226,5 +4226,47 @@
     "commit_from": "web",
     "created_at": "1616804115",
     "length": 10
+  },
+  {
+    "id": 7238,
+    "uuid": "47cfae22-b157-4724-9cf3-1427be0be280",
+    "hitokoto": "迄今所有人生都大写着失败，但并不妨碍我继续向前。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "狂铁",
+    "creator": "信仰需长存",
+    "creator_uid": 9225,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1620515794",
+    "length": 24
+  },
+  {
+    "id": 7239,
+    "uuid": "c30b56b0-ab8e-4068-992c-76639babb2b6",
+    "hitokoto": "希望的钥匙，就在奇迹之间。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "老夫子",
+    "creator": "信仰需长存",
+    "creator_uid": 9225,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1620516125",
+    "length": 13
+  },
+  {
+    "id": 7240,
+    "uuid": "419c08a5-a77a-48d2-9326-fe21bf08b12b",
+    "hitokoto": "鲁莽，也比怯懦更接近勇敢。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "狂铁",
+    "creator": "信仰需长存",
+    "creator_uid": 9225,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1620516498",
+    "length": 13
   }
 ]
