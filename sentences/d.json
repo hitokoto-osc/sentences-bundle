@@ -13984,5 +13984,33 @@
     "commit_from": "web",
     "created_at": "1620480004",
     "length": 19
+  },
+  {
+    "id": 7248,
+    "uuid": "22bcc9cd-ec9a-4517-b948-10556121e2ee",
+    "hitokoto": "天雨粟，夜鬼哭。",
+    "type": "d",
+    "from": "淮南子",
+    "from_who": null,
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1620990214",
+    "length": 8
+  },
+  {
+    "id": 7249,
+    "uuid": "dbfdd7c5-ec78-4404-a81c-599c6df978a1",
+    "hitokoto": "惟江上之清风，与山间之明月，耳得之而为声，目遇之而成色，取之无禁，用之不竭，是造物者之无尽藏也。",
+    "type": "d",
+    "from": "前赤壁赋",
+    "from_who": "苏轼",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1620991745",
+    "length": 48
   }
 ]
