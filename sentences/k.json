@@ -936,5 +936,33 @@
     "commit_from": "web",
     "created_at": "1620184822",
     "length": 29
+  },
+  {
+    "id": 7250,
+    "uuid": "5562841a-6724-477f-8708-9243f7a76deb",
+    "hitokoto": "我的辫子长在头上，诸君的辫子长在心里。",
+    "type": "k",
+    "from": "觉醒年代",
+    "from_who": "辜鸿铭",
+    "creator": "社会主义好",
+    "creator_uid": 9813,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1626884230",
+    "length": 19
+  },
+  {
+    "id": 7251,
+    "uuid": "43574bd6-b563-45ab-9398-b09f33234f7a",
+    "hitokoto": "我们登上并非我们所选择的舞台，演出并非我们所选择的剧本。",
+    "type": "k",
+    "from": "Enchiridion",
+    "from_who": "爱比克泰德",
+    "creator": "Damon",
+    "creator_uid": 9899,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1627354139",
+    "length": 28
   }
 ]
