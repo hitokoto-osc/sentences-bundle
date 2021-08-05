@@ -992,5 +992,61 @@
     "commit_from": "web",
     "created_at": "1628137612",
     "length": 30
+  },
+  {
+    "id": 7256,
+    "uuid": "3246a54e-10cf-49f7-9348-3ff3712cbc38",
+    "hitokoto": "勇气，并不意味着永不恐惧，而是面对恐惧时能够坦然行动，克服畏缩心理，大步走向未知的未来。",
+    "type": "k",
+    "from": "少有人走的路：心智成熟的旅程",
+    "from_who": "M·斯科特·派克",
+    "creator": "折影轻梦",
+    "creator_uid": 9975,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1628137851",
+    "length": 44
+  },
+  {
+    "id": 7257,
+    "uuid": "d878773c-fdbb-4df1-a5e5-56643779b097",
+    "hitokoto": "君不见，教堂的梁柱，它们各自分开耸立，却能支撑教堂不倒。君不见，橡树与松柏，也不在彼此的阴影中成长。",
+    "type": "k",
+    "from": "少有人走的路：心智成熟的旅程",
+    "from_who": "M·斯科特·派克",
+    "creator": "折影轻梦",
+    "creator_uid": 9975,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1628137913",
+    "length": 50
+  },
+  {
+    "id": 7258,
+    "uuid": "b3c1c419-b562-4e9b-b812-383351c065ba",
+    "hitokoto": "很多人都只会观看，而不会思考。他们如果手边没有雪茄的话，就会用制造噪音来感觉自己的存在。",
+    "type": "k",
+    "from": "人生的智慧",
+    "from_who": "叔本华",
+    "creator": "折影轻梦",
+    "creator_uid": 9975,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1628138215",
+    "length": 44
+  },
+  {
+    "id": 7259,
+    "uuid": "6194a801-c4df-4135-9eb6-be2bbe2aa173",
+    "hitokoto": "如果我们对一个人的本质加以彻底谴责的话，那这个人唯一的选择就是视我们为敌人。",
+    "type": "k",
+    "from": "人生的智慧",
+    "from_who": "叔本华",
+    "creator": "折影轻梦",
+    "creator_uid": 9975,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1628138238",
+    "length": 38
   }
 ]
