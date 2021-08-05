@@ -1048,5 +1048,47 @@
     "commit_from": "web",
     "created_at": "1628138238",
     "length": 38
+  },
+  {
+    "id": 7265,
+    "uuid": "5d5523d1-e586-42dd-9b7a-faf4571d1090",
+    "hitokoto": "野蛮人之间人吃人，文明人之间人骗人。",
+    "type": "k",
+    "from": "人生的智慧",
+    "from_who": "叔本华",
+    "creator": "折影轻梦",
+    "creator_uid": 9975,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1628154622",
+    "length": 18
+  },
+  {
+    "id": 7266,
+    "uuid": "09636259-5f9e-4e5e-b78a-48bedf0e3bf3",
+    "hitokoto": "如果预计中的不幸没有发生的话，我们就会收获意外的喜悦。",
+    "type": "k",
+    "from": "人生的智慧",
+    "from_who": "叔本华",
+    "creator": "折影轻梦",
+    "creator_uid": 9975,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1628154241",
+    "length": 27
+  },
+  {
+    "id": 7267,
+    "uuid": "00f5e655-c46f-40f3-9587-0fd6aca0dd10",
+    "hitokoto": "哪怕一百个愚笨的人在一起聚会，也无法产生一个智慧的人。",
+    "type": "k",
+    "from": "人生的智慧",
+    "from_who": "叔本华",
+    "creator": "折影轻梦",
+    "creator_uid": 9975,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1628154260",
+    "length": 27
   }
 ]
