@@ -14096,5 +14096,33 @@
     "commit_from": "web",
     "created_at": "1617706046",
     "length": 20
+  },
+  {
+    "id": 7294,
+    "uuid": "7dc307dd-2018-4757-b2a8-0f67cac63407",
+    "hitokoto": "To be or not to be,this is a question.",
+    "type": "d",
+    "from": "哈姆莱特",
+    "from_who": "莎士比亚",
+    "creator": "Voyage.",
+    "creator_uid": 8919,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1617704061",
+    "length": 38
+  },
+  {
+    "id": 7295,
+    "uuid": "5d766c9b-69a1-43ad-96ac-c606bdbaa07c",
+    "hitokoto": "一切都将逝去，只有死神永生。",
+    "type": "d",
+    "from": "《三体》",
+    "from_who": "刘慈欣",
+    "creator": "宇智波派大星",
+    "creator_uid": 9077,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1619176942",
+    "length": 14
   }
 ]
