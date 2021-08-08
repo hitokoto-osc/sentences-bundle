@@ -8580,5 +8580,19 @@
     "commit_from": "web",
     "created_at": "1620047856",
     "length": 28
+  },
+  {
+    "id": 7312,
+    "uuid": "086aa54b-0a99-4a29-86d5-6b83c467c8a3",
+    "hitokoto": "读万卷书，行万里路。",
+    "type": "i",
+    "from": "《画禅室随笔——卷二》",
+    "from_who": "董其昌",
+    "creator": "acking",
+    "creator_uid": 9121,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1619420342",
+    "length": 10
   }
 ]
