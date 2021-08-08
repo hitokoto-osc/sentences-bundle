@@ -1020,5 +1020,47 @@
     "commit_from": "web",
     "created_at": "1615031769",
     "length": 18
+  },
+  {
+    "id": 7305,
+    "uuid": "b6170b83-7b60-43e5-aeb9-0917a4f2f2ce",
+    "hitokoto": "人们宁愿去关心一个蹩脚电影演员的吃喝拉撒和鸡毛蒜皮，而不愿了解一个普通人波涛汹涌的内心世界。",
+    "type": "h",
+    "from": "平凡的世界",
+    "from_who": "路遥",
+    "creator": "Hacbox",
+    "creator_uid": 8608,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1616906415",
+    "length": 46
+  },
+  {
+    "id": 7309,
+    "uuid": "14c04652-fc78-4e9f-82b8-f6db87766cb6",
+    "hitokoto": "就算是堕落浪子，也能力挽狂澜。",
+    "type": "h",
+    "from": "网剧棋魂",
+    "from_who": "方绪",
+    "creator": "方栩栩",
+    "creator_uid": 7486,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1619248402",
+    "length": 15
+  },
+  {
+    "id": 7310,
+    "uuid": "e0bbfce5-f0b7-4cfe-8475-e2978141093b",
+    "hitokoto": "如果你执意追逐我的幻影，迟早会被真正的我打败。",
+    "type": "h",
+    "from": "棋魂",
+    "from_who": "时光",
+    "creator": "方栩栩",
+    "creator_uid": 7486,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1619248191",
+    "length": 23
   }
 ]

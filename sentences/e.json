@@ -9546,5 +9546,33 @@
     "commit_from": "web",
     "created_at": "1620879173",
     "length": 15
+  },
+  {
+    "id": 7304,
+    "uuid": "9ebe5b0b-bf9c-45b7-b971-f6d1622c45f9",
+    "hitokoto": "个人的一生都可以用来逐梦、体验各种未知，而不是一天重复了几十年。",
+    "type": "e",
+    "from": "RS-Nocsi--博客论坛",
+    "from_who": "Abyss",
+    "creator": "Abyss",
+    "creator_uid": 8803,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1616847150",
+    "length": 32
+  },
+  {
+    "id": 7307,
+    "uuid": "32391904-48d7-4355-804b-24dd0b4d7fa3",
+    "hitokoto": "最遗憾的事情莫过于，我喜欢上你之后你不再喜欢我了。",
+    "type": "e",
+    "from": "原创",
+    "from_who": "Voyage.",
+    "creator": "Voyage.",
+    "creator_uid": 8919,
+    "reviewer": 9975,
+    "commit_from": "web",
+    "created_at": "1617703934",
+    "length": 25
   }
 ]
