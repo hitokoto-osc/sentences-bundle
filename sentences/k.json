@@ -98,20 +98,6 @@
     "length": 33
   },
   {
-    "id": 5114,
-    "uuid": "3a6893c9-6e1e-4ace-8d65-ed6b79bc2858",
-    "hitokoto": "太阳请不要晒黑我的皮肤，请晒黑我爸爸妈妈的头发。",
-    "type": "k",
-    "from": "酷狗音乐",
-    "from_who": null,
-    "creator": "凡为过往，皆为序章",
-    "creator_uid": 4914,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1581864791",
-    "length": 24
-  },
-  {
     "id": 5120,
     "uuid": "55c9ce9a-58fb-4fd7-9ba7-e81202b353e3",
     "hitokoto": "爱欲于人，犹如执炬，逆风而行，必有烧手之患",
@@ -796,20 +782,6 @@
     "commit_from": "web",
     "created_at": "1612235959",
     "length": 5
-  },
-  {
-    "id": 7011,
-    "uuid": "772d87da-d1d9-4233-9576-c32e043dcdee",
-    "hitokoto": "别错把工具当成目的。",
-    "type": "k",
-    "from": "原创",
-    "from_who": "子公",
-    "creator": "wsll子公",
-    "creator_uid": 6971,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1612325502",
-    "length": 10
   },
   {
     "id": 7046,
