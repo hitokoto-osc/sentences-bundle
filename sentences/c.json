@@ -4450,5 +4450,33 @@
     "commit_from": "web",
     "created_at": "1617968167",
     "length": 22
+  },
+  {
+    "id": 7347,
+    "uuid": "a403e500-5db6-41d0-86ca-62dc2276fd55",
+    "hitokoto": "我们都还没有说再见，所以我不会把它当做离别。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "空/莹",
+    "creator": "Hytf233",
+    "creator_uid": 7017,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1623334426",
+    "length": 22
+  },
+  {
+    "id": 7348,
+    "uuid": "3d21e92f-4ec4-4b30-b0e7-d809cc5a8e91",
+    "hitokoto": "只要不失去你的崇高，整个世界都会为你敞开。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "七天神像",
+    "creator": "Hytf233",
+    "creator_uid": 7017,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1623334541",
+    "length": 21
   }
 ]
