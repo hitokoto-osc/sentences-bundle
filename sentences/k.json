@@ -1496,5 +1496,33 @@
     "commit_from": "web",
     "created_at": "1628510764",
     "length": 20
+  },
+  {
+    "id": 7380,
+    "uuid": "c408e4a6-f79e-47a6-85d3-15b863964023",
+    "hitokoto": "纵使天光终将熄灭，我们也要歌颂太阳。",
+    "type": "k",
+    "from": "我来到这世上为的是看太阳",
+    "from_who": "巴尔蒙特",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1616761875",
+    "length": 18
+  },
+  {
+    "id": 7381,
+    "uuid": "1aac8a8f-f27c-4aee-85d0-d6a3aef985e6",
+    "hitokoto": "我们是圣徒，是智者，是行旅之人；我们如赶路的马夫额触天涯，我们即将奔赴一场浩劫，却如赴盛宴。",
+    "type": "k",
+    "from": "周天嘉",
+    "from_who": "周天嘉",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1616762013",
+    "length": 46
   }
 ]

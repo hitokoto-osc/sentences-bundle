@@ -14264,5 +14264,47 @@
     "commit_from": "web",
     "created_at": "1625308906",
     "length": 33
+  },
+  {
+    "id": 7383,
+    "uuid": "11808c08-c06d-4844-8682-b580e9b01d03",
+    "hitokoto": "我也晓得过苦楚，却无人渡我回家。",
+    "type": "d",
+    "from": "沈戚年随笔",
+    "from_who": "沈戚年",
+    "creator": "沈戚年",
+    "creator_uid": 9646,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1625545281",
+    "length": 16
+  },
+  {
+    "id": 7384,
+    "uuid": "9acbab58-8b64-429f-b25b-f86841f0f4bb",
+    "hitokoto": "纵星河万里，亦不及你一垂眸。",
+    "type": "d",
+    "from": "Samsara_soul",
+    "from_who": "Samsara_soul",
+    "creator": "Samsara_soul",
+    "creator_uid": 9625,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1625549984",
+    "length": 14
+  },
+  {
+    "id": 7385,
+    "uuid": "32de89a5-bc2c-4c19-9628-4123aeb83b4c",
+    "hitokoto": "生命的意义这件事，想必人类自己也不明白吧。",
+    "type": "d",
+    "from": "雨天的艾莉丝",
+    "from_who": "莉莉丝",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1616848158",
+    "length": 21
   }
 ]
