@@ -4590,5 +4590,19 @@
     "commit_from": "web",
     "created_at": "1617460178",
     "length": 19
+  },
+  {
+    "id": 7416,
+    "uuid": "7f7d4e57-2190-4842-b19a-faa564787156",
+    "hitokoto": "光明，制造瞎子。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "后羿",
+    "creator": "jigeshuohua",
+    "creator_uid": 10371,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1631331260",
+    "length": 8
   }
 ]
