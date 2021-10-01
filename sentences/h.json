@@ -1132,5 +1132,33 @@
     "commit_from": "web",
     "created_at": "1618661843",
     "length": 37
+  },
+  {
+    "id": 7434,
+    "uuid": "d6eb2fdb-dade-4ab7-8952-edf50d0f98e6",
+    "hitokoto": "每一局棋，都象征着世间万物的运转规律。一招一式，变化无穷，它应该是自由的，我们也是自由的。",
+    "type": "h",
+    "from": "网剧棋魂",
+    "from_who": "褚嬴",
+    "creator": "方栩栩",
+    "creator_uid": 7486,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1619248253",
+    "length": 45
+  },
+  {
+    "id": 7435,
+    "uuid": "c4fa0c3c-7335-4ff8-806f-f003ad7d8b09",
+    "hitokoto": "有的人，袖里能定乾坤；有的人，春风桃李，俯首为火种；有的人，浪子回头，成为星河里最亮的一颗。",
+    "type": "h",
+    "from": "网剧棋魂",
+    "from_who": "褚嬴",
+    "creator": "方栩栩",
+    "creator_uid": 7486,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1619248362",
+    "length": 46
   }
 ]
