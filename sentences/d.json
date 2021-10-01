@@ -14376,5 +14376,33 @@
     "commit_from": "web",
     "created_at": "1631331223",
     "length": 12
+  },
+  {
+    "id": 7424,
+    "uuid": "f38bd593-cc2a-4bc9-a187-380b8779b091",
+    "hitokoto": "挚爱之人死去的时候，我必须杀死自己，除此之外，别无他法。然若如此，罪业深重，只好继续长生下去的话，便保有一份仕奉的心情。",
+    "type": "d",
+    "from": "春日狂想",
+    "from_who": "中原中也",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1617968635",
+    "length": 60
+  },
+  {
+    "id": 7426,
+    "uuid": "e048291f-28bb-4b6d-9c75-26338f6578da",
+    "hitokoto": "能够生存下来的物种，并不是那些最强壮的，也不是那些最聪明的，而是那些对变化做出快速反应的。",
+    "type": "d",
+    "from": "物种的起源",
+    "from_who": "查尔斯·达尔文",
+    "creator": "phi",
+    "creator_uid": 8974,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1618116928",
+    "length": 45
   }
 ]
