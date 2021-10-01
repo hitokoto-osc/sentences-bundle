@@ -9896,5 +9896,33 @@
     "commit_from": "web",
     "created_at": "1618487714",
     "length": 21
+  },
+  {
+    "id": 7445,
+    "uuid": "041987dd-e347-4d50-b948-60010b741cbf",
+    "hitokoto": "你所有的大张旗鼓地表达，只是想换来一个能注意你的人。",
+    "type": "e",
+    "from": "自卑胆小且无用的慕瑾",
+    "from_who": "MJEnvieBelle",
+    "creator": "慕瑾",
+    "creator_uid": 7588,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1619436655",
+    "length": 26
+  },
+  {
+    "id": 7447,
+    "uuid": "e539fda5-654c-4b25-9de1-c4174ccd8a67",
+    "hitokoto": "穿川晓月皎明雾，烟起云涌润一花。",
+    "type": "e",
+    "from": "雾月夜",
+    "from_who": "Heriko Deltana",
+    "creator": "Heriko Deltana",
+    "creator_uid": 9134,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1619612103",
+    "length": 16
   }
 ]
