@@ -14446,5 +14446,33 @@
     "commit_from": "web",
     "created_at": "1619624389",
     "length": 16
+  },
+  {
+    "id": 7455,
+    "uuid": "02090214-7ae5-4490-88a7-1bc6c2ed6728",
+    "hitokoto": "成长是学着接受，一个人向前进的同时也是失去的过程。",
+    "type": "d",
+    "from": "《时间的答案》",
+    "from_who": "卢思浩",
+    "creator": "Honey",
+    "creator_uid": 9639,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1626940233",
+    "length": 25
+  },
+  {
+    "id": 7456,
+    "uuid": "02dc209f-2c12-4e69-b2a6-aa3af9ec89f6",
+    "hitokoto": "我们每个人都是往事的幸存者，最终学会的，都是如何和自己相处。",
+    "type": "d",
+    "from": "《时间的答案》",
+    "from_who": "卢思浩",
+    "creator": "Honey",
+    "creator_uid": 9639,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1626940290",
+    "length": 30
   }
 ]
