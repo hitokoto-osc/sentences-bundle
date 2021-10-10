@@ -16630,5 +16630,47 @@
     "commit_from": "web",
     "created_at": "1626923539",
     "length": 21
+  },
+  {
+    "id": 7461,
+    "uuid": "1ed07bc1-78ed-4b8a-9c84-48313b5d5ae3",
+    "hitokoto": "在染成红色的天空下，在雨中，流淌着，漂浮着的，最软弱的自己的倒影，朦胧蓝色的回忆。",
+    "type": "a",
+    "from": "知晓天空之蓝的人啊",
+    "from_who": null,
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1627502420",
+    "length": 41
+  },
+  {
+    "id": 7462,
+    "uuid": "930aafc2-50c9-412a-a327-5ef3c3c024fd",
+    "hitokoto": "彩虹不只是天上才有，也可以在心中架起。",
+    "type": "a",
+    "from": "P.A.R.T.Y假面骑士ZIO剧场版主题曲",
+    "from_who": null,
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1627502680",
+    "length": 19
+  },
+  {
+    "id": 7463,
+    "uuid": "65205a74-2620-42e1-8d01-af91bacce77e",
+    "hitokoto": "尽管我们的手中空无一物，却能因此紧紧相牵，当你一人时请别迷茫，因为我无论何时都不会放手。",
+    "type": "a",
+    "from": "尽管我们的手中空无一物",
+    "from_who": null,
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1627502923",
+    "length": 44
   }
 ]
