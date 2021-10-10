@@ -16686,5 +16686,47 @@
     "commit_from": "web",
     "created_at": "1627927358",
     "length": 20
+  },
+  {
+    "id": 7467,
+    "uuid": "0a759ae9-420e-47a2-939a-dfcf74add0c0",
+    "hitokoto": "是你，是你，告诉我，若能在黑暗中绽放光芒，便能化作星空，悲伤化作笑颜，已经无需隐藏，漫天闪耀着的星光，都会为你照亮前行。",
+    "type": "a",
+    "from": "四月是你的谎言",
+    "from_who": null,
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1627502522",
+    "length": 60
+  },
+  {
+    "id": 7468,
+    "uuid": "dc24259a-4310-4b18-b17c-436f49274685",
+    "hitokoto": "即使得不到旁人的认同，即使不曾拥有像样的地位，我们小小的双手也一定，能为明天的某人带去笑容。",
+    "type": "a",
+    "from": "尽管我们的手中空无一物",
+    "from_who": null,
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1627502997",
+    "length": 46
+  },
+  {
+    "id": 7469,
+    "uuid": "1498c578-5ee7-49b2-b888-b3ba9619414e",
+    "hitokoto": "宁愿带着浑身伤痛勇敢站起 让泪水洒满尘埃与苍穹之间。",
+    "type": "a",
+    "from": "机动战士高达NT",
+    "from_who": null,
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1627503125",
+    "length": 26
   }
 ]
