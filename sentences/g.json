@@ -6494,5 +6494,19 @@
     "commit_from": "web",
     "created_at": "1617527533",
     "length": 22
+  },
+  {
+    "id": 7475,
+    "uuid": "0bed52ae-f294-44a3-bf09-8d3198375ddd",
+    "hitokoto": "眉若远山，目运星河。",
+    "type": "g",
+    "from": "《源初幻想》",
+    "from_who": "鹤空流乂",
+    "creator": "鹤空流乂",
+    "creator_uid": 9962,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1627988349",
+    "length": 10
   }
 ]
