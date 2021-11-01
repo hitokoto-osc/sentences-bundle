@@ -14642,5 +14642,47 @@
     "commit_from": "web",
     "created_at": "1629606553",
     "length": 53
+  },
+  {
+    "id": 7502,
+    "uuid": "ca89edf3-d745-4b14-a6cc-abe6b80c56d7",
+    "hitokoto": "所有命运的馈赠，早已暗中标注好了价码。",
+    "type": "d",
+    "from": "断头皇后",
+    "from_who": "茨威格",
+    "creator": "刘七",
+    "creator_uid": 10039,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1629971463",
+    "length": 19
+  },
+  {
+    "id": 7504,
+    "uuid": "058256a3-49ef-454c-ad80-7e3f6940d83d",
+    "hitokoto": "山川异域，风月同天。",
+    "type": "d",
+    "from": "唐大和上东征传",
+    "from_who": "真人元开",
+    "creator": "DreamOne",
+    "creator_uid": 9209,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1630166069",
+    "length": 10
+  },
+  {
+    "id": 7505,
+    "uuid": "9aadb901-c0f5-42b6-b167-2513584cc438",
+    "hitokoto": "欲报相思时，君已拂袖去，为伊消得人憔悴，悔恨曾今时。",
+    "type": "d",
+    "from": "遗忘",
+    "from_who": "轮回",
+    "creator": "scott",
+    "creator_uid": 10246,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1630205978",
+    "length": 26
   }
 ]
