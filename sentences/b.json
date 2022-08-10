@@ -408,7 +408,7 @@
   {
     "id": 1318,
     "uuid": "567113c1-7201-4a71-96cf-02b5eaac07fd",
-    "hitokoto": "爱与友情以及勇气改变不了一个人，只有受伤才能让人成长",
+    "hitokoto": "爱与友情以及勇气改变不了一个人，只有受伤才能让人成长。",
     "type": "b",
     "from": "我的青春恋爱物语果然有问题",
     "from_who": null,
@@ -417,7 +417,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1512889263",
-    "length": 26
+    "length": 27
   },
   {
     "id": 1319,
@@ -464,7 +464,7 @@
   {
     "id": 1327,
     "uuid": "484cf2b5-e276-4b8a-9c0e-0a718d10e40b",
-    "hitokoto": "温柔正确的人总是难以生存，因为这世界既不温柔，也不正确",
+    "hitokoto": "温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。",
     "type": "b",
     "from": "我的青春恋爱物语果然有问题",
     "from_who": null,
@@ -473,7 +473,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1512889040",
-    "length": 27
+    "length": 28
   },
   {
     "id": 1349,
@@ -632,7 +632,7 @@
   {
     "id": 4060,
     "uuid": "b5c7f1d4-a59d-4c62-b897-4668f7ede104",
-    "hitokoto": "憧憬是距离理解最遥远的感情",
+    "hitokoto": "憧憬是距离理解最遥远的感情。",
     "type": "b",
     "from": "BLEACH",
     "from_who": null,
@@ -641,7 +641,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1543638763",
-    "length": 13
+    "length": 14
   },
   {
     "id": 4061,
@@ -688,7 +688,7 @@
   {
     "id": 4128,
     "uuid": "6ab077e8-7a89-4492-9e98-02cf8f23ffe4",
-    "hitokoto": "我又不是因为你们的评价才去当的英雄，是因为我想当才去当的",
+    "hitokoto": "我又不是因为你们的评价才去当的英雄，是因为我想当才去当的。",
     "type": "b",
     "from": "一拳超人",
     "from_who": null,
@@ -697,7 +697,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1542691773",
-    "length": 28
+    "length": 29
   },
   {
     "id": 4147,
@@ -716,7 +716,7 @@
   {
     "id": 4148,
     "uuid": "b1574dc2-9d8e-427d-b578-1d8da918b337",
-    "hitokoto": "憧憬是距离理解最遥远的感情",
+    "hitokoto": "憧憬是距离理解最遥远的感情。",
     "type": "b",
     "from": "蓝染惣右介",
     "from_who": null,
@@ -725,7 +725,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1543638668",
-    "length": 13
+    "length": 14
   },
   {
     "id": 4265,
@@ -1062,5 +1062,33 @@
     "commit_from": "web",
     "created_at": "1628008477",
     "length": 21
+  },
+  {
+    "id": 7747,
+    "uuid": "57ad68ec-29b7-4a41-9d75-0efe093bfafc",
+    "hitokoto": "因为失去,所以明白。",
+    "type": "b",
+    "from": "火影忍者",
+    "from_who": "漩涡鸣人",
+    "creator": "xiaoyong",
+    "creator_uid": 11323,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1642904654",
+    "length": 10
+  },
+  {
+    "id": 7985,
+    "uuid": "ca64e223-0336-4af1-a5b4-038620ebc8d9",
+    "hitokoto": "看得见交错的存在，听得见想要沟通的话语，而在今天也细细地品味，名为“邂逅”的那项奇迹。",
+    "type": "b",
+    "from": "夏目友人帐",
+    "from_who": null,
+    "creator": "南有乔木",
+    "creator_uid": 12276,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1651901447",
+    "length": 43
   }
 ]

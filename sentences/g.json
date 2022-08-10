@@ -1276,7 +1276,7 @@
   {
     "id": 891,
     "uuid": "a1fd9e40-a1ee-48f1-9f1e-5979a9c74d7e",
-    "hitokoto": "成熟不是心变老,是泪在打转还能微笑",
+    "hitokoto": "成熟不是心变老，是泪在打转还能微笑。",
     "type": "g",
     "from": "天边",
     "from_who": "张韶涵",
@@ -1285,7 +1285,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1478787580",
-    "length": 17
+    "length": 18
   },
   {
     "id": 892,
@@ -1668,7 +1668,7 @@
   {
     "id": 1080,
     "uuid": "a6718f5e-de57-4384-8e41-dd796feb0d6b",
-    "hitokoto": "十年饮冰，难凉热血",
+    "hitokoto": "十年饮冰，难凉热血。",
     "type": "g",
     "from": "饮冰室文集",
     "from_who": "梁启超",
@@ -1677,7 +1677,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1481252569",
-    "length": 9
+    "length": 10
   },
   {
     "id": 1081,
@@ -1692,20 +1692,6 @@
     "commit_from": "web",
     "created_at": "1481443617",
     "length": 31
-  },
-  {
-    "id": 1082,
-    "uuid": "ab89b12e-359b-4cfe-b50d-de35a20bf928",
-    "hitokoto": "众里寻他千百度，蓦然回首，那人却在，灯火阑珊处。",
-    "type": "g",
-    "from": "青玉案·元夕",
-    "from_who": null,
-    "creator": "131",
-    "creator_uid": 146,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1481559051",
-    "length": 24
   },
   {
     "id": 1083,
@@ -1948,7 +1934,7 @@
   {
     "id": 1198,
     "uuid": "3d098144-60aa-4941-8f57-6d92ad1aa605",
-    "hitokoto": "生而贫穷并无过错,死而贫穷才是遗憾.",
+    "hitokoto": "生而贫穷并无过错，死而贫穷才是遗憾。",
     "type": "g",
     "from": "财箴",
     "from_who": null,
@@ -2070,20 +2056,6 @@
     "commit_from": "web",
     "created_at": "1507184974",
     "length": 16
-  },
-  {
-    "id": 1263,
-    "uuid": "a58936ac-f3fb-4e5d-838e-a77a7219d1a4",
-    "hitokoto": "渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。",
-    "type": "g",
-    "from": "滕王阁序",
-    "from_who": null,
-    "creator": "毛毛毛布斯",
-    "creator_uid": 562,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1507184994",
-    "length": 24
   },
   {
     "id": 1264,
@@ -2676,7 +2648,7 @@
   {
     "id": 3645,
     "uuid": "a72dabd1-7754-47ac-8c18-c80b2e05b214",
-    "hitokoto": "人是一个事件，它无法判断自己，是好是坏，全都交由他人评判",
+    "hitokoto": "人是一个事件，它无法判断自己，是好是坏，全都交由他人评判。",
     "type": "g",
     "from": "荣格自传",
     "from_who": null,
@@ -2685,7 +2657,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1527901264",
-    "length": 28
+    "length": 29
   },
   {
     "id": 3654,
@@ -2718,7 +2690,7 @@
   {
     "id": 3698,
     "uuid": "ee963570-f858-4097-b343-503a3f2e4708",
-    "hitokoto": "知我者谓我心忧",
+    "hitokoto": "知我者谓我心忧。",
     "type": "g",
     "from": "佚名.",
     "from_who": null,
@@ -2727,7 +2699,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1530635694",
-    "length": 7
+    "length": 8
   },
   {
     "id": 3707,
@@ -2746,7 +2718,7 @@
   {
     "id": 3711,
     "uuid": "ea588c4b-1cd8-400b-9350-db27d0e3e2e1",
-    "hitokoto": "饭可以一日不吃，水可以一日不喝，但题不可以一日不贺",
+    "hitokoto": "饭可以一日不吃，水可以一日不喝，但题不可以一日不贺。",
     "type": "g",
     "from": "贺指导",
     "from_who": null,
@@ -2755,7 +2727,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1532860764",
-    "length": 25
+    "length": 26
   },
   {
     "id": 3714,
@@ -2900,7 +2872,7 @@
   {
     "id": 3790,
     "uuid": "ffdb670d-e567-4405-9590-981289cb20e6",
-    "hitokoto": "时间背着我悄悄捏碎从前",
+    "hitokoto": "时间背着我悄悄捏碎从前。",
     "type": "g",
     "from": "消失",
     "from_who": null,
@@ -2909,7 +2881,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1533353534",
-    "length": 11
+    "length": 12
   },
   {
     "id": 3796,
@@ -3654,20 +3626,6 @@
     "length": 20
   },
   {
-    "id": 4205,
-    "uuid": "20deb116-4bed-48f4-9092-124ba6b83cd2",
-    "hitokoto": "参差荇菜，左右采之。窈窕淑女，琴瑟友之。",
-    "type": "g",
-    "from": "关雎",
-    "from_who": null,
-    "creator": "不朽千秋",
-    "creator_uid": 2571,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1545974173",
-    "length": 20
-  },
-  {
     "id": 4206,
     "uuid": "1e0734a1-4869-489b-afd2-d9483cd0806f",
     "hitokoto": "参差荇菜，左右芼之。窈窕淑女，钟鼓乐之。",
@@ -4076,7 +4034,7 @@
   {
     "id": 4348,
     "uuid": "b357e735-c398-4d4a-a475-bf9fd09b7055",
-    "hitokoto": "未来不是被给予的，而是自己争取的",
+    "hitokoto": "未来不是被给予的，而是自己争取的。",
     "type": "g",
     "from": "尼尔：机械纪元",
     "from_who": null,
@@ -4085,7 +4043,7 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1551932443",
-    "length": 16
+    "length": 17
   },
   {
     "id": 4351,
@@ -6536,5 +6494,327 @@
     "commit_from": "web",
     "created_at": "1629230019",
     "length": 54
+  },
+  {
+    "id": 7521,
+    "uuid": "74f675a6-db9b-4ea8-8404-bd7535f66fd5",
+    "hitokoto": "我们生来，就是为了，在宇宙中，留下印记。",
+    "type": "g",
+    "from": "史蒂夫·乔布斯",
+    "from_who": "Steve Jobs",
+    "creator": "ZhiLing",
+    "creator_uid": 8100,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1633579937",
+    "length": 20
+  },
+  {
+    "id": 7527,
+    "uuid": "7a75f461-aba6-4b13-8c1d-84fa3582cc6e",
+    "hitokoto": "生活中最重要的不是凯旋，而是奋斗。",
+    "type": "g",
+    "from": "《人民日报》",
+    "from_who": "《人民日报》",
+    "creator": "Clouder",
+    "creator_uid": 10584,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1634137100",
+    "length": 17
+  },
+  {
+    "id": 7536,
+    "uuid": "218c8216-c494-4e3a-af49-01ce1694a892",
+    "hitokoto": "要坚持去寻找那剩下的3%，不要因为那97%而放弃​。",
+    "type": "g",
+    "from": "戒毒所",
+    "from_who": null,
+    "creator": "四方霸主",
+    "creator_uid": 8349,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1633792402",
+    "length": 26
+  },
+  {
+    "id": 7609,
+    "uuid": "4be2af32-c7a0-4a97-80f1-c13e679ffa63",
+    "hitokoto": "这趟旅行若算开心，亦是无负这一生。",
+    "type": "g",
+    "from": "落花流水",
+    "from_who": "陈奕迅",
+    "creator": "White_mu",
+    "creator_uid": 9796,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1635042310",
+    "length": 17
+  },
+  {
+    "id": 7643,
+    "uuid": "91365f01-1223-4d70-9bcd-42c936c1262b",
+    "hitokoto": "无论多么痛苦，都要把故事的书页翻下去；总有一天，能够到达可以看到满天繁星的地方。",
+    "type": "g",
+    "from": "文学少女",
+    "from_who": "天野远子",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1619934729",
+    "length": 40
+  },
+  {
+    "id": 7654,
+    "uuid": "470b4748-0b37-40bc-b580-27206d0568a9",
+    "hitokoto": "与其斤斤计较，不如糊里糊涂。 既然无法强求，不如学会满足。 与其争争吵吵，不如心平气和。 既然不能如愿，不如试着释怀。",
+    "type": "g",
+    "from": "借",
+    "from_who": "毛不易",
+    "creator": "陈弋函",
+    "creator_uid": 10950,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1638545064",
+    "length": 59
+  },
+  {
+    "id": 7730,
+    "uuid": "41ef3319-a432-443c-8c38-e52882df1f75",
+    "hitokoto": "认为自己的人种和文明高人一等是愚蠢的。",
+    "type": "g",
+    "from": "亚洲文明对话大会开幕式",
+    "from_who": "习近平",
+    "creator": "all",
+    "creator_uid": 11258,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1642333162",
+    "length": 19
+  },
+  {
+    "id": 7766,
+    "uuid": "18b834f2-397a-4b37-864d-3dd5942998f0",
+    "hitokoto": "如果我们总是等着自己做好准备，那可能这一生都在等待中度过了。",
+    "type": "g",
+    "from": "欧路每日一句",
+    "from_who": "佚名",
+    "creator": "雀刀",
+    "creator_uid": 10403,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1634752810",
+    "length": 30
+  },
+  {
+    "id": 7767,
+    "uuid": "44d2a5c5-7e11-48bb-a1d2-fb94e84b5d82",
+    "hitokoto": "我既开始，我必完成；我既决定，我必贯彻。",
+    "type": "g",
+    "from": "南京大学新生学习指南",
+    "from_who": "南京大学教务处全体老师",
+    "creator": "雀刀",
+    "creator_uid": 10403,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1633127680",
+    "length": 20
+  },
+  {
+    "id": 7852,
+    "uuid": "73c5543f-56f9-417e-939c-b8f6c47e085a",
+    "hitokoto": "人这一生，匆匆而过，若说真有所图，也不过是一份温暖和惦记",
+    "type": "g",
+    "from": "快手",
+    "from_who": "佚名",
+    "creator": "•᷄ࡇ•᷅",
+    "creator_uid": 11568,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1648897679",
+    "length": 28
+  },
+  {
+    "id": 7855,
+    "uuid": "38b4e337-a74c-4abc-a20e-58e737fad600",
+    "hitokoto": "Make it.",
+    "type": "g",
+    "from": "Dingtalk",
+    "from_who": "Zeten",
+    "creator": "智浅",
+    "creator_uid": 11842,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649062812",
+    "length": 8
+  },
+  {
+    "id": 7928,
+    "uuid": "4ba02bc5-6cdf-4c38-9157-12bedda90b51",
+    "hitokoto": "The past is everything we were don't make us who we are.",
+    "type": "g",
+    "from": "Dream It Possible",
+    "from_who": "Delacry",
+    "creator": "liu peixin",
+    "creator_uid": 12604,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1657788162",
+    "length": 56
+  },
+  {
+    "id": 7936,
+    "uuid": "c5df9cbc-4d8a-4c3a-866f-098bcda80777",
+    "hitokoto": "在没有错误日志的情况下诊断任何问题无异于闭眼开车。",
+    "type": "g",
+    "from": "Apache官方文档",
+    "from_who": "Apache",
+    "creator": "Saobby",
+    "creator_uid": 12501,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1657208527",
+    "length": 25
+  },
+  {
+    "id": 7948,
+    "uuid": "b1c850a4-ba89-4c92-ac8f-66ef24c60b4f",
+    "hitokoto": "若不是对自己没信心，我怎会努力？",
+    "type": "g",
+    "from": "NiuBoss123 Studio",
+    "from_who": "NiuBoss123",
+    "creator": "NiuBoss123",
+    "creator_uid": 12489,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1656241179",
+    "length": 16
+  },
+  {
+    "id": 7953,
+    "uuid": "20be3a5f-6c79-4ccd-8666-1cf39d0b79ed",
+    "hitokoto": "尽可能不给别人添麻烦，别人最好也别麻烦我。这句话不是冷漠，而是成熟。",
+    "type": "g",
+    "from": "王自健",
+    "from_who": null,
+    "creator": "chaichunyang",
+    "creator_uid": 12520,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1656657789",
+    "length": 34
+  },
+  {
+    "id": 7975,
+    "uuid": "b38166ad-058e-4bc9-a593-ef7047332bf2",
+    "hitokoto": "总有一个人一直住在心底，却又告别在生活里。",
+    "type": "g",
+    "from": "网易云",
+    "from_who": "ShimmerLS",
+    "creator": "ShimmerLS",
+    "creator_uid": 7868,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1624606854",
+    "length": 21
+  },
+  {
+    "id": 7986,
+    "uuid": "dfb55668-8bad-40fc-aaa5-f81d964496b1",
+    "hitokoto": "莫叹明月笑多情，天涯尽头看流光飞去。",
+    "type": "g",
+    "from": "相思引",
+    "from_who": "董贞",
+    "creator": "•᷄ࡇ•᷅",
+    "creator_uid": 11568,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1651913087",
+    "length": 18
+  },
+  {
+    "id": 7987,
+    "uuid": "0b6f4bbc-40db-49ec-847b-c6d8ead63d80",
+    "hitokoto": "每个人都有一段悲伤，想隐藏却欲盖弥彰。",
+    "type": "g",
+    "from": "白月光",
+    "from_who": "张信哲",
+    "creator": "•᷄ࡇ•᷅",
+    "creator_uid": 11568,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1651913138",
+    "length": 19
+  },
+  {
+    "id": 7997,
+    "uuid": "389c16fc-01d3-44c5-b02f-cab9b245a6da",
+    "hitokoto": "一定要解放台湾。",
+    "type": "g",
+    "from": "中共党史上的80句口号",
+    "from_who": "中国共产党",
+    "creator": "Avrora",
+    "creator_uid": 9293,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621161590",
+    "length": 8
+  },
+  {
+    "id": 7998,
+    "uuid": "5b181b94-269a-446c-8a6d-f3b31e0069c3",
+    "hitokoto": "从前是牛马，现在要做人！",
+    "type": "g",
+    "from": "中共党史上的80句口号",
+    "from_who": "中国共产党",
+    "creator": "Avrora",
+    "creator_uid": 9293,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621158358",
+    "length": 12
+  },
+  {
+    "id": 8003,
+    "uuid": "927a5656-11d0-46cd-92d0-36f870c2f757",
+    "hitokoto": "你皮任你皮，把你当瓜皮；你游任你游，全场打酱油；你抓任你抓，跟我不搭噶。",
+    "type": "g",
+    "from": "大司马直播",
+    "from_who": "大司马",
+    "creator": "员工小王",
+    "creator_uid": 9282,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621080504",
+    "length": 36
+  },
+  {
+    "id": 8007,
+    "uuid": "39ff1c90-b5e5-48ad-bb1f-3d5c32957c42",
+    "hitokoto": "为了理想，我宁愿忍受寂寞，饮尽那份孤独。",
+    "type": "g",
+    "from": "三百六十五里路",
+    "from_who": "包娜娜",
+    "creator": "key lin",
+    "creator_uid": 2340,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1624001137",
+    "length": 20
+  },
+  {
+    "id": 8013,
+    "uuid": "aa73d754-c376-4e23-b4e8-0c00351315b4",
+    "hitokoto": "编程是一种技艺，一种需要用心学习的技艺。",
+    "type": "g",
+    "from": "程序员修炼之道-从小工到专家",
+    "from_who": null,
+    "creator": "imfycc",
+    "creator_uid": 9162,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621612531",
+    "length": 20
   }
 ]
