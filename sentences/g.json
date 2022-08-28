@@ -6816,5 +6816,47 @@
     "commit_from": "web",
     "created_at": "1621612531",
     "length": 20
+  },
+  {
+    "id": 8023,
+    "uuid": "548c9e64-e85e-4831-8e64-a0453bea2f2f",
+    "hitokoto": "春日雨，夏蝉鸣，明天是个好天气。秋风起，雪花轻，海底看不见四季。",
+    "type": "g",
+    "from": "海底",
+    "from_who": "凤凰传奇",
+    "creator": "西瓜暴徒",
+    "creator_uid": 9337,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621588946",
+    "length": 32
+  },
+  {
+    "id": 8024,
+    "uuid": "0b382fcc-8164-46a7-a2fc-b19ca754d899",
+    "hitokoto": "全世界无产者，联合起来。",
+    "type": "g",
+    "from": "毛泽东选集",
+    "from_who": "毛泽东",
+    "creator": "sentence",
+    "creator_uid": 9308,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621388595",
+    "length": 12
+  },
+  {
+    "id": 8028,
+    "uuid": "8d7cd312-f7c2-4e52-88a9-e61c0b59fe2e",
+    "hitokoto": "我们都有底线，而我也许已经越己的过了自。",
+    "type": "g",
+    "from": "英雄联盟",
+    "from_who": "青钢影",
+    "creator": "风尘散人",
+    "creator_uid": 12772,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1659613170",
+    "length": 20
   }
 ]
