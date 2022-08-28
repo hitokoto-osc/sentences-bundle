@@ -5822,5 +5822,33 @@
     "commit_from": "web",
     "created_at": "1658136615",
     "length": 18
+  },
+  {
+    "id": 8052,
+    "uuid": "7ff0af5b-f9b5-4731-a525-7a8e303ae620",
+    "hitokoto": "你必须要变强，才可以守护身边的人！",
+    "type": "c",
+    "from": "坎公骑冠剑",
+    "from_who": "比什巴赫",
+    "creator": "飞小RAN",
+    "creator_uid": 10481,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1642061650",
+    "length": 17
+  },
+  {
+    "id": 8053,
+    "uuid": "f81010fd-75ff-49b4-bdc8-dcc27fad9a59",
+    "hitokoto": "谨慎行事，不得鲁莽！",
+    "type": "c",
+    "from": "坎公骑冠剑",
+    "from_who": "未来公主",
+    "creator": "飞小RAN",
+    "creator_uid": 10481,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1642061710",
+    "length": 10
   }
 ]
