@@ -7306,5 +7306,47 @@
     "commit_from": "web",
     "created_at": "1621612755",
     "length": 22
+  },
+  {
+    "id": 8033,
+    "uuid": "75a4ffef-3c63-4a0d-b170-f329f9cfac4a",
+    "hitokoto": "找不到自己的位置，是很可怕的事情，就好比天黑了不知道睡觉。",
+    "type": "f",
+    "from": "网络",
+    "from_who": "佚名",
+    "creator": "混沌喵",
+    "creator_uid": 12689,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1658465169",
+    "length": 29
+  },
+  {
+    "id": 8048,
+    "uuid": "79b721fd-a988-4263-a4b6-858ed08ed861",
+    "hitokoto": "缘起，我在人群中看你；缘灭，我看你在人群中。",
+    "type": "f",
+    "from": "快手",
+    "from_who": "佚名",
+    "creator": "•᷄ࡇ•᷅",
+    "creator_uid": 11568,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1653315489",
+    "length": 22
+  },
+  {
+    "id": 8049,
+    "uuid": "5f50f43a-01f9-4e87-9af4-250830842d74",
+    "hitokoto": "我知道我无法主宰一切，但此时此刻，我是活着的。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "DOKI",
+    "creator_uid": 12009,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649852390",
+    "length": 23
   }
 ]
