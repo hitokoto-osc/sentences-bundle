@@ -17554,5 +17554,33 @@
     "commit_from": "web",
     "created_at": "1659344278",
     "length": 19
+  },
+  {
+    "id": 8262,
+    "uuid": "cdcf5b7f-521b-496e-9bc0-aaadab6d9d72",
+    "hitokoto": "真実はいつもひとつ！",
+    "type": "a",
+    "from": "名侦探柯南",
+    "from_who": "青山刚昌",
+    "creator": "gjy",
+    "creator_uid": 12716,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1658835016",
+    "length": 10
+  },
+  {
+    "id": 8274,
+    "uuid": "dfa6a4cb-da85-4f1a-8c85-14e569166c46",
+    "hitokoto": "绝望的世界没有丝毫存在的价值。",
+    "type": "a",
+    "from": "火影忍者",
+    "from_who": "带土",
+    "creator": "腰子",
+    "creator_uid": 12394,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1654920434",
+    "length": 15
   }
 ]
