@@ -12276,5 +12276,47 @@
     "commit_from": "web",
     "created_at": "1649721322",
     "length": 18
+  },
+  {
+    "id": 8242,
+    "uuid": "187d89de-170f-4425-9eae-270535867fc4",
+    "hitokoto": "所有的努力不过是延缓必将到来的坍塌。",
+    "type": "e",
+    "from": "原创",
+    "from_who": "heiheihei",
+    "creator": "heiheihei",
+    "creator_uid": 12105,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1650449487",
+    "length": 18
+  },
+  {
+    "id": 8245,
+    "uuid": "8b740fac-2953-4bae-8ca8-61312ee99c3d",
+    "hitokoto": "凡是不赚钱的都说自己在创业。",
+    "type": "e",
+    "from": "生活",
+    "from_who": "安安",
+    "creator": "安安",
+    "creator_uid": 12182,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1651057291",
+    "length": 14
+  },
+  {
+    "id": 8260,
+    "uuid": "82323343-8808-4446-9c15-131bb48101d1",
+    "hitokoto": "悲兮叹兮终餐亵，人度天度不涅槃。",
+    "type": "e",
+    "from": "豕史诗",
+    "from_who": "seyi",
+    "creator": "seyi",
+    "creator_uid": 12763,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1659580369",
+    "length": 16
   }
 ]

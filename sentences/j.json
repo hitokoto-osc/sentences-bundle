@@ -782,5 +782,47 @@
     "commit_from": "web",
     "created_at": "1630105846",
     "length": 29
+  },
+  {
+    "id": 8246,
+    "uuid": "ad78b211-ec0a-4ed8-a266-03faf966bc6c",
+    "hitokoto": "不努力就只能听到别人的好消息。",
+    "type": "j",
+    "from": "网易云音乐热评",
+    "from_who": "佚名",
+    "creator": "collin",
+    "creator_uid": 12365,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1653642620",
+    "length": 15
+  },
+  {
+    "id": 8247,
+    "uuid": "0c0030d1-eed7-4a19-b499-32ccc3e9a032",
+    "hitokoto": "慢也好，步伐小也罢，是往前走就好。",
+    "type": "j",
+    "from": "网易云音乐热评",
+    "from_who": "佚名",
+    "creator": "collin",
+    "creator_uid": 12365,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1653642582",
+    "length": 17
+  },
+  {
+    "id": 8248,
+    "uuid": "4d919677-189f-4328-832f-66028c54f54e",
+    "hitokoto": "要优秀啊，不然怎么遇见优秀的人！",
+    "type": "j",
+    "from": "网易云音乐热评",
+    "from_who": "佚名",
+    "creator": "collin",
+    "creator_uid": 12365,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1653642541",
+    "length": 16
   }
 ]
