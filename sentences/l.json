@@ -54,5 +54,19 @@
     "commit_from": "web",
     "created_at": "1658485841",
     "length": 14
+  },
+  {
+    "id": 8081,
+    "uuid": "ba8451c0-dae3-4cc0-9f6b-d0e8b3a606db",
+    "hitokoto": "人生三大错觉，我能反杀，下一发能出金，她喜欢我。",
+    "type": "l",
+    "from": "现实",
+    "from_who": "林清凝",
+    "creator": "Soiltary、K",
+    "creator_uid": 3915,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1630990186",
+    "length": 24
   }
 ]
