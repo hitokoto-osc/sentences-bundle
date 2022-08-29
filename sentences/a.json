@@ -17456,5 +17456,47 @@
     "commit_from": "web",
     "created_at": "1627918156",
     "length": 25
+  },
+  {
+    "id": 8150,
+    "uuid": "bd61bebf-d727-4f1a-a372-2123b78e9cc3",
+    "hitokoto": "为王的诞生，献上血与泪编制而成的罪恶王冠。",
+    "type": "a",
+    "from": "罪恶王冠",
+    "from_who": null,
+    "creator": "charming",
+    "creator_uid": 10485,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1632746967",
+    "length": 21
+  },
+  {
+    "id": 8151,
+    "uuid": "81ada28f-dc2b-48da-9ce2-2a2d6ce4fff4",
+    "hitokoto": "我喜欢了你十年，却用一整个四月编织了一个不爱你的谎言。",
+    "type": "a",
+    "from": "四月是你的谎言",
+    "from_who": null,
+    "creator": "charming",
+    "creator_uid": 10485,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1632746614",
+    "length": 27
+  },
+  {
+    "id": 8153,
+    "uuid": "c07dbf9d-c5f2-4d6c-88fb-7e1e6cac5502",
+    "hitokoto": "在这251秒内，堵上我所拥有的一切！",
+    "type": "a",
+    "from": "游戏人生·零",
+    "from_who": null,
+    "creator": "charming",
+    "creator_uid": 10485,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1632746245",
+    "length": 18
   }
 ]
