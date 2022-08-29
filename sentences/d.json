@@ -17260,5 +17260,47 @@
     "commit_from": "web",
     "created_at": "1621085452",
     "length": 28
+  },
+  {
+    "id": 8144,
+    "uuid": "9e94684e-3c0c-4dc2-a368-5200d0edd4fe",
+    "hitokoto": "江湖有酒江湖见。",
+    "type": "d",
+    "from": "剑来",
+    "from_who": "剑来书迷",
+    "creator": "徐凤年",
+    "creator_uid": 8400,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1630138810",
+    "length": 8
+  },
+  {
+    "id": 8145,
+    "uuid": "952bbda9-104c-425f-a72e-64df5903ea94",
+    "hitokoto": "若今后没有炬火，你便是唯一的光。",
+    "type": "d",
+    "from": "鲁迅",
+    "from_who": "鲁迅",
+    "creator": "忆",
+    "creator_uid": 10268,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1630293495",
+    "length": 16
+  },
+  {
+    "id": 8148,
+    "uuid": "10bb3239-ded5-4ef1-83e3-d0fc26e7f777",
+    "hitokoto": "小时候常常梦见吃云片糕，吃着吃着，薄薄的糕变成了纸，除了涩，还感到一种难堪的怅惘。",
+    "type": "d",
+    "from": "都市的人生",
+    "from_who": "张爱玲",
+    "creator": "Hacker",
+    "creator_uid": 10339,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1630931478",
+    "length": 41
   }
 ]

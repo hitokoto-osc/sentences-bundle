@@ -6102,5 +6102,47 @@
     "commit_from": "web",
     "created_at": "1627801202",
     "length": 50
+  },
+  {
+    "id": 8136,
+    "uuid": "3465661a-5739-4bd1-85e0-ee83d21ebbfe",
+    "hitokoto": "我们之所以与其他人分享交流，是因为想要向他人展现自我、向他人诉说自己的经历。",
+    "type": "c",
+    "from": "Doki Doki Literature Club Plus!",
+    "from_who": "Monika",
+    "creator": "White_mu",
+    "creator_uid": 9796,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1627753478",
+    "length": 38
+  },
+  {
+    "id": 8138,
+    "uuid": "9d9908a5-2112-46e3-8636-d8da4fa99c5a",
+    "hitokoto": "离别使恋爱热烈，重逢则使它牢固。",
+    "type": "c",
+    "from": "虐杀原形",
+    "from_who": "托•富勒",
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1627851034",
+    "length": 16
+  },
+  {
+    "id": 8140,
+    "uuid": "8d1b9ed3-219f-4b16-9e23-6fbb444abee0",
+    "hitokoto": "朝星空直接伸出手去，你永远只会觉得星星遥不可及，不是吗？",
+    "type": "c",
+    "from": "Doki Doki Literature Club Plus!",
+    "from_who": "Monika",
+    "creator": "White_mu",
+    "creator_uid": 9796,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1627926515",
+    "length": 28
   }
 ]

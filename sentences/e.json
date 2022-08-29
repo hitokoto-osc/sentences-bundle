@@ -11954,5 +11954,47 @@
     "commit_from": "web",
     "created_at": "1623502472",
     "length": 20
+  },
+  {
+    "id": 8141,
+    "uuid": "3dcab3a8-fd51-4e04-89c2-29f0f95c6023",
+    "hitokoto": "可惜生活不是电影，我也少一点运气。",
+    "type": "e",
+    "from": "兔子君",
+    "from_who": "兔子君",
+    "creator": "兔子君",
+    "creator_uid": 9987,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1628087833",
+    "length": 17
+  },
+  {
+    "id": 8146,
+    "uuid": "96363bf6-a338-4982-b008-bdd740e0035a",
+    "hitokoto": "你的温柔只为我一个，我的坚强只为你一人。",
+    "type": "e",
+    "from": "作者本人",
+    "from_who": "忆",
+    "creator": "忆",
+    "creator_uid": 10268,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1630293618",
+    "length": 20
+  },
+  {
+    "id": 8147,
+    "uuid": "7a38e4db-35de-41e0-876a-7234b7f79a49",
+    "hitokoto": "这一路纵使有千沟万壑，也挡不住浪子傲视天涯的心。",
+    "type": "e",
+    "from": "即兴创作",
+    "from_who": "Hacker",
+    "creator": "Hacker",
+    "creator_uid": 10339,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1630930774",
+    "length": 24
   }
 ]
