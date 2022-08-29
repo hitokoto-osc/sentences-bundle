@@ -7096,5 +7096,33 @@
     "commit_from": "app",
     "created_at": "1645523127",
     "length": 16
+  },
+  {
+    "id": 8213,
+    "uuid": "52ffdb1c-8cc2-4818-bfd5-c56c8a1f36fb",
+    "hitokoto": "人生应该删繁留简，任世事摇曳，心始终如莲，安静绽放。",
+    "type": "g",
+    "from": "白落梅",
+    "from_who": "白落梅",
+    "creator": "planifolia",
+    "creator_uid": 11518,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1647243418",
+    "length": 26
+  },
+  {
+    "id": 8217,
+    "uuid": "a8d4802a-4fd4-4750-858e-d7342636840a",
+    "hitokoto": "And just as you bring me back, you push me from the ledge.",
+    "type": "g",
+    "from": "Album Preview: Who You Are Is Not Enough",
+    "from_who": "Athletics",
+    "creator": "Flowelife",
+    "creator_uid": 11753,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1647582287",
+    "length": 58
   }
 ]
