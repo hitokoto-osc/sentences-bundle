@@ -17078,5 +17078,61 @@
     "commit_from": "web",
     "created_at": "1644483471",
     "length": 14
+  },
+  {
+    "id": 8054,
+    "uuid": "e2ccafa7-382e-4763-9e9b-2e62ce3f04ef",
+    "hitokoto": "你还要细心地观察自己的情绪，了解自己需要什么，应该怎么做。",
+    "type": "d",
+    "from": "精准努力：刘媛媛的逆袭课",
+    "from_who": "刘媛媛",
+    "creator": "imfycc",
+    "creator_uid": 9162,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621078982",
+    "length": 29
+  },
+  {
+    "id": 8057,
+    "uuid": "b4547bd5-734b-47ad-8161-11d5c94b5f7d",
+    "hitokoto": "将悲伤和痛苦，化作光芒。",
+    "type": "d",
+    "from": "文学少女",
+    "from_who": "天野远子",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621084600",
+    "length": 12
+  },
+  {
+    "id": 8058,
+    "uuid": "0379f2c2-af01-49df-b11d-1b0ad0cc2233",
+    "hitokoto": "树木在夜晚来临前的淡金色的暮霭中闪闪发光。",
+    "type": "d",
+    "from": "文学少女",
+    "from_who": "日坂菜乃",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621085186",
+    "length": 21
+  },
+  {
+    "id": 8059,
+    "uuid": "8a8b8150-fee9-413b-9abb-2bf528958b5a",
+    "hitokoto": "Two roads diverged in a wood,and I — I took the one less traveled by.",
+    "type": "d",
+    "from": "The Road not Taken",
+    "from_who": "Robert Frost",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621258286",
+    "length": 69
   }
 ]

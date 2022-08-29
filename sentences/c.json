@@ -5850,5 +5850,33 @@
     "commit_from": "web",
     "created_at": "1642061710",
     "length": 10
+  },
+  {
+    "id": 8055,
+    "uuid": "13cc00be-058d-4f4c-b47a-ac637ce3b6a8",
+    "hitokoto": "如果敌人在射程范围内，那么你也一样。",
+    "type": "c",
+    "from": "使命召唤",
+    "from_who": null,
+    "creator": "员工小王",
+    "creator_uid": 9282,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621080712",
+    "length": 18
+  },
+  {
+    "id": 8056,
+    "uuid": "629fc22e-bcb0-4585-92cc-64e73261201d",
+    "hitokoto": "在和平年代中，儿子埋葬父亲，但在战争中，父亲埋葬儿子。",
+    "type": "c",
+    "from": "使命召唤",
+    "from_who": null,
+    "creator": "员工小王",
+    "creator_uid": 9282,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621080667",
+    "length": 27
   }
 ]
