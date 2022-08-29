@@ -7418,5 +7418,33 @@
     "commit_from": "web",
     "created_at": "1660532284",
     "length": 15
+  },
+  {
+    "id": 8095,
+    "uuid": "24027c7a-24a5-4fca-ae50-c1ba05a9f631",
+    "hitokoto": "少年的肩膀，要挑起清风明月和草长莺飞，请成为永远疯狂永远浪漫永远清澈的存在！",
+    "type": "f",
+    "from": "网络",
+    "from_who": "佚名",
+    "creator": "CD_Mking",
+    "creator_uid": 12752,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1659432249",
+    "length": 38
+  },
+  {
+    "id": 8108,
+    "uuid": "6b3e4508-cbc7-44f1-bd00-e7509ce52d24",
+    "hitokoto": "不要一遇沙漠，就怀疑生命绿洲的存在；不要一遇到困难，就怀疑人生目标的实现。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "吴彦祖",
+    "creator_uid": 12665,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1658228498",
+    "length": 37
   }
 ]

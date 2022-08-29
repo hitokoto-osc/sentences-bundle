@@ -17218,5 +17218,33 @@
     "commit_from": "web",
     "created_at": "1659880961",
     "length": 59
+  },
+  {
+    "id": 8091,
+    "uuid": "6be3a732-3d59-4198-a274-dcba44e54662",
+    "hitokoto": "我要再和生活死磕几年，如果有一天，你发现我在平庸面前低了头，请向我开炮。",
+    "type": "d",
+    "from": "在路上",
+    "from_who": "凯鲁亚克",
+    "creator": "Eternal_Battle",
+    "creator_uid": 11999,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1660119707",
+    "length": 36
+  },
+  {
+    "id": 8102,
+    "uuid": "20f19ba7-2d56-43b4-8d95-2fe4af37d51b",
+    "hitokoto": "我所创造的怪物，是我的罪与恶，是我的爱与保护 !",
+    "type": "d",
+    "from": "书",
+    "from_who": "乙一",
+    "creator": "Aobayu",
+    "creator_uid": 12723,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1658900676",
+    "length": 24
   }
 ]

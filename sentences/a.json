@@ -17358,5 +17358,61 @@
     "commit_from": "web",
     "created_at": "1658198876",
     "length": 20
+  },
+  {
+    "id": 8097,
+    "uuid": "0b6b6d10-e51e-42a5-a6b9-c1136ad43a59",
+    "hitokoto": "我已经逃避得太久了，现在终于等来了一个我愿意誓死守护的人，就是你。",
+    "type": "a",
+    "from": "哈尔的移动城堡",
+    "from_who": "哈尔",
+    "creator": "EN",
+    "creator_uid": 10800,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1659344306",
+    "length": 33
+  },
+  {
+    "id": 8098,
+    "uuid": "7e564fb3-a19b-4eb2-8cbb-bcc1e1db9508",
+    "hitokoto": "我叫江户川柯南，是个侦探。",
+    "type": "a",
+    "from": "名侦探柯南",
+    "from_who": "江户川柯南",
+    "creator": "EN",
+    "creator_uid": 10800,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1659344131",
+    "length": 13
+  },
+  {
+    "id": 8099,
+    "uuid": "80ae2c67-7a0f-4b39-b452-b40576006b9f",
+    "hitokoto": "我只能送你到这里了，剩下的路你要自己走，不要回头。",
+    "type": "a",
+    "from": "千与千寻",
+    "from_who": "白龙",
+    "creator": "EN",
+    "creator_uid": 10800,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1659344190",
+    "length": 25
+  },
+  {
+    "id": 8106,
+    "uuid": "b1c4d007-d2dd-47f7-b592-cdb826ee3854",
+    "hitokoto": "吶，你想成为什么颜色？",
+    "type": "a",
+    "from": "樱花庄的宠物女孩",
+    "from_who": "椎名真白",
+    "creator": "追番人",
+    "creator_uid": 12646,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1658139748",
+    "length": 11
   }
 ]
