@@ -6620,5 +6620,33 @@
     "commit_from": "web",
     "created_at": "1653881269",
     "length": 40
+  },
+  {
+    "id": 8288,
+    "uuid": "6e18e2d3-7b73-436f-a180-691fc2b619a5",
+    "hitokoto": "真正的大师永远怀着一颗学徒的心。",
+    "type": "c",
+    "from": "英雄联盟",
+    "from_who": "无极剑圣",
+    "creator": "月光、雲海与星",
+    "creator_uid": 12281,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1651931719",
+    "length": 16
+  },
+  {
+    "id": 8289,
+    "uuid": "54950517-a678-421f-8833-611b8edec654",
+    "hitokoto": "转眼少年过去，青年又来，登高望远，只是不再俯视人间。",
+    "type": "c",
+    "from": "同一个世界",
+    "from_who": "雨季",
+    "creator": "月光、雲海与星",
+    "creator_uid": 12281,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1651931569",
+    "length": 26
   }
 ]
