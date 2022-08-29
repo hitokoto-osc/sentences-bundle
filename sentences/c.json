@@ -6046,5 +6046,61 @@
     "commit_from": "web",
     "created_at": "1658407418",
     "length": 34
+  },
+  {
+    "id": 8118,
+    "uuid": "33b91e91-d555-4e52-87f3-fbca6ea7734a",
+    "hitokoto": "再会了，我的老友......今日一别，也是为了将来能有机会重聚。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "凝光",
+    "creator": "神在白天做梦",
+    "creator_uid": 12651,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1658137414",
+    "length": 32
+  },
+  {
+    "id": 8119,
+    "uuid": "8418e4d9-7f8d-476c-8b62-0b6d7227a8cf",
+    "hitokoto": "不愿意沟通的话，问题就会永远留在那里；人们就看着，看着……直到眼睁睁地错过所有解决它的机会。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "宵宫",
+    "creator": "神在白天做梦",
+    "creator_uid": 12651,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1658137110",
+    "length": 46
+  },
+  {
+    "id": 8124,
+    "uuid": "22ff9c2e-5800-4757-850d-86c01011cef8",
+    "hitokoto": "我忘记了所有悲剧，所见皆是奇迹。",
+    "type": "c",
+    "from": "奎若小哥",
+    "from_who": "空洞骑士",
+    "creator": "句芒",
+    "creator_uid": 7498,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621322696",
+    "length": 16
+  },
+  {
+    "id": 8135,
+    "uuid": "cac37539-a66c-473d-ae4d-13eb57e6b082",
+    "hitokoto": "每个人都有优势和弱势，也有不断提升自我的能力；而提升自我的第一步，就是学会反思，以及察觉自己的问题。",
+    "type": "c",
+    "from": "Doki Doki Literature Club Plus!",
+    "from_who": "Monika",
+    "creator": "White_mu",
+    "creator_uid": 9796,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1627801202",
+    "length": 50
   }
 ]

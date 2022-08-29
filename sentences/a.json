@@ -17414,5 +17414,33 @@
     "commit_from": "web",
     "created_at": "1658139748",
     "length": 11
+  },
+  {
+    "id": 8123,
+    "uuid": "9f2e9cf5-d641-4b0f-b5b2-229b97bce890",
+    "hitokoto": "现实中的人生不像游戏中那么简单。",
+    "type": "a",
+    "from": "名侦探柯南剧场版：贝克街的亡灵",
+    "from_who": "泽田弘树",
+    "creator": "Aw.Cat",
+    "creator_uid": 12383,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1654673863",
+    "length": 16
+  },
+  {
+    "id": 8125,
+    "uuid": "b6a9ff60-ed3b-445f-bd25-c28ba931015d",
+    "hitokoto": "过去的幸福，可以把不幸的人，推入更深的绝望。",
+    "type": "a",
+    "from": "魔女之旅",
+    "from_who": "伊雷娜",
+    "creator": "Kyanite",
+    "creator_uid": 8042,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1621258666",
+    "length": 22
   }
 ]
