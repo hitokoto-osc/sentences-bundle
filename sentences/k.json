@@ -1916,5 +1916,47 @@
     "commit_from": "web",
     "created_at": "1626772007",
     "length": 26
+  },
+  {
+    "id": 8063,
+    "uuid": "9a623335-f120-4912-9dea-68148bd02b90",
+    "hitokoto": "好好学习，天天向上。",
+    "type": "k",
+    "from": "毛主席语录",
+    "from_who": "毛泽东",
+    "creator": "社会主义好",
+    "creator_uid": 9813,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1626771974",
+    "length": 10
+  },
+  {
+    "id": 8064,
+    "uuid": "3fc92a00-0778-4a2e-8084-1abff95e7389",
+    "hitokoto": "无产阶级在这个革命中失去的只是锁链，他获得的将是整个世界。",
+    "type": "k",
+    "from": "共产党宣言",
+    "from_who": "马克思\u0026恩格斯",
+    "creator": "社会主义好",
+    "creator_uid": 9813,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1626772233",
+    "length": 29
+  },
+  {
+    "id": 8065,
+    "uuid": "c4786aa6-95b8-4631-9a10-13d170615cdf",
+    "hitokoto": "内心湛然，则无往而不乐。",
+    "type": "k",
+    "from": "人生不过如此",
+    "from_who": "梁实秋先生",
+    "creator": "=w=",
+    "creator_uid": 9709,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1626145223",
+    "length": 12
   }
 ]

@@ -17134,5 +17134,61 @@
     "commit_from": "web",
     "created_at": "1621258286",
     "length": 69
+  },
+  {
+    "id": 8069,
+    "uuid": "f7bfa361-ab86-4844-b7f8-e3ffd9de77db",
+    "hitokoto": "山谷的最低点正是山的起点。",
+    "type": "d",
+    "from": "林清玄",
+    "from_who": "林清玄",
+    "creator": "素人",
+    "creator_uid": 10049,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1628512309",
+    "length": 13
+  },
+  {
+    "id": 8070,
+    "uuid": "be18e0c5-9606-4e28-8f44-8d67894cdd60",
+    "hitokoto": "凌晨四点钟，我看见海棠花未眠，总觉得这时，你应该在我身边；凌晨五点钟，我还在失眠，而你，也不会对我有所思念；凌晨六点钟，太阳升起海平面，你不爱我，也没人听得见。",
+    "type": "d",
+    "from": "花未眠",
+    "from_who": "川端康成",
+    "creator": "MORNING",
+    "creator_uid": 10104,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1628925796",
+    "length": 80
+  },
+  {
+    "id": 8072,
+    "uuid": "75107d7d-f11e-4c28-9602-9290c36b8cd3",
+    "hitokoto": "猛兽是单独的，牛羊则结队。",
+    "type": "d",
+    "from": "坟",
+    "from_who": "鲁迅",
+    "creator": "Ender_hz",
+    "creator_uid": 10115,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1628998057",
+    "length": 13
+  },
+  {
+    "id": 8077,
+    "uuid": "1b768640-a028-4f49-a69a-6b93270b00ae",
+    "hitokoto": "天上月，人间月，负笈求学肩上月，登高凭栏眼中月，竹篮打水碎又圆；山间风，水边风，御剑远游脚下风，圣贤书斋翻书风，风吹浮萍有相逢。",
+    "type": "d",
+    "from": "剑来",
+    "from_who": "烽火戏诸侯",
+    "creator": "Larry",
+    "creator_uid": 4073,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1630073564",
+    "length": 64
   }
 ]
