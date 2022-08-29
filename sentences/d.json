@@ -17330,5 +17330,33 @@
     "commit_from": "web",
     "created_at": "1634137226",
     "length": 57
+  },
+  {
+    "id": 8172,
+    "uuid": "0da70abf-1e71-480d-8fbf-0e79cd1aa23c",
+    "hitokoto": "读书忌死读，死读钻牛角。",
+    "type": "d",
+    "from": "叶圣陶",
+    "from_who": "叶圣陶",
+    "creator": "Bryant",
+    "creator_uid": 10982,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1638948293",
+    "length": 12
+  },
+  {
+    "id": 8175,
+    "uuid": "ec37297d-70b8-4a26-80d3-37c59203cd50",
+    "hitokoto": "意志是一个强壮的盲人，倚靠在明眼的跛子肩上。",
+    "type": "d",
+    "from": "叔本华",
+    "from_who": "叔本华",
+    "creator": "Bryant",
+    "creator_uid": 10982,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1638948226",
+    "length": 22
   }
 ]

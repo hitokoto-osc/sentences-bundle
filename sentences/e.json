@@ -12052,5 +12052,61 @@
     "commit_from": "web",
     "created_at": "1636888082",
     "length": 15
+  },
+  {
+    "id": 8182,
+    "uuid": "12fe3196-fa09-410f-9ba0-b5782b01a52f",
+    "hitokoto": "从来处来，望尽岁月如歌，莫忘来时之路。",
+    "type": "e",
+    "from": "原创",
+    "from_who": "Rene",
+    "creator": "Rene8028",
+    "creator_uid": 10606,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1639227264",
+    "length": 19
+  },
+  {
+    "id": 8183,
+    "uuid": "ef9d6521-33f4-43b4-a8f5-503f3df5df42",
+    "hitokoto": "风吹落叶叶飘零，何处漂泊何处停。",
+    "type": "e",
+    "from": "不务正业",
+    "from_who": "iseea",
+    "creator": "iseea",
+    "creator_uid": 11007,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1639234409",
+    "length": 16
+  },
+  {
+    "id": 8184,
+    "uuid": "d2980fc7-1777-46de-be7b-f0f27c26cdb1",
+    "hitokoto": "你必须把自己当成一个“一诺千金”的对象，对自己做出的承诺就要，言出必行，行就必果！",
+    "type": "e",
+    "from": "自己",
+    "from_who": "不重要",
+    "creator": "不重要",
+    "creator_uid": 11024,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1639365786",
+    "length": 41
+  },
+  {
+    "id": 8185,
+    "uuid": "438d9358-3ed1-4e2e-90ae-205d965269cd",
+    "hitokoto": "你必须先尊重自己，才会真的尊重时间。",
+    "type": "e",
+    "from": "自己",
+    "from_who": "不重要",
+    "creator": "不重要",
+    "creator_uid": 11024,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1639365833",
+    "length": 18
   }
 ]
