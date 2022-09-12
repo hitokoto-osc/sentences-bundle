@@ -12374,5 +12374,47 @@
     "commit_from": "web",
     "created_at": "1659716410",
     "length": 24
+  },
+  {
+    "id": 8306,
+    "uuid": "18efbc86-ebae-4bb4-aedd-57007bbec780",
+    "hitokoto": "纵深于黑夜之中化作黎明！",
+    "type": "e",
+    "from": "林清凝",
+    "from_who": "林清凝",
+    "creator": "Soiltary、K",
+    "creator_uid": 3915,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1645458210",
+    "length": 12
+  },
+  {
+    "id": 8308,
+    "uuid": "631ece27-ca9e-4f43-9672-83066fa9d43b",
+    "hitokoto": "以前我以为，游戏要的高配置是硬件，现在我发现，高配置是一群同样热爱游戏的小伙伴。",
+    "type": "e",
+    "from": "孤影墨香",
+    "from_who": "小小柳之絮",
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1632489815",
+    "length": 40
+  },
+  {
+    "id": 8309,
+    "uuid": "b48bbd84-6d6a-4fcf-a94d-cdfb82723a8a",
+    "hitokoto": "有一天我也会累死，会突然闭上眼睛，在生命的最后一秒，会思考人生的忙碌，想起那些立下的目标，说出那些誓言，最后倒在人群面前。",
+    "type": "e",
+    "from": "叶羡天",
+    "from_who": "叶羡天",
+    "creator": "Soiltary、K",
+    "creator_uid": 3915,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1632552648",
+    "length": 61
   }
 ]
