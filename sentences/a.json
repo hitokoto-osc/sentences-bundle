@@ -17582,5 +17582,19 @@
     "commit_from": "web",
     "created_at": "1654920434",
     "length": 15
+  },
+  {
+    "id": 8311,
+    "uuid": "5e08162d-fb51-49c8-914c-c94cd175b0d1",
+    "hitokoto": "集中一点，登峰造极！",
+    "type": "a",
+    "from": "鬼灭之刃",
+    "from_who": null,
+    "creator": "charming",
+    "creator_uid": 10485,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1632746078",
+    "length": 10
   }
 ]
