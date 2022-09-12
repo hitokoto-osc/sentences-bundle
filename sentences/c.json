@@ -6648,5 +6648,47 @@
     "commit_from": "web",
     "created_at": "1651931569",
     "length": 26
+  },
+  {
+    "id": 8298,
+    "uuid": "daae68c0-0096-49c8-ac56-d7bec21cd0ed",
+    "hitokoto": "一度相遇过的人，即便分开以后，彼此之间的缘也不会断开。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "枫原万叶",
+    "creator": "Hytf233",
+    "creator_uid": 7017,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1659863372",
+    "length": 27
+  },
+  {
+    "id": 8300,
+    "uuid": "f417bbfe-3b0e-45c6-8ef5-f425cd2ff008",
+    "hitokoto": "招财猫本应既能招财又能招客，但她只要招了财和客的其中之一，就会让另外一方远离。",
+    "type": "c",
+    "from": "东方虹龙洞",
+    "from_who": "ZUN",
+    "creator": "tinvan",
+    "creator_uid": 12372,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1653881318",
+    "length": 39
+  },
+  {
+    "id": 8301,
+    "uuid": "0e19ad48-37b4-4aff-89eb-7fc6e2e0ec62",
+    "hitokoto": "月之民不会就这样居住在污秽附近，他们一定会逃往梦境之类的地方。",
+    "type": "c",
+    "from": "东方绀珠传",
+    "from_who": "ZUN",
+    "creator": "tinvan",
+    "creator_uid": 12372,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1653881193",
+    "length": 31
   }
 ]

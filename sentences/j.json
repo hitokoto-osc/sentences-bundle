@@ -824,5 +824,33 @@
     "commit_from": "web",
     "created_at": "1653642541",
     "length": 16
+  },
+  {
+    "id": 8302,
+    "uuid": "918dc313-dead-4708-b15a-0a6325ff3e66",
+    "hitokoto": "一辈子，能坚持做好一件事就很伟大了！",
+    "type": "j",
+    "from": "网易云音乐",
+    "from_who": "柯钊",
+    "creator": "collin",
+    "creator_uid": 12365,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1653643136",
+    "length": 18
+  },
+  {
+    "id": 8303,
+    "uuid": "e0da5bce-55b6-44b0-82e0-d8a92681dfe4",
+    "hitokoto": "变好的过程都不太舒服，试试再努力点。",
+    "type": "j",
+    "from": "网易云音乐",
+    "from_who": "pony",
+    "creator": "collin",
+    "creator_uid": 12365,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1653642510",
+    "length": 18
   }
 ]
