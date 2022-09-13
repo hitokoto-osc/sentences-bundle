@@ -18562,5 +18562,33 @@
     "commit_from": "web",
     "created_at": "1629181139",
     "length": 13
+  },
+  {
+    "id": 8549,
+    "uuid": "fe24d394-ffc6-4021-abe9-3d142a0efa0a",
+    "hitokoto": "孤独才是寂寞的唯一出口。",
+    "type": "d",
+    "from": "百年孤独",
+    "from_who": "马尔克斯",
+    "creator": "Will",
+    "creator_uid": 10507,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1633056616",
+    "length": 12
+  },
+  {
+    "id": 8553,
+    "uuid": "60c86bd4-e7e7-482d-98a6-05f2f09f1da9",
+    "hitokoto": "自由从来不容易，不是一个姿态，一个手势，自由是永恒的克服重力，挣扎向上飞行。",
+    "type": "d",
+    "from": "找一个自己的房间",
+    "from_who": "萧红",
+    "creator": "Clouder",
+    "creator_uid": 10584,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1634138353",
+    "length": 38
   }
 ]
