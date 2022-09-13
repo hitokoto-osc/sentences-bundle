@@ -18212,5 +18212,61 @@
     "commit_from": "app",
     "created_at": "1648223904",
     "length": 16
+  },
+  {
+    "id": 8433,
+    "uuid": "43fc130b-f352-41ab-a8f3-1ca814b7e585",
+    "hitokoto": "他告诉我们，坚强的意志和决心可以战胜一切困难；他告诉我们，执著的信念和无畏的心灵才是最强大的武器。",
+    "type": "d",
+    "from": "明朝那些事儿",
+    "from_who": "当年明月",
+    "creator": "漂流粽子",
+    "creator_uid": 11983,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649666239",
+    "length": 49
+  },
+  {
+    "id": 8434,
+    "uuid": "6180be08-80ae-44b0-83ff-c86c17de6b6f",
+    "hitokoto": "张牙舞爪的人，往往是脆弱的，因为真正强大的人，是自信的，自信就会温和，温和就会坚定。",
+    "type": "d",
+    "from": "明朝那些事儿",
+    "from_who": "当年明月",
+    "creator": "漂流粽子",
+    "creator_uid": 11983,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649666276",
+    "length": 42
+  },
+  {
+    "id": 8435,
+    "uuid": "1af33e8a-768a-4aff-8760-76c1866b21b7",
+    "hitokoto": "所有的英雄，都是平凡的人。千回百转，千锤百炼，矢志不改，如此而已。",
+    "type": "d",
+    "from": "明朝那些事儿",
+    "from_who": "当年明月",
+    "creator": "漂流粽子",
+    "creator_uid": 11983,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649666327",
+    "length": 33
+  },
+  {
+    "id": 8440,
+    "uuid": "3d94537c-0106-4c29-bf08-6da067809f93",
+    "hitokoto": "是的，即使你拥有人人羡慕的容貌、博览群书的才学、挥霍不尽的财富，也不能证明你的强大；因为心的强大，才是真正的强大。",
+    "type": "d",
+    "from": "明朝那些事儿",
+    "from_who": "当年明月",
+    "creator": "漂流粽子",
+    "creator_uid": 11983,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649666169",
+    "length": 57
   }
 ]

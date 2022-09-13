@@ -12738,5 +12738,33 @@
     "commit_from": "web",
     "created_at": "1647937634",
     "length": 18
+  },
+  {
+    "id": 8437,
+    "uuid": "d1372c32-e8b4-4d1f-9e29-dd228b2c539b",
+    "hitokoto": "正因为一无所有，才可以拥有一切。",
+    "type": "e",
+    "from": "初语",
+    "from_who": "Varuxn",
+    "creator": "Eternal_Battle",
+    "creator_uid": 11999,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649769058",
+    "length": 16
+  },
+  {
+    "id": 8439,
+    "uuid": "adfed409-0a6a-44f6-bb44-8b72e2eb4864",
+    "hitokoto": "我和别人的故事很少，却和自己的故事有很多。",
+    "type": "e",
+    "from": "linkey2011",
+    "from_who": "linkey2011",
+    "creator": "key lin",
+    "creator_uid": 2340,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649613636",
+    "length": 21
   }
 ]
