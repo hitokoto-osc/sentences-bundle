@@ -18394,5 +18394,61 @@
     "commit_from": "web",
     "created_at": "1652357697",
     "length": 27
+  },
+  {
+    "id": 8490,
+    "uuid": "f13212dd-1e61-4638-83ec-613c3e2e59ff",
+    "hitokoto": "从来如此，便对么？",
+    "type": "d",
+    "from": "狂人日记",
+    "from_who": "鲁迅",
+    "creator": "Will",
+    "creator_uid": 10507,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1633056065",
+    "length": 9
+  },
+  {
+    "id": 8491,
+    "uuid": "9e0a6261-6f66-4b3d-b169-20b0d67003c1",
+    "hitokoto": "不要温和地走进那个良夜。怒斥，怒斥光明的消逝。",
+    "type": "d",
+    "from": "不要温和地走进那个良夜",
+    "from_who": "狄兰·托马斯",
+    "creator": "Will",
+    "creator_uid": 10507,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1633055882",
+    "length": 23
+  },
+  {
+    "id": 8492,
+    "uuid": "df572074-be94-4931-8d0f-b5b1fcf5f13e",
+    "hitokoto": "如无必要，勿增实体。",
+    "type": "d",
+    "from": "箴言书注",
+    "from_who": "奥卡姆",
+    "creator": "Will",
+    "creator_uid": 10507,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1633056293",
+    "length": 10
+  },
+  {
+    "id": 8493,
+    "uuid": "84139c74-cac0-4389-97b1-fe455e56a495",
+    "hitokoto": "往日的推心置腹已经一去不返，同谋和交流变成敌意与缄默。",
+    "type": "d",
+    "from": "百年孤独",
+    "from_who": "马尔克斯",
+    "creator": "Will",
+    "creator_uid": 10507,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1633056590",
+    "length": 27
   }
 ]
