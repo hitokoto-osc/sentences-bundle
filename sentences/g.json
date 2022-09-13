@@ -7250,5 +7250,33 @@
     "commit_from": "web",
     "created_at": "1641371213",
     "length": 12
+  },
+  {
+    "id": 8395,
+    "uuid": "6b70ccf1-1b68-4c55-9e49-e84ef797d953",
+    "hitokoto": "不让我们站在巨人的肩膀上，我们就自己成长为巨人。",
+    "type": "g",
+    "from": "朗读者",
+    "from_who": "董卿",
+    "creator": "高消费给媳妇关心烦",
+    "creator_uid": 11273,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1644935569",
+    "length": 24
+  },
+  {
+    "id": 8400,
+    "uuid": "575e36a4-68f8-43e9-8245-7ad76adfd63a",
+    "hitokoto": "败在我手中之敌，从来不会被我视为对手，我给你时间追赶，直至你遥望不见。",
+    "type": "g",
+    "from": "完美世界.石昊",
+    "from_who": "辰东",
+    "creator": "•᷄ࡇ•᷅",
+    "creator_uid": 11568,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1645522258",
+    "length": 35
   }
 ]
