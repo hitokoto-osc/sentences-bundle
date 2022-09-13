@@ -18506,5 +18506,61 @@
     "commit_from": "web",
     "created_at": "1626873118",
     "length": 24
+  },
+  {
+    "id": 8535,
+    "uuid": "f7ebb166-7753-468d-815e-279b9fb37459",
+    "hitokoto": "往前走，往前看，哪怕前途一片迷惘，哪怕只是凭着惯性继续往前走——总有一天，会在自己漫长的脚印中找到方向。",
+    "type": "d",
+    "from": "默读",
+    "from_who": "Priest",
+    "creator": "Morning Dew",
+    "creator_uid": 9775,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1629181350",
+    "length": 52
+  },
+  {
+    "id": 8536,
+    "uuid": "0c8980fa-a553-45df-9929-52df11616683",
+    "hitokoto": "在地行走，尘埃总会粘鞋，我弯腰拍拍裤腿，在阳光下继续大步前行。",
+    "type": "d",
+    "from": "岁月间",
+    "from_who": "静水边",
+    "creator": "Morning Dew",
+    "creator_uid": 9775,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1629181394",
+    "length": 31
+  },
+  {
+    "id": 8541,
+    "uuid": "87d0bcce-081e-4175-8f7f-9b6ef19ce39e",
+    "hitokoto": "在人类生活的痛苦之中，爱的表达困难比比皆是。这种表达的拙劣和困顿，不正是人类不幸的根源所在吗？",
+    "type": "d",
+    "from": "惜别",
+    "from_who": "太宰治",
+    "creator": "归期",
+    "creator_uid": 10164,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1629380618",
+    "length": 47
+  },
+  {
+    "id": 8542,
+    "uuid": "1101421a-dd49-4779-8206-599581eaf7ee",
+    "hitokoto": "我很喜欢你，但你是自由的。",
+    "type": "d",
+    "from": "附加遗产",
+    "from_who": "水千丞",
+    "creator": "Morning Dew",
+    "creator_uid": 9775,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1629181139",
+    "length": 13
   }
 ]

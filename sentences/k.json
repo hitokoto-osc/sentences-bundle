@@ -2084,5 +2084,19 @@
     "commit_from": "web",
     "created_at": "1660481472",
     "length": 10
+  },
+  {
+    "id": 8533,
+    "uuid": "37f5ca75-33a8-4932-95fa-efc11753b057",
+    "hitokoto": "剃刀边缘怎能起造伽蓝。",
+    "type": "k",
+    "from": "爱默生家的恶客",
+    "from_who": "木心",
+    "creator": "奥修内平",
+    "creator_uid": 10008,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1628232695",
+    "length": 11
   }
 ]

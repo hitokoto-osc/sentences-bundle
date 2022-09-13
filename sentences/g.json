@@ -7390,5 +7390,47 @@
     "commit_from": "web",
     "created_at": "1631106582",
     "length": 25
+  },
+  {
+    "id": 8538,
+    "uuid": "c19a9a4d-86a9-415e-b0e7-a2b47135a179",
+    "hitokoto": "有些人，一旦错过就不在。",
+    "type": "g",
+    "from": "后来",
+    "from_who": "刘若英",
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1629228710",
+    "length": 12
+  },
+  {
+    "id": 8539,
+    "uuid": "f89c7fd5-da79-429d-879d-e63e71cdcb3c",
+    "hitokoto": "窗外启明星的微光，消散了离别的悲伤，照亮了爱人的行程，而我却仍心存担忧，离别勾起无限悲伤。",
+    "type": "g",
+    "from": "Kaar Deerge Chouvulangnig",
+    "from_who": "sainkho namtchylak",
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1629230076",
+    "length": 45
+  },
+  {
+    "id": 8540,
+    "uuid": "453a0109-c548-44cf-9ab1-4cc5db5b52ec",
+    "hitokoto": "梦想似乎总是，在天空的远方，很害怕我达不到，但我一直不停的追逐着，因为是自己的故事，所以不想放弃。",
+    "type": "g",
+    "from": "",
+    "from_who": "Kiroro",
+    "creator": "smallxu",
+    "creator_uid": 2639,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1629301371",
+    "length": 49
   }
 ]

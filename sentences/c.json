@@ -6998,5 +6998,47 @@
     "commit_from": "web",
     "created_at": "1629788970",
     "length": 13
+  },
+  {
+    "id": 8523,
+    "uuid": "f7a765ab-4e62-431a-a6d4-418724e23e0d",
+    "hitokoto": "一个无法让自己幸福的人，是无法让任何人幸福的.....对于喜欢的人就更是如此了。",
+    "type": "c",
+    "from": "与你相恋的恋爱Recette",
+    "from_who": "源藏",
+    "creator": "White_mu",
+    "creator_uid": 9796,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1627228362",
+    "length": 40
+  },
+  {
+    "id": 8530,
+    "uuid": "05d64101-c050-4b7b-b4f1-3ca7a0fd691e",
+    "hitokoto": "天有烘炉，地生五金，晖冶寒萃照云清。星藏点雪，月隐晦明，拙山枯水大江行。",
+    "type": "c",
+    "from": "明日方舟",
+    "from_who": "画中人",
+    "creator": "白月魁",
+    "creator_uid": 9610,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1628209519",
+    "length": 36
+  },
+  {
+    "id": 8532,
+    "uuid": "bd9fcf05-2f96-452f-9556-cc834754c511",
+    "hitokoto": "一直等待是得不到幸福的，要是有喜欢的东西，就要亲自出手去争取，这样做，才会好好珍惜得到的幸福。",
+    "type": "c",
+    "from": "与你相恋的恋爱Recette",
+    "from_who": "花梨",
+    "creator": "White_mu",
+    "creator_uid": 9796,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1627009104",
+    "length": 47
   }
 ]
