@@ -18352,5 +18352,47 @@
     "commit_from": "web",
     "created_at": "1650466310",
     "length": 21
+  },
+  {
+    "id": 8474,
+    "uuid": "ac87c152-1977-4d86-8330-c38062a4ddac",
+    "hitokoto": "他毕生的爱已经全部化为一点无可言喻的星光。",
+    "type": "d",
+    "from": "悲惨世界",
+    "from_who": "雨果",
+    "creator": "ABlyh",
+    "creator_uid": 12821,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1660556563",
+    "length": 21
+  },
+  {
+    "id": 8476,
+    "uuid": "cfe63e9e-dd65-4fd9-b56a-ecb829f498fe",
+    "hitokoto": "假作真时真亦假，无为有处有还无。",
+    "type": "d",
+    "from": "红楼梦",
+    "from_who": "曹雪芹",
+    "creator": "独行长路",
+    "creator_uid": 12858,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1660639918",
+    "length": 16
+  },
+  {
+    "id": 8478,
+    "uuid": "4e507e7d-6c7c-4b60-ad56-1f8fb97e7014",
+    "hitokoto": "付出，不是索求回报的筹码；甘愿，只是喜欢一个人的前提。",
+    "type": "d",
+    "from": "你愿意跟我玩吗",
+    "from_who": "郑执",
+    "creator": "Egoist",
+    "creator_uid": 12326,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1652357697",
+    "length": 27
   }
 ]

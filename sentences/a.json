@@ -17750,5 +17750,33 @@
     "commit_from": "app",
     "created_at": "1645522515",
     "length": 36
+  },
+  {
+    "id": 8468,
+    "uuid": "556e6181-a0f4-4ae5-a224-936f0e4c6b85",
+    "hitokoto": "我不再逃避了，我要改变，接受一切，以自己为豪，来爱龙儿。",
+    "type": "a",
+    "from": "龙与虎",
+    "from_who": "逢坂大河",
+    "creator": "逢坂Taiga大河",
+    "creator_uid": 12231,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1651467386",
+    "length": 28
+  },
+  {
+    "id": 8472,
+    "uuid": "feef2059-6408-4bcb-83fb-bc6268292f76",
+    "hitokoto": "我真的是high到不行啊！",
+    "type": "a",
+    "from": "JOJO的奇妙冒险",
+    "from_who": "Dio",
+    "creator": "Tron",
+    "creator_uid": 12883,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1660876454",
+    "length": 13
   }
 ]
