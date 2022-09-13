@@ -6956,5 +6956,47 @@
     "commit_from": "web",
     "created_at": "1650457267",
     "length": 18
+  },
+  {
+    "id": 8512,
+    "uuid": "2239f0f9-b07c-4786-995c-f15af0a2d82e",
+    "hitokoto": "腾龙飞鳞，虽寿比山岳，终为土灰。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "送仙典仪讣告",
+    "creator": "Sunset Shimmer",
+    "creator_uid": 10343,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1630979069",
+    "length": 16
+  },
+  {
+    "id": 8513,
+    "uuid": "5f83502c-ff67-4e2a-83d1-5c0f9ef02d74",
+    "hitokoto": "最初的鸟儿是不会飞翔的，飞翔是它们勇敢跃入峡谷的奖励。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "安柏",
+    "creator": "Sunset Shimmer",
+    "creator_uid": 10343,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1630979082",
+    "length": 27
+  },
+  {
+    "id": 8514,
+    "uuid": "1d229a47-c62e-478c-84ab-54b3d1596a30",
+    "hitokoto": "江山赠你，你还我一生欢喜。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "嬴政",
+    "creator": "c",
+    "creator_uid": 10201,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1629788970",
+    "length": 13
   }
 ]
