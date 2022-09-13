@@ -12626,5 +12626,47 @@
     "commit_from": "web",
     "created_at": "1645029726",
     "length": 51
+  },
+  {
+    "id": 8404,
+    "uuid": "23276d7b-2f02-4b4e-a728-991e105ae8e0",
+    "hitokoto": "我曾想过给你写一封信，满腔心潮翻涌，最后只落下一个致你。",
+    "type": "e",
+    "from": "关于那些从未提起过的情书",
+    "from_who": "茶褐",
+    "creator": "茶褐",
+    "creator_uid": 11611,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1646048436",
+    "length": 28
+  },
+  {
+    "id": 8409,
+    "uuid": "20a7d441-3007-4bde-a9eb-d7abc6ea99ba",
+    "hitokoto": "电脑的处理器总比执行单元小。",
+    "type": "e",
+    "from": "脑子",
+    "from_who": "licorp",
+    "creator": "licorp",
+    "creator_uid": 11782,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1647767194",
+    "length": 14
+  },
+  {
+    "id": 8410,
+    "uuid": "9e1b3640-87be-4ed5-a46b-00a052038021",
+    "hitokoto": "细节决成败，态度决未来。",
+    "type": "e",
+    "from": "繁华",
+    "from_who": "繁华",
+    "creator": "Fanhua",
+    "creator_uid": 11785,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1647782781",
+    "length": 12
   }
 ]
