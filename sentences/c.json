@@ -6760,5 +6760,33 @@
     "commit_from": "web",
     "created_at": "1639268013",
     "length": 27
+  },
+  {
+    "id": 8360,
+    "uuid": "780e0fd6-9ea1-4fa4-b418-c07b86584772",
+    "hitokoto": "当你重新踏上旅途之后，一定要记得旅途本身的意义。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "温迪",
+    "creator": "Forillusion",
+    "creator_uid": 11012,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1639268005",
+    "length": 24
+  },
+  {
+    "id": 8361,
+    "uuid": "07da09b9-fad5-48b3-bec8-1b1dbdf3f1ab",
+    "hitokoto": "最了解一个人的，往往是他的敌人。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "温迪",
+    "creator": "Forillusion",
+    "creator_uid": 11012,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1639268021",
+    "length": 16
   }
 ]
