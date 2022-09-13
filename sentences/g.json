@@ -7656,5 +7656,33 @@
     "commit_from": "web",
     "created_at": "1634348078",
     "length": 20
+  },
+  {
+    "id": 8642,
+    "uuid": "f93da842-4ff8-4dd2-8c0f-648a5587f53c",
+    "hitokoto": "爱情没有那么多借口，如果最终没能在一起，只能说明爱的不够。",
+    "type": "g",
+    "from": "恋恋笔记本",
+    "from_who": "恋恋笔记本",
+    "creator": "陈先生",
+    "creator_uid": 11120,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1640626481",
+    "length": 29
+  },
+  {
+    "id": 8644,
+    "uuid": "19c9f6ae-ecc7-4f1d-b4b1-72db7e835e9e",
+    "hitokoto": "原来世界最远不是距离而是昨天。",
+    "type": "g",
+    "from": "倒流时间",
+    "from_who": "邓紫棋",
+    "creator": "陈先生",
+    "creator_uid": 11120,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1640579651",
+    "length": 15
   }
 ]
