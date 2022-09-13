@@ -2028,5 +2028,19 @@
     "commit_from": "web",
     "created_at": "1625477043",
     "length": 41
+  },
+  {
+    "id": 8348,
+    "uuid": "969506ed-37d7-4231-9f8c-055b88a7a3d4",
+    "hitokoto": "行远自迩，登高自卑。",
+    "type": "k",
+    "from": "礼记",
+    "from_who": "戴圣",
+    "creator": "院长",
+    "creator_uid": 10721,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1636084047",
+    "length": 10
   }
 ]

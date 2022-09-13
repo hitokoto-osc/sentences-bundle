@@ -6718,5 +6718,47 @@
     "commit_from": "web",
     "created_at": "1628557060",
     "length": 23
+  },
+  {
+    "id": 8357,
+    "uuid": "66d1da15-aa1b-4d14-869e-e406af7c2b59",
+    "hitokoto": "漩涡无法击碎的磐岩，也终究会在时光的冲刷下磨损。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "钟离",
+    "creator": "Forillusion",
+    "creator_uid": 11012,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1639267989",
+    "length": 24
+  },
+  {
+    "id": 8358,
+    "uuid": "b914d30e-7ec1-45f0-a092-ebb3cfeff003",
+    "hitokoto": "我们都还没来得及说再见，所以，我不会把它当做离别。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "足迹",
+    "creator": "Forillusion",
+    "creator_uid": 11012,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1639268028",
+    "length": 25
+  },
+  {
+    "id": 8359,
+    "uuid": "5fe8c0e5-10d8-4b6b-8acd-b6e5e42630b0",
+    "hitokoto": "最初的鸟儿是不会飞翔的，飞翔是他们勇敢跃入峡谷的奖励。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "温迪",
+    "creator": "Forillusion",
+    "creator_uid": 11012,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1639268013",
+    "length": 27
   }
 ]
