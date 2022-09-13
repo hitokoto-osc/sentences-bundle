@@ -2140,5 +2140,61 @@
     "commit_from": "web",
     "created_at": "1644009670",
     "length": 41
+  },
+  {
+    "id": 8599,
+    "uuid": "2ceb5382-ff3b-4a86-aff2-960b3357cbba",
+    "hitokoto": "忧郁是因为自己无能，烦恼是由于欲望得不到满足，暴躁是一种虚怯的表现。",
+    "type": "k",
+    "from": "三个火枪手",
+    "from_who": "大仲马",
+    "creator": "空白",
+    "creator_uid": 11420,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1644009412",
+    "length": 34
+  },
+  {
+    "id": 8600,
+    "uuid": "b3c10cd8-2b76-4b29-8f47-cb4a0e7b65db",
+    "hitokoto": "大风可以吹起一张白纸，却无法吹走一只蝴蝶，因为生命的力量在于不顺从。",
+    "type": "k",
+    "from": "冯骥才",
+    "from_who": "冯骥才",
+    "creator": "空白",
+    "creator_uid": 11420,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1644009443",
+    "length": 34
+  },
+  {
+    "id": 8603,
+    "uuid": "bba09d87-1c82-42f1-aaa2-e87d2e45e941",
+    "hitokoto": "一个知识越贫乏的人，越是拥有一种莫名奇怪的勇气和自豪感，因为知识越贫乏，你所相信的东西就越绝对，你根本没有听过与此相对立的观点。",
+    "type": "k",
+    "from": "罗翔说刑法",
+    "from_who": "罗翔",
+    "creator": "空白",
+    "creator_uid": 11420,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1644009558",
+    "length": 64
+  },
+  {
+    "id": 8607,
+    "uuid": "1db9518a-cccd-4da1-9963-1555bbc368c3",
+    "hitokoto": "不知道从什么时候开始，什么东西上都会有个日期，秋刀鱼会过期，肉罐头会过期，连保鲜纸都会过期，我开始怀疑，还有什么东西是不会过期的？",
+    "type": "k",
+    "from": "重庆森林",
+    "from_who": "王家卫",
+    "creator": "空白",
+    "creator_uid": 11420,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1644009488",
+    "length": 65
   }
 ]
