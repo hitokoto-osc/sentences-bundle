@@ -6886,5 +6886,47 @@
     "commit_from": "web",
     "created_at": "1639268039",
     "length": 27
+  },
+  {
+    "id": 8383,
+    "uuid": "18ee9e10-69f4-4c5c-8f4a-235daca89e2a",
+    "hitokoto": "那手中的冥火，是坦克中的噩梦；无极里的鬼影，在我的身边穿梭。",
+    "type": "c",
+    "from": "英雄联盟",
+    "from_who": "无极剑圣",
+    "creator": "xcc",
+    "creator_uid": 10404,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1642644800",
+    "length": 30
+  },
+  {
+    "id": 8384,
+    "uuid": "cafe0dc5-570b-4631-b398-630aa5f638cb",
+    "hitokoto": "不管是烈火还是深海，都取不走我的命。",
+    "type": "c",
+    "from": "英雄联盟",
+    "from_who": "海洋之灾·普朗克",
+    "creator": "xcc",
+    "creator_uid": 10404,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1642645254",
+    "length": 18
+  },
+  {
+    "id": 8385,
+    "uuid": "e31b3aca-0c74-4708-9edf-12ad9739e663",
+    "hitokoto": "言者议事，行者立史。",
+    "type": "c",
+    "from": "英雄联盟",
+    "from_who": "德玛西亚皇子·嘉文四世",
+    "creator": "xcc",
+    "creator_uid": 10404,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1642645945",
+    "length": 10
   }
 ]

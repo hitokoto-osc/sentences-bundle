@@ -9224,5 +9224,33 @@
     "commit_from": "web",
     "created_at": "1659595834",
     "length": 16
+  },
+  {
+    "id": 8379,
+    "uuid": "33ce3ea0-baf6-4561-b6a7-26977b3c6533",
+    "hitokoto": "待羊儿，酒罢又烹茶，扬州鹤。",
+    "type": "i",
+    "from": "宋词",
+    "from_who": "辛弃疾",
+    "creator": "扬州鹤",
+    "creator_uid": 11176,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1641221060",
+    "length": 14
+  },
+  {
+    "id": 8388,
+    "uuid": "694d2ed4-e6fa-4012-b75e-529739064cb6",
+    "hitokoto": "兴，百姓苦；亡，百姓苦。",
+    "type": "i",
+    "from": "山坡羊·潼关怀古",
+    "from_who": "张养浩",
+    "creator": "all",
+    "creator_uid": 11258,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1642243999",
+    "length": 12
   }
 ]
