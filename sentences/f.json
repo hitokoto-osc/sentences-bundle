@@ -8300,5 +8300,33 @@
     "commit_from": "web",
     "created_at": "1643525421",
     "length": 15
+  },
+  {
+    "id": 8612,
+    "uuid": "ebbdb7af-1483-4356-8a00-8026c51610f9",
+    "hitokoto": "人本身可以是聚光灯，我自己可以就是发光体。",
+    "type": "f",
+    "from": "时代少年团",
+    "from_who": "刘耀文",
+    "creator": "小苏不酥",
+    "creator_uid": 11338,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1643175808",
+    "length": 21
+  },
+  {
+    "id": 8614,
+    "uuid": "9da80e53-ab81-41b8-b16d-c50eda830759",
+    "hitokoto": "你不一定逆风翻盘，但请一定向阳而生。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "韩浩",
+    "creator_uid": 11320,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1642856226",
+    "length": 18
   }
 ]

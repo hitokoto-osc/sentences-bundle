@@ -9392,5 +9392,19 @@
     "commit_from": "web",
     "created_at": "1643463512",
     "length": 16
+  },
+  {
+    "id": 8616,
+    "uuid": "a18e34d0-4021-4eb6-9f14-97ef21a51cd9",
+    "hitokoto": "情动于中而形于言，言之不足，故嗟叹之，嗟叹之不足，故永歌之。",
+    "type": "i",
+    "from": "人民日报",
+    "from_who": "毛诗序",
+    "creator": "濛濛时雨",
+    "creator_uid": 10636,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1634828008",
+    "length": 30
   }
 ]
