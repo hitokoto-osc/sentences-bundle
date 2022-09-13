@@ -7180,5 +7180,47 @@
     "commit_from": "web",
     "created_at": "1641701173",
     "length": 16
+  },
+  {
+    "id": 8324,
+    "uuid": "661a107d-0ef0-4214-ae68-536a17ab46eb",
+    "hitokoto": "富强、民主、文明、和谐、自由、平等、公正、法治、爱国、敬业、诚信、友善。",
+    "type": "g",
+    "from": "社会主义核心价值观",
+    "from_who": null,
+    "creator": "社会主义好",
+    "creator_uid": 9813,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1626772502",
+    "length": 36
+  },
+  {
+    "id": 8338,
+    "uuid": "4f0ac644-496b-4b21-871c-96d254bd9073",
+    "hitokoto": "When I saw you,all the stars came to life.I will remember you till the end.",
+    "type": "g",
+    "from": "Can You Hear Me",
+    "from_who": null,
+    "creator": "一只上上签",
+    "creator_uid": 8825,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1629123275",
+    "length": 75
+  },
+  {
+    "id": 8341,
+    "uuid": "1f95d0a1-2db3-4cba-8c21-531ba3045774",
+    "hitokoto": "不要因为走得太远，就忘了当初，为什么出发。",
+    "type": "g",
+    "from": "白岩松",
+    "from_who": "白岩松",
+    "creator": "Ariml",
+    "creator_uid": 10032,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1628483737",
+    "length": 21
   }
 ]

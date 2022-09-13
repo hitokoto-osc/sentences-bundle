@@ -6690,5 +6690,33 @@
     "commit_from": "web",
     "created_at": "1653881193",
     "length": 31
+  },
+  {
+    "id": 8337,
+    "uuid": "fad54358-cff6-4026-b83c-41895cba6bc4",
+    "hitokoto": "恋爱不是下定决心后才开始的，而是回过神来时就开始了哦。",
+    "type": "c",
+    "from": "与你相恋的恋爱Recette",
+    "from_who": "圣",
+    "creator": "White_mu",
+    "creator_uid": 9796,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1626686995",
+    "length": 27
+  },
+  {
+    "id": 8340,
+    "uuid": "90de8723-534f-4554-b590-25e2302a7b65",
+    "hitokoto": "我正在，寻找着我自己……请问，您知道些什么吗？",
+    "type": "c",
+    "from": "Summer Pockets",
+    "from_who": "紬·文德斯",
+    "creator": "aoikajitsu",
+    "creator_uid": 10055,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1628557060",
+    "length": 23
   }
 ]
