@@ -2098,5 +2098,33 @@
     "commit_from": "web",
     "created_at": "1628232695",
     "length": 11
+  },
+  {
+    "id": 8554,
+    "uuid": "a945df48-3b81-4441-9fb8-a83e2c342c47",
+    "hitokoto": "芝兰生于深林，不以无人而不芳；君子修道立德，不为穷困而改节。",
+    "type": "k",
+    "from": "孔子家语·在厄",
+    "from_who": "孔子",
+    "creator": "Clouder",
+    "creator_uid": 10584,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1634138313",
+    "length": 30
+  },
+  {
+    "id": 8563,
+    "uuid": "207ae24a-156f-4cd7-94cb-1c8e2d315001",
+    "hitokoto": "凡是值得思想的事情，没有不是被人思考过的；我们必须做的只是试图重新加以思考而已。",
+    "type": "k",
+    "from": "歌德",
+    "from_who": "歌德",
+    "creator": "Clouder",
+    "creator_uid": 10584,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1634137556",
+    "length": 40
   }
 ]

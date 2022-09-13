@@ -7460,5 +7460,47 @@
     "commit_from": "web",
     "created_at": "1634137416",
     "length": 19
+  },
+  {
+    "id": 8561,
+    "uuid": "f24be392-f21b-4ed7-90a9-af7e800f55b2",
+    "hitokoto": "这个世界的麻烦就是傻瓜非常自信 ，而智者总是充满疑虑。",
+    "type": "g",
+    "from": "罗素",
+    "from_who": "罗素",
+    "creator": "Clouder",
+    "creator_uid": 10584,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1634137535",
+    "length": 27
+  },
+  {
+    "id": 8575,
+    "uuid": "e8b16d0b-b327-4308-ac75-f1ca5e62b659",
+    "hitokoto": "生まれた意味などなかった。",
+    "type": "g",
+    "from": "まふまふ",
+    "from_who": "まふまふ",
+    "creator": "TR-0",
+    "creator_uid": 10939,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1638374875",
+    "length": 13
+  },
+  {
+    "id": 8577,
+    "uuid": "204dea35-6cb9-4f0d-b4e3-09a6692feaba",
+    "hitokoto": "可总是有人来不及证明，就已被看腻。",
+    "type": "g",
+    "from": "狐狸",
+    "from_who": "薛之谦",
+    "creator": "iron",
+    "creator_uid": 10953,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1638522093",
+    "length": 17
   }
 ]
