@@ -13354,5 +13354,33 @@
     "commit_from": "web",
     "created_at": "1642774384",
     "length": 16
+  },
+  {
+    "id": 8649,
+    "uuid": "1ca4fff6-d44a-454a-bb3a-e29ce2bfb5fd",
+    "hitokoto": "夏天的太阳，总是给人火辣的感觉，冬天的太阳，却给人暖暖的感觉，所以，需要在适合的时候，做适合的事情。",
+    "type": "e",
+    "from": "凉都小道",
+    "from_who": "凉都小道",
+    "creator": "ycrxun",
+    "creator_uid": 4353,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1637806367",
+    "length": 50
+  },
+  {
+    "id": 8652,
+    "uuid": "a1899a9a-cf37-4bf9-a25b-0b6ab3f5f2a6",
+    "hitokoto": "我只是希望能够超越自己。",
+    "type": "e",
+    "from": "HONTARG",
+    "from_who": "HONTARG",
+    "creator": "jigeshuohua",
+    "creator_uid": 10371,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1637326112",
+    "length": 12
   }
 ]

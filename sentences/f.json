@@ -8328,5 +8328,47 @@
     "commit_from": "web",
     "created_at": "1642856226",
     "length": 18
+  },
+  {
+    "id": 8647,
+    "uuid": "0369a309-b10a-42c5-a772-c9c45ed7b0d1",
+    "hitokoto": "人这一生大约会说8.8万谎，最容易脱口而出的是，没事。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "xiao yejun",
+    "creator_uid": 10850,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1637407222",
+    "length": 27
+  },
+  {
+    "id": 8648,
+    "uuid": "41d87fe8-6247-4f03-a4ad-fbf8d8e6f7d6",
+    "hitokoto": "愿你无所畏惧，向阳而生。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "sir X",
+    "creator_uid": 10848,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1637457201",
+    "length": 12
+  },
+  {
+    "id": 8650,
+    "uuid": "7433279e-6797-4332-b1fd-f9ef38fbd6b1",
+    "hitokoto": "盐于律己，甜以待人。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "xiao yejun",
+    "creator_uid": 10850,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1637407068",
+    "length": 10
   }
 ]
