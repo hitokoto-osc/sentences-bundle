@@ -1622,5 +1622,33 @@
     "commit_from": "web",
     "created_at": "1644460005",
     "length": 9
+  },
+  {
+    "id": 8763,
+    "uuid": "ea6df56b-f24f-4de0-9cd8-24c86a38c9d3",
+    "hitokoto": "这两个过早的品尝了人世沧桑的孩子一见如故。",
+    "type": "h",
+    "from": "神奇动物在哪里",
+    "from_who": "J.K.罗琳",
+    "creator": "Akino",
+    "creator_uid": 12209,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1651298447",
+    "length": 21
+  },
+  {
+    "id": 8766,
+    "uuid": "9efa5599-7ea5-4397-9c1a-3ccaf2f0bc66",
+    "hitokoto": "本杰明，我们命中注定要失去所爱之人， 不然我们怎么知道，他们在我们的生命中有多重要？",
+    "type": "h",
+    "from": "返老还童",
+    "from_who": null,
+    "creator": "Yougt",
+    "creator_uid": 12199,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1651222927",
+    "length": 42
   }
 ]

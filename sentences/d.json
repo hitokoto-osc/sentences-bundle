@@ -18856,5 +18856,61 @@
     "commit_from": "web",
     "created_at": "1645147660",
     "length": 28
+  },
+  {
+    "id": 8761,
+    "uuid": "ed52c8e8-1fad-44c4-9f61-d2dc43438aa3",
+    "hitokoto": "从容不迫的举止，比起咄咄逼人的态度，更能令人心折。",
+    "type": "d",
+    "from": "亲爱的三毛",
+    "from_who": "三毛",
+    "creator": "RGZZJQR",
+    "creator_uid": 12206,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1651292790",
+    "length": 25
+  },
+  {
+    "id": 8762,
+    "uuid": "b592abeb-3657-4040-b907-c5406d5e3342",
+    "hitokoto": "我追索人心的深度，却看到了人心的浅薄。",
+    "type": "d",
+    "from": "云雀叫了一整天》",
+    "from_who": "木心",
+    "creator": "RGZZJQR",
+    "creator_uid": 12206,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1651292830",
+    "length": 19
+  },
+  {
+    "id": 8764,
+    "uuid": "47a30e30-ad89-430c-aebf-9e86e076bca6",
+    "hitokoto": "你是这个世界上我最在乎的人之一了，可是我不知道这算不算爱。",
+    "type": "d",
+    "from": "深海里的星星",
+    "from_who": "独木舟",
+    "creator": "RGZZJQR",
+    "creator_uid": 12206,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1651290925",
+    "length": 29
+  },
+  {
+    "id": 8770,
+    "uuid": "16784ff9-3b86-4bdc-b19e-06de9d95f4f0",
+    "hitokoto": "人一定要受过伤才会沉默专注，无论是心灵或肉体上的创伤，对成长都有益处。",
+    "type": "d",
+    "from": "花解语",
+    "from_who": "亦舒",
+    "creator": "焦糖and瓜子",
+    "creator_uid": 12043,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1650085615",
+    "length": 35
   }
 ]
