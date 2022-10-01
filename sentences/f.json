@@ -8496,5 +8496,47 @@
     "commit_from": "web",
     "created_at": "1647139694",
     "length": 10
+  },
+  {
+    "id": 8753,
+    "uuid": "adaf28af-b7af-4fca-8b20-d1da77610703",
+    "hitokoto": "拼命奔跑，华丽跌倒。人山人海，边走边爱。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "•᷄ࡇ•᷅",
+    "creator_uid": 11568,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1651913176",
+    "length": 20
+  },
+  {
+    "id": 8754,
+    "uuid": "db9d96f8-8991-4ca7-bfc5-13478ce7d761",
+    "hitokoto": "如果本来就知道是结果失败的，那为何还要尝试呢？",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "8419",
+    "creator_uid": 11434,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1652191313",
+    "length": 23
+  },
+  {
+    "id": 8755,
+    "uuid": "029c7020-b43b-40c7-8694-6954ae29bf4f",
+    "hitokoto": "少年没有乌托邦，心向远方自明朗，与风随行皆理想，遗憾最终皆幻想！",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "•᷄ࡇ•᷅",
+    "creator_uid": 11568,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1651586957",
+    "length": 32
   }
 ]
