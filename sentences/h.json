@@ -1664,5 +1664,47 @@
     "commit_from": "web",
     "created_at": "1649475280",
     "length": 26
+  },
+  {
+    "id": 8838,
+    "uuid": "d7c9f8a4-1c78-4edb-ab56-b1d4f2a9908d",
+    "hitokoto": "什么叫正义，正义就是那些赢家所说的冠冕堂皇的话，如果你是个输家，就没什么正义！",
+    "type": "h",
+    "from": "铠甲勇士",
+    "from_who": "路法",
+    "creator": "幻想一笑而过",
+    "creator_uid": 11760,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649475352",
+    "length": 39
+  },
+  {
+    "id": 8839,
+    "uuid": "8276ddf5-a0b8-48d8-9cd3-a7469d866c20",
+    "hitokoto": "智慧需要沉淀，积累才能够饱满。",
+    "type": "h",
+    "from": "铠甲勇士",
+    "from_who": "路法",
+    "creator": "幻想一笑而过",
+    "creator_uid": 11760,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649475394",
+    "length": 15
+  },
+  {
+    "id": 8840,
+    "uuid": "0aab7abd-45a5-4584-b5ca-512a881adf0a",
+    "hitokoto": "自满必定失败，骄傲必定后悔。",
+    "type": "h",
+    "from": "铠甲勇士",
+    "from_who": "路法",
+    "creator": "幻想一笑而过",
+    "creator_uid": 11760,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649475459",
+    "length": 14
   }
 ]
