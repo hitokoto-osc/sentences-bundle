@@ -18940,5 +18940,33 @@
     "commit_from": "web",
     "created_at": "1650250032",
     "length": 43
+  },
+  {
+    "id": 8792,
+    "uuid": "521569a0-244f-486b-bf88-3471917ab3bf",
+    "hitokoto": "夜雨声烦以极其强硬的姿态，骑士般地护卫在了索克萨身前。",
+    "type": "d",
+    "from": "全职高手",
+    "from_who": "蝴蝶蓝",
+    "creator": "凤雏",
+    "creator_uid": 7748,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1650786325",
+    "length": 27
+  },
+  {
+    "id": 8794,
+    "uuid": "79e30a34-0729-4065-a979-8ece63cb70bb",
+    "hitokoto": "当我必须为战争做准备时，你给了我安宁。当我必须让自己愤怒起来的时候，你让我平静。是那种愤怒给了我动力。那才是我。",
+    "type": "d",
+    "from": "仿生人会梦见机械狗吗",
+    "from_who": "TyGently，A Random Day",
+    "creator": "Epsilon He",
+    "creator_uid": 12137,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1650696183",
+    "length": 56
   }
 ]

@@ -18142,5 +18142,33 @@
     "commit_from": "web",
     "created_at": "1652197189",
     "length": 17
+  },
+  {
+    "id": 8797,
+    "uuid": "6176e987-5730-4ce2-ad4a-36c1883d7d51",
+    "hitokoto": "有些人没有见过汪洋，以为江河最为壮美；而有些人，通过一片落叶，却能看到整个秋天。",
+    "type": "a",
+    "from": "天行九歌",
+    "from_who": null,
+    "creator": "D5xun",
+    "creator_uid": 12014,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649920705",
+    "length": 40
+  },
+  {
+    "id": 8798,
+    "uuid": "565ad745-715a-499a-a99f-f238482b943d",
+    "hitokoto": "十年可见春去秋来，百年可证生老病死；千年可叹王朝更替，万年可见斗转星移；凡人如果用一天的视野，去窥探百万年的天地，是否就如同井底之蛙。",
+    "type": "a",
+    "from": "天行九歌",
+    "from_who": null,
+    "creator": "D5xun",
+    "creator_uid": 12014,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649920683",
+    "length": 67
   }
 ]

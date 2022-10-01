@@ -2266,5 +2266,19 @@
     "commit_from": "web",
     "created_at": "1650114344",
     "length": 34
+  },
+  {
+    "id": 8803,
+    "uuid": "35c2399a-5a4f-4025-bd59-019a1150539f",
+    "hitokoto": "悲剧的魅力，在于他毁灭的美；悲剧的不幸，在于它往往不仅仅是悲剧，而且是永远的生活。",
+    "type": "k",
+    "from": "骆驼祥子",
+    "from_who": "鲁迅",
+    "creator": "D5xun",
+    "creator_uid": 12014,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649918539",
+    "length": 41
   }
 ]

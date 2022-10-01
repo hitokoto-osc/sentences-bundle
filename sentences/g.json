@@ -7782,5 +7782,33 @@
     "commit_from": "web",
     "created_at": "1651057124",
     "length": 16
+  },
+  {
+    "id": 8787,
+    "uuid": "8a2833e6-b7b4-4b2e-bd64-a230140681b6",
+    "hitokoto": "Time to never hold our love.",
+    "type": "g",
+    "from": "Ghost Love Score",
+    "from_who": "Nightwish",
+    "creator": "RavenTKF",
+    "creator_uid": 12130,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1650627283",
+    "length": 28
+  },
+  {
+    "id": 8790,
+    "uuid": "265a4c5c-c1bd-47ac-b62d-19d5211c6c07",
+    "hitokoto": "人类不能再生活在恐惧中。没有东西能保护我们，我们必须保护我们自己。",
+    "type": "g",
+    "from": "SCP基金会",
+    "from_who": "“The Administrator”",
+    "creator": "Epsilon He",
+    "creator_uid": 12137,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1650695932",
+    "length": 33
   }
 ]
