@@ -7712,5 +7712,61 @@
     "commit_from": "web",
     "created_at": "1644386210",
     "length": 10
+  },
+  {
+    "id": 8708,
+    "uuid": "3588f3f4-9cc1-4cbb-b2cf-64eb38c19dcc",
+    "hitokoto": "新欢是良药，而我选择了时间。",
+    "type": "g",
+    "from": "九望",
+    "from_who": "九望",
+    "creator": "九望",
+    "creator_uid": 11526,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1645087525",
+    "length": 14
+  },
+  {
+    "id": 8712,
+    "uuid": "9765088c-2a72-4580-ac73-fab8264239ca",
+    "hitokoto": "经历这个你，活成这个我，细数自己。",
+    "type": "g",
+    "from": "年轮说",
+    "from_who": "吴青峰",
+    "creator": "鱼鱼",
+    "creator_uid": 11625,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1646190588",
+    "length": 17
+  },
+  {
+    "id": 8715,
+    "uuid": "a9e4c31d-ed7b-449d-a80a-d9f774aa5570",
+    "hitokoto": "何谓恒久？于祖祖辈辈，不过文化传承。",
+    "type": "g",
+    "from": "人民日报",
+    "from_who": "2021广西北海中考作文",
+    "creator": "SevenWuying",
+    "creator_uid": 11661,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1646491762",
+    "length": 18
+  },
+  {
+    "id": 8716,
+    "uuid": "b26cf9fa-7497-4e3d-8e9e-f09f91498bf7",
+    "hitokoto": "引领天下之情怀，引领创新之力量，引领艺趣之格调。",
+    "type": "g",
+    "from": "嘉兴一中实验学校校训",
+    "from_who": "嘉兴一中实验学校",
+    "creator": "SevenWuying",
+    "creator_uid": 11661,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1646491857",
+    "length": 24
   }
 ]
