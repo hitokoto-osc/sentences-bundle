@@ -8888,5 +8888,47 @@
     "commit_from": "web",
     "created_at": "1649918207",
     "length": 14
+  },
+  {
+    "id": 8820,
+    "uuid": "be659e1a-5484-4982-b492-b9caab9a3043",
+    "hitokoto": "生活是晨起暮落，日子是柴米油盐，喜欢烟火气的平淡与真实。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "•᷄ࡇ•᷅",
+    "creator_uid": 11568,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1648635562",
+    "length": 28
+  },
+  {
+    "id": 8829,
+    "uuid": "1f453123-950f-4c3f-969a-4677ff378dc2",
+    "hitokoto": "人生纵使失败了99次，也要再努力一次，哪怕仅仅是为了凑个整数。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "AoralsFout",
+    "creator_uid": 11926,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649416611",
+    "length": 31
+  },
+  {
+    "id": 8835,
+    "uuid": "a8f420a3-0f9e-4cf2-8664-c1bf42ef638e",
+    "hitokoto": "反正年纪还小，日子还长，那就一边生活，一边期待吧。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "智浅",
+    "creator_uid": 11842,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1649061404",
+    "length": 25
   }
 ]
