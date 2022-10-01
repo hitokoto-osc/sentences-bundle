@@ -18912,5 +18912,33 @@
     "commit_from": "web",
     "created_at": "1650085615",
     "length": 35
+  },
+  {
+    "id": 8778,
+    "uuid": "2003f547-9823-455f-8f7f-d4e9507c4041",
+    "hitokoto": "我就是胆小鬼，我就是不敢主动，可是就是因为我的不主动错过了他。",
+    "type": "d",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "•᷄ࡇ•᷅",
+    "creator_uid": 11568,
+    "reviewer": 1,
+    "commit_from": "app",
+    "created_at": "1650112101",
+    "length": 31
+  },
+  {
+    "id": 8782,
+    "uuid": "8b4d6558-65e7-498b-a5fb-90a63adcc5e7",
+    "hitokoto": "多年以后，面对行刑队，奥雷里亚诺·布恩迪亚上校又回想起来那个和父亲一起见识冰块的下午。",
+    "type": "d",
+    "from": "百年孤独",
+    "from_who": "加西亚·马尔克斯",
+    "creator": "Lorcian",
+    "creator_uid": 12073,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1650250032",
+    "length": 43
   }
 ]
