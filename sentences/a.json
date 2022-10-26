@@ -18170,5 +18170,61 @@
     "commit_from": "web",
     "created_at": "1649920683",
     "length": 67
+  },
+  {
+    "id": 8843,
+    "uuid": "efc18f42-f349-4ae7-a853-ef6558029566",
+    "hitokoto": "如果自己一个不行，那么请相信自己身后的好兄弟！",
+    "type": "a",
+    "from": "喜羊羊与灰太狼",
+    "from_who": "沸羊羊",
+    "creator": "飞小RAN",
+    "creator_uid": 10481,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1662175388",
+    "length": 23
+  },
+  {
+    "id": 8845,
+    "uuid": "80c950e0-4732-4ef8-9587-8809d0500de6",
+    "hitokoto": "我的朋友，我会用自己的力量来守护！",
+    "type": "a",
+    "from": "羊村守护者",
+    "from_who": "喜羊羊",
+    "creator": "飞小RAN",
+    "creator_uid": 10481,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1662175347",
+    "length": 17
+  },
+  {
+    "id": 8846,
+    "uuid": "77233f7f-1b21-44e2-a79d-c2a0be0a3229",
+    "hitokoto": "无论遇到什么困难，我们从不放弃彼此！",
+    "type": "a",
+    "from": "羊村守护者",
+    "from_who": "灰太狼",
+    "creator": "飞小RAN",
+    "creator_uid": 10481,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1662175369",
+    "length": 18
+  },
+  {
+    "id": 8847,
+    "uuid": "e62c8533-5407-40de-aeee-5871d772ca21",
+    "hitokoto": "别忘了，我们是羊村守护者！",
+    "type": "a",
+    "from": "羊村守护者",
+    "from_who": "喜羊羊",
+    "creator": "飞小RAN",
+    "creator_uid": 10481,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1662175505",
+    "length": 13
   }
 ]
