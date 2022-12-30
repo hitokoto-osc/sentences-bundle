@@ -8986,5 +8986,33 @@
     "commit_from": "web",
     "created_at": "1663340117",
     "length": 23
+  },
+  {
+    "id": 8866,
+    "uuid": "582423a6-0429-4d5a-b234-60a2fc87c340",
+    "hitokoto": "眼睛可以近视，目光不能短浅。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "桉",
+    "creator_uid": 12620,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1663340269",
+    "length": 14
+  },
+  {
+    "id": 8867,
+    "uuid": "afd29f3c-ada8-4939-acee-641494fe945f",
+    "hitokoto": "如果惧怕前面跌宕的山岩，生命就永远只能是死水一潭。",
+    "type": "f",
+    "from": "互联网",
+    "from_who": "佚名",
+    "creator": "桉",
+    "creator_uid": 12620,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1663340285",
+    "length": 25
   }
 ]

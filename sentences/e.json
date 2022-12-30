@@ -13900,5 +13900,33 @@
     "commit_from": "app",
     "created_at": "1663333166",
     "length": 13
+  },
+  {
+    "id": 8868,
+    "uuid": "e6996875-27ea-49c8-bb45-6563f1e79b10",
+    "hitokoto": "过期的牛奶失去了价值，迟来的正义也是。",
+    "type": "e",
+    "from": "清巳星岚",
+    "from_who": "清巳星岚",
+    "creator": "kiyomiseran",
+    "creator_uid": 11730,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1663411998",
+    "length": 19
+  },
+  {
+    "id": 8869,
+    "uuid": "fd9c0f74-d3b3-4e23-9822-1cd50b0778b1",
+    "hitokoto": "社会犹如一个立方体，总有不被光照到的一面。",
+    "type": "e",
+    "from": "清巳星岚",
+    "from_who": "清巳星岚",
+    "creator": "kiyomiseran",
+    "creator_uid": 11730,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1663412037",
+    "length": 21
   }
 ]
