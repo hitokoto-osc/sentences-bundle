@@ -18240,5 +18240,33 @@
     "commit_from": "api",
     "created_at": "1666601462",
     "length": 6
+  },
+  {
+    "id": 8886,
+    "uuid": "27bf09c9-a3be-48a6-901f-b41924d5ff2a",
+    "hitokoto": "我也很没用，但是两个人一起的话，就会变得很坚强。",
+    "type": "a",
+    "from": "Clannad",
+    "from_who": "古河渚",
+    "creator": "chancoki",
+    "creator_uid": 13282,
+    "reviewer": 1,
+    "commit_from": "api",
+    "created_at": "1666616621",
+    "length": 24
+  },
+  {
+    "id": 8890,
+    "uuid": "dab765e9-15b8-4a37-85d1-4d2c8794937c",
+    "hitokoto": "如果你捡到这个小熊，请把它交给我们的女儿。",
+    "type": "a",
+    "from": "Clannad",
+    "from_who": "一之濑鸿太郎\u0026一之濑水惠",
+    "creator": "chancoki",
+    "creator_uid": 13282,
+    "reviewer": 1,
+    "commit_from": "api",
+    "created_at": "1666618374",
+    "length": 21
   }
 ]
