@@ -1174,5 +1174,47 @@
     "commit_from": "web",
     "created_at": "1661005922",
     "length": 16
+  },
+  {
+    "id": 8898,
+    "uuid": "6465cc01-08c8-4879-ae26-a3f340dce977",
+    "hitokoto": "アートは最高です！",
+    "type": "b",
+    "from": "火影忍者",
+    "from_who": null,
+    "creator": "fish OI",
+    "creator_uid": 13223,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1665750730",
+    "length": 9
+  },
+  {
+    "id": 8900,
+    "uuid": "bb319d59-cb0e-4d70-933a-2df9df608b6d",
+    "hitokoto": "有形的东西迟早会凋零，但只有回忆是永远不会凋零的。",
+    "type": "b",
+    "from": "火影忍者",
+    "from_who": "纲手",
+    "creator": "fish OI",
+    "creator_uid": 13223,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1665746032",
+    "length": 25
+  },
+  {
+    "id": 8901,
+    "uuid": "c6ec267d-bec3-4b45-87ac-289918b38a29",
+    "hitokoto": "あなたは敵だけど悪くない。",
+    "type": "b",
+    "from": "火影忍者",
+    "from_who": "水门",
+    "creator": "fish OI",
+    "creator_uid": 13223,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1665746259",
+    "length": 13
   }
 ]
