@@ -2364,5 +2364,33 @@
     "commit_from": "web",
     "created_at": "1666017337",
     "length": 14
+  },
+  {
+    "id": 8971,
+    "uuid": "12b0eff6-10d2-40de-b1b1-4df8a2fb9189",
+    "hitokoto": "批判的武器当然不能代替武器的批判。",
+    "type": "k",
+    "from": "〈黑格尔法哲学批判〉导言",
+    "from_who": "马克思",
+    "creator": "CyumEwOari_",
+    "creator_uid": 13482,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1668590515",
+    "length": 17
+  },
+  {
+    "id": 8974,
+    "uuid": "eb6e3bf5-cd49-4904-866f-923162e854b9",
+    "hitokoto": "圣人不死，大盗不止。",
+    "type": "k",
+    "from": "庄子·外篇·胠箧第十",
+    "from_who": "庄子及门生（外篇）",
+    "creator": "因因乎",
+    "creator_uid": 13526,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1669015108",
+    "length": 10
   }
 ]

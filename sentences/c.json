@@ -8006,5 +8006,47 @@
     "commit_from": "web",
     "created_at": "1668163144",
     "length": 32
+  },
+  {
+    "id": 8975,
+    "uuid": "f890cc70-0690-40df-aad1-fb282fa9e1ad",
+    "hitokoto": "所谓的永恒，就是不再失去已拥有之物，但从别的角度说，也放弃了得到更多的可能，不过世事总是如此，没人能够得到全部。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "八重神子",
+    "creator": "左岸2333",
+    "creator_uid": 1136,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1669266537",
+    "length": 56
+  },
+  {
+    "id": 8976,
+    "uuid": "a1ba2b75-01a8-4a40-abce-45838d6d8e2d",
+    "hitokoto": "明明生命短暂，却能散发映昼光辉。他们之中，有些人的光芒，即使隔开久远时间长河都不曾黯淡。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "八重神子",
+    "creator": "左岸2333",
+    "creator_uid": 1136,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1669266561",
+    "length": 44
+  },
+  {
+    "id": 8979,
+    "uuid": "c4ffeff7-41e1-480b-b259-77661282c637",
+    "hitokoto": "男子汉，就是要把痛苦和愤怒藏在背后，然后露出最爽朗的笑容！",
+    "type": "c",
+    "from": "原神",
+    "from_who": "荒泷一斗",
+    "creator": "yrdhj",
+    "creator_uid": 13569,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1669390800",
+    "length": 29
   }
 ]
