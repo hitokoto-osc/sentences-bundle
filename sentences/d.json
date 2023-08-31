@@ -19304,5 +19304,47 @@
     "commit_from": "web",
     "created_at": "1666184421",
     "length": 18
+  },
+  {
+    "id": 8961,
+    "uuid": "62d90278-1a78-477a-9834-728fa0798e9c",
+    "hitokoto": "月亮不知道她的恬静皎洁，甚至不知道自己是月亮。",
+    "type": "d",
+    "from": "不可知",
+    "from_who": "博尔赫斯",
+    "creator": "羊",
+    "creator_uid": 11344,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1667919850",
+    "length": 23
+  },
+  {
+    "id": 8963,
+    "uuid": "4c03bede-7a3d-47f2-86e7-88cb1d0512dc",
+    "hitokoto": "你要足够完整，才能健康地去爱其他人，去照顾和负担其他人。孤独的核心价值是——跟自己在一起。",
+    "type": "d",
+    "from": "孤独六讲",
+    "from_who": "蒋勋",
+    "creator": "羊",
+    "creator_uid": 11344,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1667919970",
+    "length": 45
+  },
+  {
+    "id": 8967,
+    "uuid": "230cb37d-ae09-4594-b1a1-e3cccc98e18d",
+    "hitokoto": "遥映人间冰雪样，暗香幽浮曲临江。遍识天下英雄路，俯首江左有梅郎。",
+    "type": "d",
+    "from": "琅琊榜",
+    "from_who": "海宴",
+    "creator": "曲念笙",
+    "creator_uid": 13434,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1668018288",
+    "length": 32
   }
 ]

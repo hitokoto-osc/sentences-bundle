@@ -7936,5 +7936,61 @@
     "commit_from": "web",
     "created_at": "1665298311",
     "length": 28
+  },
+  {
+    "id": 8957,
+    "uuid": "9026d16c-6cb1-4460-b65c-b4810849054b",
+    "hitokoto": "为何人们总是拼命证明……自己的存在比其他人更有价值呢？存在本身，就是足够美好的事情了吧？",
+    "type": "c",
+    "from": "原神",
+    "from_who": "甘雨",
+    "creator": "ZC.TigerRoot",
+    "creator_uid": 7567,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1667299411",
+    "length": 44
+  },
+  {
+    "id": 8958,
+    "uuid": "407d275e-d3a7-432e-9401-e383d8b75b30",
+    "hitokoto": "刀剑无眼，匠人有情。人情二字。不就是人类最引以为傲的事物吗？",
+    "type": "c",
+    "from": "原神",
+    "from_who": "钟离",
+    "creator": "ZC.TigerRoot",
+    "creator_uid": 7567,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1667299444",
+    "length": 30
+  },
+  {
+    "id": 8959,
+    "uuid": "ede846c4-f744-4eaf-95eb-417265cf8531",
+    "hitokoto": "战局，没有所谓的弃子，因为对这盘棋局来说，「将杀」并非是终点。",
+    "type": "c",
+    "from": "原神·提瓦特篇",
+    "from_who": "冬夜愚戏",
+    "creator": "ZC.TigerRoot",
+    "creator_uid": 7567,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1667299375",
+    "length": 31
+  },
+  {
+    "id": 8960,
+    "uuid": "a9b668d2-dbf9-40b2-8008-b8dee4f0a6d3",
+    "hitokoto": "你或许长生不老,注定孤独，可那只是暂时之事。当你来到时间的尽头，便会与过去未来所有因缘之人重逢。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "钟离",
+    "creator": "ZC.TigerRoot",
+    "creator_uid": 7567,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1667299475",
+    "length": 48
   }
 ]
