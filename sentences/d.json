@@ -19276,5 +19276,33 @@
     "commit_from": "web",
     "created_at": "1664467926",
     "length": 9
+  },
+  {
+    "id": 8950,
+    "uuid": "2603521e-7cc4-41c2-8e1c-72439b17f0c6",
+    "hitokoto": "仅以此书纪念我的童年，那是一段小有遗憾的快乐时光。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "明年丶明月",
+    "creator_uid": 13255,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1666167189",
+    "length": 25
+  },
+  {
+    "id": 8951,
+    "uuid": "ef8276cd-37cb-4718-944f-91729812e5a4",
+    "hitokoto": "长阶血未尽，那是他带你回家的路啊……",
+    "type": "d",
+    "from": "二哈和他的白猫师尊",
+    "from_who": "肉包不吃肉",
+    "creator": "明年丶明月",
+    "creator_uid": 13255,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1666184421",
+    "length": 18
   }
 ]

@@ -14026,5 +14026,47 @@
     "commit_from": "web",
     "created_at": "1666009223",
     "length": 16
+  },
+  {
+    "id": 8952,
+    "uuid": "76502017-9621-48ac-9eab-7ce1c704d9a7",
+    "hitokoto": "珍夏惜冬贵春秋，昼辛躬作夜不休。墨尽笔断何所谬！是去是归是怀旧？",
+    "type": "e",
+    "from": "钟临天",
+    "from_who": null,
+    "creator": "钟临天",
+    "creator_uid": 13263,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1666229651",
+    "length": 32
+  },
+  {
+    "id": 8954,
+    "uuid": "93ad326e-1a5d-4b7d-addd-501af641aaf7",
+    "hitokoto": "只有当我们把事情想到最坏的时，得知真相后，我们才会不至于很伤心，甚至还有些庆幸。",
+    "type": "e",
+    "from": "",
+    "from_who": "自创",
+    "creator": "748you",
+    "creator_uid": 13265,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1666245177",
+    "length": 40
+  },
+  {
+    "id": 8955,
+    "uuid": "cdccea1d-6f2d-4f96-8115-1e40c77e3783",
+    "hitokoto": "拥你入怀，就像，握紧了一株红玫瑰，是血红色的娇艳，不可方物，死去活来。",
+    "type": "e",
+    "from": "随笔",
+    "from_who": "不负卿的伤",
+    "creator": "不负卿的伤",
+    "creator_uid": 3441,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1666321567",
+    "length": 35
   }
 ]
