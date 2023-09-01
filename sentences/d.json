@@ -19486,5 +19486,19 @@
     "commit_from": "web",
     "created_at": "1669882950",
     "length": 24
+  },
+  {
+    "id": 9011,
+    "uuid": "a7e043f5-93fa-4d29-973a-32dddf779cf3",
+    "hitokoto": "太疼的伤口，你不敢去触碰；太深的忧伤，你不敢去安慰，太残酷的残酷，有时候你不敢去注视。",
+    "type": "d",
+    "from": "目送",
+    "from_who": "龙应台",
+    "creator": "Toserk",
+    "creator_uid": 13198,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1665491557",
+    "length": 43
   }
 ]
