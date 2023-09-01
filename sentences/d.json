@@ -19430,5 +19430,61 @@
     "commit_from": "web",
     "created_at": "1669945738",
     "length": 18
+  },
+  {
+    "id": 8992,
+    "uuid": "efa9b44a-b451-48d6-836b-e4e52ecbeccd",
+    "hitokoto": "当浑浊成为一种常态，清白就是一种罪。",
+    "type": "d",
+    "from": "长明灯",
+    "from_who": "鲁迅",
+    "creator": "ZZCYUN",
+    "creator_uid": 13193,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1665375479",
+    "length": 18
+  },
+  {
+    "id": 8994,
+    "uuid": "e2a1cc2f-9662-4600-ba6e-2f28f4e42583",
+    "hitokoto": "人是为了活着本身而活着，而不是为了活着之外的任何事物而活着。",
+    "type": "d",
+    "from": "活着",
+    "from_who": "余华",
+    "creator": "Toserk",
+    "creator_uid": 13198,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1665492015",
+    "length": 30
+  },
+  {
+    "id": 9006,
+    "uuid": "d34ee069-c578-4ae0-9727-f18f5b89a001",
+    "hitokoto": "那杀不死我的，使我更坚强。",
+    "type": "d",
+    "from": "尼采生存哲学",
+    "from_who": "尼采",
+    "creator": "MMMMMhx",
+    "creator_uid": 13593,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1669603397",
+    "length": 13
+  },
+  {
+    "id": 9007,
+    "uuid": "21ef39bd-f9c0-4e80-9b36-b76213d8a40e",
+    "hitokoto": "简单的东西不是最好的，但最好的东西一定是简单的。",
+    "type": "d",
+    "from": "你的孤独，虽败犹荣",
+    "from_who": "刘同",
+    "creator": "陈弋函",
+    "creator_uid": 10950,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1669882950",
+    "length": 24
   }
 ]
