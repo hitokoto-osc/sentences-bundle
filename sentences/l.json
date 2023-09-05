@@ -222,5 +222,19 @@
     "commit_from": "web",
     "created_at": "2023-09-01 02:15:00.282394875",
     "length": 8
+  },
+  {
+    "id": 9018,
+    "uuid": "6a18a70b-6cb5-494b-9e88-86b095ef6452",
+    "hitokoto": "你怕不怕，这辈子就是上辈子所说的下辈子？",
+    "type": "l",
+    "from": "抖音",
+    "from_who": "未知",
+    "creator": "璃黯",
+    "creator_uid": 13640,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "2023-09-05 18:00:00.422944673",
+    "length": 20
   }
 ]
