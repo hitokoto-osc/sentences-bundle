@@ -7992,5 +7992,19 @@
     "commit_from": "web",
     "created_at": "1666017007",
     "length": 37
+  },
+  {
+    "id": 9023,
+    "uuid": "25c3b36c-7a72-42ba-a2b5-8fed46485422",
+    "hitokoto": "笑只是一个表情，与快乐无关。",
+    "type": "g",
+    "from": "搞笑语录",
+    "from_who": "一个无归期的人",
+    "creator": "一个无归期的人",
+    "creator_uid": 13774,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "2023-09-06 11:00:01.08300992",
+    "length": 14
   }
 ]
