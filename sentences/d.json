@@ -19500,5 +19500,33 @@
     "commit_from": "web",
     "created_at": "1665491557",
     "length": 43
+  },
+  {
+    "id": 9033,
+    "uuid": "2b375388-97ff-4766-b14e-786459a91ca9",
+    "hitokoto": "让我们泰然若素，与自己的时代狭路相逢。",
+    "type": "d",
+    "from": "辛白林",
+    "from_who": "莎翁",
+    "creator": "Baymax1470",
+    "creator_uid": 11722,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "2023-09-08 23:30:02.454579582",
+    "length": 19
+  },
+  {
+    "id": 9035,
+    "uuid": "3a7ade72-f061-4c89-9113-96141bee643d",
+    "hitokoto": "语言不过是沉默的标点符号。",
+    "type": "d",
+    "from": "三体",
+    "from_who": "刘慈欣",
+    "creator": "邱永才",
+    "creator_uid": 13819,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "2023-09-08 23:30:03.022434098",
+    "length": 13
   }
 ]
