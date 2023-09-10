@@ -18478,5 +18478,33 @@
     "commit_from": "web",
     "created_at": "1671158090",
     "length": 18
+  },
+  {
+    "id": 9129,
+    "uuid": "233ebebf-cc3e-4b6e-a608-a0a8a071a313",
+    "hitokoto": "只要有树叶飞舞的地方，火就会燃烧。火的影子会照耀着村子，并且，让新的树叶发芽，当想要保护自己做珍惜的人时，忍者真正的力量才会表现出来。",
+    "type": "a",
+    "from": "火影忍者",
+    "from_who": "三代火影",
+    "creator": "默示",
+    "creator_uid": 13867,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1672219147",
+    "length": 67
+  },
+  {
+    "id": 9130,
+    "uuid": "09268bdf-214d-4ed0-9302-52a0594eb2c4",
+    "hitokoto": "时光流逝，愿你与所爱之人再度重逢。",
+    "type": "a",
+    "from": "可塑性记忆",
+    "from_who": "林直孝",
+    "creator": "风の第七章",
+    "creator_uid": 13834,
+    "reviewer": 1044,
+    "commit_from": "app",
+    "created_at": "1672275529",
+    "length": 17
   }
 ]
