@@ -8174,5 +8174,33 @@
     "commit_from": "web",
     "created_at": "1669947526",
     "length": 23
+  },
+  {
+    "id": 9123,
+    "uuid": "4305bf15-8dc0-4cec-90c2-23183ff0f3c6",
+    "hitokoto": "回不去的故事，没有终点，就像点了一盏灯，光很暗，照不清来时的路，装满了遗憾。",
+    "type": "g",
+    "from": "龙离",
+    "from_who": null,
+    "creator": "佟佟的笨周",
+    "creator_uid": 12338,
+    "reviewer": 1044,
+    "commit_from": "app",
+    "created_at": "1671103024",
+    "length": 38
+  },
+  {
+    "id": 9125,
+    "uuid": "7cabeb04-98a5-457e-b86f-3fc26d51aaea",
+    "hitokoto": "我们的同志在困难的时候，要看到成绩，要看到光明，要提高我们的勇气。",
+    "type": "g",
+    "from": "为人民服务",
+    "from_who": "毛泽东",
+    "creator": "python",
+    "creator_uid": 13727,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1671415277",
+    "length": 33
   }
 ]
