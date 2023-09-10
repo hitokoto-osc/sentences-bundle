@@ -8188,5 +8188,19 @@
     "commit_from": "web",
     "created_at": "2023-09-08 23:45:02.681692305",
     "length": 21
+  },
+  {
+    "id": 9046,
+    "uuid": "3592cfae-73e1-4b8b-b23b-550d7df481b4",
+    "hitokoto": "Five second fuses only last three seconds .",
+    "type": "c",
+    "from": "使命召唤",
+    "from_who": "Infantry Journal",
+    "creator": "假_人工智障",
+    "creator_uid": 13816,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1671531887",
+    "length": 43
   }
 ]
