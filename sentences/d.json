@@ -19668,5 +19668,47 @@
     "commit_from": "web",
     "created_at": "1671623683",
     "length": 23
+  },
+  {
+    "id": 9068,
+    "uuid": "91dda326-aa92-4f54-996e-f69a0be7f2b8",
+    "hitokoto": "Remember me to one who lives there, he once was a true love of mine.",
+    "type": "d",
+    "from": "〈末日时在做什么？有没有空？可以来拯救吗？〉OST",
+    "from_who": "17世纪英国民谣",
+    "creator": "misaka20002",
+    "creator_uid": 13343,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1666933543",
+    "length": 68
+  },
+  {
+    "id": 9069,
+    "uuid": "c35c2197-21c5-4e39-aa39-9ff8b0969554",
+    "hitokoto": "轻轻的我走了，正如我轻轻的来。",
+    "type": "d",
+    "from": "再别康桥",
+    "from_who": "徐志摩",
+    "creator": "hi",
+    "creator_uid": 13354,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1667031106",
+    "length": 15
+  },
+  {
+    "id": 9070,
+    "uuid": "c45b49d0-9a4f-464c-9228-9f9b80eaf544",
+    "hitokoto": "Then wear the gold hat, if that will move her; If you can bounce high, bounce for her too, Till she cry ‘Lover, gold-hatted, high-bouncing lover,\r\nI must have you!’",
+    "type": "d",
+    "from": "The title page of The Great Gatsby",
+    "from_who": "F. Scott Fitzgerald",
+    "creator": "杜知",
+    "creator_uid": 13357,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1667059396",
+    "length": 164
   }
 ]
