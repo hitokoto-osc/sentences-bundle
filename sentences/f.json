@@ -9364,5 +9364,47 @@
     "commit_from": "web",
     "created_at": "1666684840",
     "length": 19
+  },
+  {
+    "id": 9086,
+    "uuid": "78672e1e-2a08-403d-9568-374976bd88b0",
+    "hitokoto": "哪里都去不了，就想念起大海来。",
+    "type": "f",
+    "from": "佚名",
+    "from_who": null,
+    "creator": "杜知",
+    "creator_uid": 13357,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1667837334",
+    "length": 15
+  },
+  {
+    "id": 9094,
+    "uuid": "87c6d25d-a641-4558-9a6e-f9da315a409c",
+    "hitokoto": "其实我们每个人都是一座孤岛。",
+    "type": "f",
+    "from": "佚名",
+    "from_who": null,
+    "creator": "Quorra's chord.",
+    "creator_uid": 13568,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1669693534",
+    "length": 14
+  },
+  {
+    "id": 9096,
+    "uuid": "75a24a7d-67e9-4e6b-91a1-d6d45ac5c53d",
+    "hitokoto": "我们这群人，苦没有真正苦过，爱没有用力爱过。 每天受着信息大潮的冲击，三观未定又备受曲折。 贫穷不再是正义，又妄图不让金钱成为唯一的追求。 过早看到了更大的世界，勤奋却又不过三天。 热血透不过屏幕，回忆止于游戏和工作。 像一群没有根的孩子，在别人的经历和精神里吵闹。",
+    "type": "f",
+    "from": "佚名",
+    "from_who": null,
+    "creator": "odyy345",
+    "creator_uid": 13621,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1669876462",
+    "length": 133
   }
 ]
