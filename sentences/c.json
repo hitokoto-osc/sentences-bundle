@@ -8328,5 +8328,19 @@
     "commit_from": "web",
     "created_at": "1675260059",
     "length": 47
+  },
+  {
+    "id": 9157,
+    "uuid": "abc0f70e-625a-423b-a6c0-0ea27dba5ac8",
+    "hitokoto": "犹豫，就会败北。",
+    "type": "c",
+    "from": "只狼",
+    "from_who": "苇名一心",
+    "creator": "Blemishine",
+    "creator_uid": 14068,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1674403048",
+    "length": 8
   }
 ]
