@@ -292,5 +292,19 @@
     "commit_from": "web",
     "created_at": "1672324383",
     "length": 33
+  },
+  {
+    "id": 9166,
+    "uuid": "596955d9-6366-44bc-a3bd-97819bd1feaf",
+    "hitokoto": "暴雨中前进，伞是倒划天空的船。",
+    "type": "l",
+    "from": "弱智吧",
+    "from_who": null,
+    "creator": "IcyFeather",
+    "creator_uid": 13880,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1672324303",
+    "length": 15
   }
 ]
