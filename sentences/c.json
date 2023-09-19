@@ -8356,5 +8356,33 @@
     "commit_from": "web",
     "created_at": "1675500151",
     "length": 10
+  },
+  {
+    "id": 9172,
+    "uuid": "e7089a5f-4175-4b13-b04c-08ac550a446e",
+    "hitokoto": "不想前进的时候，就暂且停下脚步吧♪",
+    "type": "c",
+    "from": "因你而在的故事",
+    "from_who": "Elysia.",
+    "creator": "Elysian Realm.",
+    "creator_uid": 13954,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1672999832",
+    "length": 17
+  },
+  {
+    "id": 9173,
+    "uuid": "72ce300c-388a-4c1e-8344-18daa16452b3",
+    "hitokoto": "这个世界早已无法拯救，可我们还必须成为英雄。",
+    "type": "c",
+    "from": "崩坏三",
+    "from_who": "普罗米修斯17号",
+    "creator": "Elysian Realm.",
+    "creator_uid": 13954,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1673001120",
+    "length": 22
   }
 ]

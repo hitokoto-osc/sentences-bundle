@@ -19850,5 +19850,47 @@
     "commit_from": "web",
     "created_at": "1676039524",
     "length": 14
+  },
+  {
+    "id": 9170,
+    "uuid": "29091eb9-b269-445a-9e95-d5f745c89327",
+    "hitokoto": "如果我们选择了最能为人类福利而劳动的职业，那么，重担就不能把我们压倒，因为这是为全人类所作的牺牲；那时我们感到的将不是一点点自私而可怜的欢乐，我们的幸福将属于千万人，我们的事业并不显赫一时，但将永远存在；而面对我们的骨灰，高尚的人们将洒下热泪。",
+    "type": "d",
+    "from": "青年在选择职业时的考虑",
+    "from_who": "卡尔•马克思",
+    "creator": "旅禾Tristan",
+    "creator_uid": 13363,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1672660272",
+    "length": 122
+  },
+  {
+    "id": 9179,
+    "uuid": "0fbf04d2-cf4c-4497-8e86-c5b89ed48075",
+    "hitokoto": "用短暂的一生，书写无数离谱的故事。",
+    "type": "d",
+    "from": "互联网",
+    "from_who": "小夫",
+    "creator": "lidrerry",
+    "creator_uid": 13999,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1673522695",
+    "length": 17
+  },
+  {
+    "id": 9181,
+    "uuid": "ae3d3465-de65-4db9-bf69-bb94a4a7552c",
+    "hitokoto": "我知道他不会和我拼命了，可他说的话就像是一把钝刀子在割我的脖子，脑袋掉不下来，倒是疼得死去活来。",
+    "type": "d",
+    "from": "余华",
+    "from_who": null,
+    "creator": "鱼丸粗面",
+    "creator_uid": 14023,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1673782762",
+    "length": 48
   }
 ]
