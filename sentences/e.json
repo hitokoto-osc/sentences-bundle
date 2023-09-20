@@ -14628,5 +14628,61 @@
     "commit_from": "web",
     "created_at": "1673939544",
     "length": 24
+  },
+  {
+    "id": 9194,
+    "uuid": "f35fc0c0-9640-4e1f-8cba-366aafef103b",
+    "hitokoto": "有一种距离，叫做明明互相暗恋，却保持着安全距离。",
+    "type": "e",
+    "from": "突发奇想",
+    "from_who": null,
+    "creator": "huangsatey",
+    "creator_uid": 5916,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1674968189",
+    "length": 24
+  },
+  {
+    "id": 9195,
+    "uuid": "7e83871a-81c1-4542-b298-668cfd50217e",
+    "hitokoto": "我们因为自己喜欢的人而拒绝了喜欢自己的人，而自己喜欢的人也因为他所喜欢的人拒绝了你。",
+    "type": "e",
+    "from": "琳梦",
+    "from_who": null,
+    "creator": "琳梦",
+    "creator_uid": 13944,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1675152658",
+    "length": 42
+  },
+  {
+    "id": 9199,
+    "uuid": "83139216-632d-4dc4-9f9c-aa6242dd50e7",
+    "hitokoto": "黑白的时钟翻滚着浪潮，秒针旋转着人们的心。",
+    "type": "e",
+    "from": "Lazyii",
+    "from_who": null,
+    "creator": "Lazyii",
+    "creator_uid": 14137,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1675344340",
+    "length": 21
+  },
+  {
+    "id": 9200,
+    "uuid": "f9411832-96a8-41d1-83d6-bd9bb528453d",
+    "hitokoto": "爱和很多东西一样，都是先用直觉发现，再用一生去证明的。",
+    "type": "e",
+    "from": "枘凿的半截短诗",
+    "from_who": null,
+    "creator": "枘凿的半截短诗",
+    "creator_uid": 14145,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1675407485",
+    "length": 27
   }
 ]
