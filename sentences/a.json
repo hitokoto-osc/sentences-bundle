@@ -18506,5 +18506,19 @@
     "commit_from": "app",
     "created_at": "1672275529",
     "length": 17
+  },
+  {
+    "id": 9187,
+    "uuid": "bb80776f-dcfa-4084-93a4-74bfabb88d8d",
+    "hitokoto": "In solitude, where we are least alone.",
+    "type": "a",
+    "from": "ヨスガノソラ",
+    "from_who": null,
+    "creator": "一般通过小L",
+    "creator_uid": 14038,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1673981039",
+    "length": 38
   }
 ]
