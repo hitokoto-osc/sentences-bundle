@@ -9728,5 +9728,33 @@
     "commit_from": "web",
     "created_at": "1675852765",
     "length": 19
+  },
+  {
+    "id": 9224,
+    "uuid": "645b42c4-9d42-44da-8b5b-c9c44b1bf7f5",
+    "hitokoto": "你是我最真模样，从来不曾遗忘。",
+    "type": "f",
+    "from": "唱给雅音宫羽",
+    "from_who": "纯白",
+    "creator": "rinictianyide",
+    "creator_uid": 14187,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1676040431",
+    "length": 15
+  },
+  {
+    "id": 9225,
+    "uuid": "6dc3ce16-3d21-400b-9dfe-15c49d67626f",
+    "hitokoto": "就算被世界遗忘，我也会陪在你的身旁。",
+    "type": "f",
+    "from": "唱给雅音宫羽",
+    "from_who": "纯白",
+    "creator": "rinictianyide",
+    "creator_uid": 14187,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1676040522",
+    "length": 18
   }
 ]
