@@ -2770,5 +2770,19 @@
     "commit_from": "web",
     "created_at": "1681620874",
     "length": 14
+  },
+  {
+    "id": 9270,
+    "uuid": "007fb95a-cc95-4109-8740-0568bf128029",
+    "hitokoto": "摆在我们无产阶级面前的有两条路，一条是胜利，一条是死亡。死亡不属于无产阶级！",
+    "type": "k",
+    "from": "列宁全集",
+    "from_who": "弗拉基米尔·伊里奇·列宁",
+    "creator": "UNe-Jh",
+    "creator_uid": 14640,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1681621188",
+    "length": 38
   }
 ]
