@@ -8398,5 +8398,47 @@
     "commit_from": "web",
     "created_at": "1676039596",
     "length": 10
+  },
+  {
+    "id": 9280,
+    "uuid": "7a08b353-1e3c-465c-912d-5d094209f293",
+    "hitokoto": "向着天星的歌者，早已隐没在人群中，如同那淡去的星河。",
+    "type": "g",
+    "from": "星辰的怀念",
+    "from_who": null,
+    "creator": "6737151",
+    "creator_uid": 14182,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1675954707",
+    "length": 26
+  },
+  {
+    "id": 9282,
+    "uuid": "aae821d3-6af7-4333-923f-6ba6ada2efcd",
+    "hitokoto": "Per aspera ad astra.",
+    "type": "g",
+    "from": "拉丁语谚语",
+    "from_who": null,
+    "creator": "阿帕契的少女",
+    "creator_uid": 13207,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1675852884",
+    "length": 20
+  },
+  {
+    "id": 9283,
+    "uuid": "627a63fc-2704-4dfd-9063-21316f9efb34",
+    "hitokoto": "那便以我渺小的灵魂，为无穷的你写下这诗篇。",
+    "type": "g",
+    "from": "星辰的怀念",
+    "from_who": null,
+    "creator": "6737151",
+    "creator_uid": 14182,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1675954882",
+    "length": 21
   }
 ]
