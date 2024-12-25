@@ -14782,5 +14782,33 @@
     "commit_from": "web",
     "created_at": "1676109735",
     "length": 18
+  },
+  {
+    "id": 9299,
+    "uuid": "547b9afc-7780-4b8b-9d85-45dcb79df1f5",
+    "hitokoto": "懂得爱，拥有爱，追寻爱，感受爱，与爱相伴，被爱治愈。",
+    "type": "e",
+    "from": "落雨",
+    "from_who": "落雨",
+    "creator": "落雨",
+    "creator_uid": 14278,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1677209607",
+    "length": 26
+  },
+  {
+    "id": 9301,
+    "uuid": "b3fe7a8e-6e8c-4a60-8a69-b28b454c276e",
+    "hitokoto": "逃避者不配拥有未来。",
+    "type": "e",
+    "from": "10circle",
+    "from_who": "10circle",
+    "creator": "10circle",
+    "creator_uid": 14323,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1677829823",
+    "length": 10
   }
 ]
