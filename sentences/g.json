@@ -8440,5 +8440,33 @@
     "commit_from": "web",
     "created_at": "1676040660",
     "length": 48
+  },
+  {
+    "id": 9291,
+    "uuid": "1c90b430-8ded-432a-8828-43a7af8a8092",
+    "hitokoto": "平凡的起起落落、漂浮的因果对错，都可以向风诉说。",
+    "type": "g",
+    "from": "让风告诉你",
+    "from_who": "Chilichill",
+    "creator": "rinictianyide",
+    "creator_uid": 14187,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1676040721",
+    "length": 24
+  },
+  {
+    "id": 9292,
+    "uuid": "1b44027e-87c3-4c9e-913e-83a989f04a19",
+    "hitokoto": "不见万家灯火，尽斩世间妖魔，如此一切只为苍生不要想太多。",
+    "type": "g",
+    "from": "让风告诉你",
+    "from_who": "ChiliChill",
+    "creator": "rinictianyide",
+    "creator_uid": 14187,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1676041097",
+    "length": 28
   }
 ]
