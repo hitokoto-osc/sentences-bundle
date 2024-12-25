@@ -14726,5 +14726,61 @@
     "commit_from": "web",
     "created_at": "1683411881",
     "length": 18
+  },
+  {
+    "id": 9293,
+    "uuid": "59a29d17-7432-4fcf-bae9-e91ce3602405",
+    "hitokoto": "当我终于理解了你时，你却再也不能听见我的声音。",
+    "type": "e",
+    "from": "SKANER",
+    "from_who": "SKANER",
+    "creator": "SKANER",
+    "creator_uid": 14196,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1676106788",
+    "length": 23
+  },
+  {
+    "id": 9294,
+    "uuid": "08028e61-3159-490e-9025-2c1dcea27bda",
+    "hitokoto": "不问不是因为不想问，而是因为知道了才不问。正如不说不是因为不想说，而是因为没必要了才不说。",
+    "type": "e",
+    "from": "SKANER",
+    "from_who": "SKANER",
+    "creator": "SKANER",
+    "creator_uid": 14196,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1676107353",
+    "length": 45
+  },
+  {
+    "id": 9295,
+    "uuid": "df8430c4-e83c-4cdb-8bb0-f3d012793022",
+    "hitokoto": "我们只能开创一个时代的黎明，见证一个时代的黄昏。漫漫长夜之后，太阳到底会不会再一次升起呢？这些都已经和我没有关系了。",
+    "type": "e",
+    "from": "SKANER",
+    "from_who": "SKANER",
+    "creator": "SKANER",
+    "creator_uid": 14196,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1676107477",
+    "length": 58
+  },
+  {
+    "id": 9296,
+    "uuid": "9ee1f499-5861-4a02-8330-c7171de6b058",
+    "hitokoto": "呐，答应我，看完这一条，就去学习吧！",
+    "type": "e",
+    "from": "SKANER",
+    "from_who": "SKANER",
+    "creator": "SKANER",
+    "creator_uid": 14196,
+    "reviewer": 1,
+    "commit_from": "web",
+    "created_at": "1676109735",
+    "length": 18
   }
 ]
