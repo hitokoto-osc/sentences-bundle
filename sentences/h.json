@@ -2112,5 +2112,33 @@
     "commit_from": "web",
     "created_at": "1676469233",
     "length": 10
+  },
+  {
+    "id": 9305,
+    "uuid": "4f0032f7-60e9-429b-ba2c-82ccb8553f17",
+    "hitokoto": "我只希望我的死，比我的生更有意义。",
+    "type": "h",
+    "from": "小丑",
+    "from_who": "亚瑟",
+    "creator": "空吧",
+    "creator_uid": 14633,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1682848724",
+    "length": 17
+  },
+  {
+    "id": 9321,
+    "uuid": "d7acec75-b2b0-4643-9a9d-f470cf947fe5",
+    "hitokoto": "我们只有一条出路，那就是胜利。还有另外一条路，死亡。死亡不属于工人阶级！",
+    "type": "h",
+    "from": "列宁在1918",
+    "from_who": "米哈伊尔·罗姆",
+    "creator": "a4566089",
+    "creator_uid": 14906,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1684563054",
+    "length": 36
   }
 ]
