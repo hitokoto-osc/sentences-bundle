@@ -8594,5 +8594,33 @@
     "commit_from": "web",
     "created_at": "1683975516",
     "length": 17
+  },
+  {
+    "id": 9323,
+    "uuid": "2aa7f473-c74f-401e-aa73-d08dc6e09239",
+    "hitokoto": "繁荣是璃月的过去、现在与未来。在此世间一切国度都无法企及的繁荣，均归于璃月，以及璃月的子女。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "璃月",
+    "creator": "SevenWuying",
+    "creator_uid": 11661,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1677932827",
+    "length": 46
+  },
+  {
+    "id": 9324,
+    "uuid": "f68875b6-663f-4800-bfaa-da1d90c77b09",
+    "hitokoto": "勤劳即为相信自己，即为相信通过汗水、智慧与力量，在诸神的土地上，人人都可以拥有自己的一席之地。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "璃月",
+    "creator": "SevenWuying",
+    "creator_uid": 11661,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1677932876",
+    "length": 47
   }
 ]
