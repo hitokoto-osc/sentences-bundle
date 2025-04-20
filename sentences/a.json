@@ -18632,5 +18632,33 @@
     "commit_from": "web",
     "created_at": "1681565935",
     "length": 16
+  },
+  {
+    "id": 9330,
+    "uuid": "fbc16a9e-68aa-4dd5-a24c-9842fe5844d9",
+    "hitokoto": "闪电风暴过后，一定是那充满蓝天白云，充满碧草繁花的世界。",
+    "type": "a",
+    "from": "天空之城",
+    "from_who": null,
+    "creator": "苏小倩沫",
+    "creator_uid": 14085,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1678489977",
+    "length": 28
+  },
+  {
+    "id": 9331,
+    "uuid": "abfb4de5-348b-421c-b2ed-58fd6ff06fa2",
+    "hitokoto": "如谷之歌，扎根土里。与风共存，与种子越冬，与鸟歌颂。",
+    "type": "a",
+    "from": "天空之城",
+    "from_who": null,
+    "creator": "苏小倩沫",
+    "creator_uid": 14085,
+    "reviewer": 1044,
+    "commit_from": "web",
+    "created_at": "1678490004",
+    "length": 26
   }
 ]
