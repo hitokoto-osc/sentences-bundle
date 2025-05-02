@@ -20242,5 +20242,47 @@
     "commit_from": "web",
     "created_at": "1686564486",
     "length": 14
+  },
+  {
+    "id": 9350,
+    "uuid": "a20e787d-1ef2-40b9-93fc-695aa70888a0",
+    "hitokoto": "一见钟情只不过是见色起意，日久生情也许是权衡利弊。",
+    "type": "d",
+    "from": "杨绛传",
+    "from_who": "杨绛",
+    "creator": "蟹蟹",
+    "creator_uid": 14989,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1685538373",
+    "length": 25
+  },
+  {
+    "id": 9353,
+    "uuid": "f9ba87df-b4ec-4b6c-905d-1be14b596819",
+    "hitokoto": "我该如何爱你？风吹动岁月的经幡，近也不能，远也不能。",
+    "type": "d",
+    "from": "月光落在左手上",
+    "from_who": "余秀华",
+    "creator": "桃夜歌",
+    "creator_uid": 15020,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1686063751",
+    "length": 26
+  },
+  {
+    "id": 9354,
+    "uuid": "f9ace2a4-1791-4165-b329-71c7d518cba4",
+    "hitokoto": "希望你所到之处潮闷落雨，于是想念有我的好天。",
+    "type": "d",
+    "from": "暴雨下在病房里",
+    "from_who": "苏方",
+    "creator": "桃夜歌",
+    "creator_uid": 15020,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1686063952",
+    "length": 22
   }
 ]

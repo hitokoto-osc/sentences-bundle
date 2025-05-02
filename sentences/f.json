@@ -10036,5 +10036,33 @@
     "commit_from": "web",
     "created_at": "1685538067",
     "length": 21
+  },
+  {
+    "id": 9348,
+    "uuid": "bbcb878b-c113-468d-ab2c-b0222ccd15c1",
+    "hitokoto": "当你真正爱一个人的时候，无论他伤你多深，你都会想重蹈覆辙。",
+    "type": "f",
+    "from": "网络",
+    "from_who": "佚名",
+    "creator": "蟹蟹",
+    "creator_uid": 14989,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1685537984",
+    "length": 29
+  },
+  {
+    "id": 9351,
+    "uuid": "5c9b0aae-3292-4250-9d54-ab06dd6271e6",
+    "hitokoto": "只愿你不忘年少时，坦荡而无畏。",
+    "type": "f",
+    "from": "网络",
+    "from_who": "佚名",
+    "creator": "蟹蟹",
+    "creator_uid": 14989,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1685538582",
+    "length": 15
   }
 ]
