@@ -18744,5 +18744,47 @@
     "commit_from": "web",
     "created_at": "1686885097",
     "length": 11
+  },
+  {
+    "id": 9387,
+    "uuid": "37346178-6c81-4782-8260-8e96a5613d5d",
+    "hitokoto": "精灵歌咏，拥有伟大的力量并掌管着万物的生命、灵魂甚至骨骸。",
+    "type": "a",
+    "from": "游戏王",
+    "from_who": "马利克",
+    "creator": "明镜止水之心",
+    "creator_uid": 15128,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1687562747",
+    "length": 29
+  },
+  {
+    "id": 9398,
+    "uuid": "261ef91b-900b-421c-a733-a0c0216593f6",
+    "hitokoto": "有些事不靠\"打\"是无法传达的。",
+    "type": "a",
+    "from": "刀剑神域",
+    "from_who": "绀野木棉季",
+    "creator": "LX",
+    "creator_uid": 15220,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1688699050",
+    "length": 15
+  },
+  {
+    "id": 9399,
+    "uuid": "fea735c1-bdc5-4a3d-ae2d-17f7811da98b",
+    "hitokoto": "当黑白之剑交叉之时，那一刻就许下心愿，永远保护你，彼此守护对方。",
+    "type": "a",
+    "from": "刀剑神域",
+    "from_who": "桐人",
+    "creator": "LX",
+    "creator_uid": 15220,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1688709769",
+    "length": 32
   }
 ]
