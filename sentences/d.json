@@ -20452,5 +20452,33 @@
     "commit_from": "web",
     "created_at": "1687345132",
     "length": 13
+  },
+  {
+    "id": 9421,
+    "uuid": "0b917c82-e030-49ec-bb81-4a1cb4adf31f",
+    "hitokoto": "我喜欢她身上那种曲棍球场、冷水浴、集体远足的，总的来说是思想纯洁的味道。",
+    "type": "d",
+    "from": "1984",
+    "from_who": "乔治·奥威尔",
+    "creator": "godsaid4ever",
+    "creator_uid": 15307,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1689594320",
+    "length": 36
+  },
+  {
+    "id": 9424,
+    "uuid": "cb390f7e-e1a1-4eb6-be6d-72f9fcbb68bc",
+    "hitokoto": "死亡开关完整地模拟了社会，以至于整个社会网络都能被重建起来。星球的记忆在“0”和“1”间永生。",
+    "type": "d",
+    "from": "生命的清单",
+    "from_who": "David Eagleman",
+    "creator": "CuSO4",
+    "creator_uid": 15314,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1689669674",
+    "length": 47
   }
 ]
