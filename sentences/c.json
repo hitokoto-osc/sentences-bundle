@@ -9070,5 +9070,19 @@
     "commit_from": "web",
     "created_at": "1692532283",
     "length": 12
+  },
+  {
+    "id": 9476,
+    "uuid": "00bfd90e-4d28-4326-aca1-7cd207038e02",
+    "hitokoto": "生在黑暗，心向光明。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "白起",
+    "creator": "昼夜啊",
+    "creator_uid": 15622,
+    "reviewer": 4756,
+    "commit_from": "web",
+    "created_at": "1692532312",
+    "length": 10
   }
 ]
