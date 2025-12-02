@@ -4298,20 +4298,6 @@
     "length": 25
   },
   {
-    "id": 4423,
-    "uuid": "230c03e1-5928-446c-bddf-6a8d3056c885",
-    "hitokoto": "人生若只如初见，何事秋风悲画扇。",
-    "type": "g",
-    "from": "木兰词·拟古决绝词柬友",
-    "from_who": null,
-    "creator": "哈鹿噶kida",
-    "creator_uid": 3040,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1555501376",
-    "length": 16
-  },
-  {
     "id": 4428,
     "uuid": "63a1ce47-4ca5-49f9-a43a-7d0a6815326f",
     "hitokoto": "南风知我意，吹梦到西洲。",
@@ -4617,20 +4603,6 @@
     "reviewer": 0,
     "commit_from": "web",
     "created_at": "1567062165",
-    "length": 15
-  },
-  {
-    "id": 4619,
-    "uuid": "b043d1d5-c931-4ce7-9ea4-0fd032a527df",
-    "hitokoto": "醉后不知天在水 满船清梦压星河",
-    "type": "g",
-    "from": "唐温如",
-    "from_who": null,
-    "creator": "allenwang",
-    "creator_uid": 3848,
-    "reviewer": 0,
-    "commit_from": "web",
-    "created_at": "1567671077",
     "length": 15
   },
   {

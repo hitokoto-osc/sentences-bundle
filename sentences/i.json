@@ -112,20 +112,6 @@
     "length": 34
   },
   {
-    "id": 4895,
-    "uuid": "f60e114e-03dd-4c29-8e37-55a2d516d2f3",
-    "hitokoto": "醉后不知天在水，满船清梦压星河。",
-    "type": "i",
-    "from": "题龙阳县青草湖",
-    "from_who": "唐温如",
-    "creator": "鳯凰栖梧",
-    "creator_uid": 4071,
-    "reviewer": 1,
-    "commit_from": "web",
-    "created_at": "1571142485",
-    "length": 16
-  },
-  {
     "id": 4896,
     "uuid": "2095b5d9-30d6-4cbd-8390-47cbf678ca98",
     "hitokoto": "金风玉露一相逢，便胜却、人间无数。",
@@ -252,20 +238,6 @@
     "length": 12
   },
   {
-    "id": 4982,
-    "uuid": "b790ca90-56e8-471e-b040-cb48c6043fc6",
-    "hitokoto": "醉后不知天在水，满船清梦压星河。",
-    "type": "i",
-    "from": "题龙阳县青草湖",
-    "from_who": "唐温如",
-    "creator": "梵川",
-    "creator_uid": 4860,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1581496953",
-    "length": 16
-  },
-  {
     "id": 4986,
     "uuid": "52af4233-c5f4-4648-b709-cdb9b958da4e",
     "hitokoto": "风花之潇洒，雪月之空清，唯静者为之主；水木之荣枯，竹石之消长，独闲者操其权。",
@@ -292,34 +264,6 @@
     "commit_from": "web",
     "created_at": "1582570361",
     "length": 20
-  },
-  {
-    "id": 5112,
-    "uuid": "d39dbbff-947b-4051-9a0c-44cd6ad3da26",
-    "hitokoto": "醉后不知天在水，满船清梦压星河。",
-    "type": "i",
-    "from": "题龙阳县青草湖",
-    "from_who": "唐温如",
-    "creator": "foreversama",
-    "creator_uid": 3576,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1582705579",
-    "length": 16
-  },
-  {
-    "id": 5117,
-    "uuid": "c9739bcc-2d6e-482b-bc6e-ac158e2524b1",
-    "hitokoto": "为众人抱薪者，不可使其冻毙于风雪。",
-    "type": "i",
-    "from": "微博",
-    "from_who": "慕容雪村",
-    "creator": "小黑猫",
-    "creator_uid": 4856,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1581333219",
-    "length": 17
   },
   {
     "id": 5119,
@@ -487,20 +431,6 @@
     "reviewer": 1044,
     "commit_from": "web",
     "created_at": "1585384889",
-    "length": 16
-  },
-  {
-    "id": 5406,
-    "uuid": "40514bed-709d-4a9f-910a-ea5b1dad80e8",
-    "hitokoto": "人生若只如初见，何事秋风悲画扇。",
-    "type": "i",
-    "from": "木兰花·拟古决绝词柬友",
-    "from_who": "纳兰性德",
-    "creator": "hkaren",
-    "creator_uid": 5713,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1585646961",
     "length": 16
   },
   {
@@ -7672,20 +7602,6 @@
     "length": 16
   },
   {
-    "id": 6094,
-    "uuid": "984b3637-f5b9-48c3-b032-5e116f8f5861",
-    "hitokoto": "山有木兮木有枝，心悦君兮君不知。",
-    "type": "i",
-    "from": "越人歌",
-    "from_who": null,
-    "creator": "qwqbear",
-    "creator_uid": 3516,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1590306742",
-    "length": 16
-  },
-  {
     "id": 6099,
     "uuid": "4464317a-705e-4959-aea5-e5fc991a07d2",
     "hitokoto": "回首向来萧瑟处，归去， 也无风雨也无晴。",
@@ -9452,7 +9368,7 @@
   {
     "id": 8810,
     "uuid": "934d378e-1acf-4914-aed6-82156cc41d5f",
-    "hitokoto": "人生若只如初见，何事秋风悲画扇。等闲变却故人心，却道故人心易变。",
+    "hitokoto": "等闲变却故人心，却道故人心易变。",
     "type": "i",
     "from": "木兰花·拟古决绝词柬友",
     "from_who": "纳兰性德",
@@ -9461,7 +9377,7 @@
     "reviewer": 1,
     "commit_from": "web",
     "created_at": "1649581813",
-    "length": 32
+    "length": 16
   },
   {
     "id": 8837,
