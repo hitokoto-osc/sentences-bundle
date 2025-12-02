@@ -140,20 +140,6 @@
     "length": 17
   },
   {
-    "id": 4908,
-    "uuid": "ee9365a6-5617-414b-8f20-c6fab21ab555",
-    "hitokoto": "人生得意须尽欢，莫让金樽空对月。",
-    "type": "i",
-    "from": "将进酒",
-    "from_who": "李白",
-    "creator": "夕之树",
-    "creator_uid": 4248,
-    "reviewer": 1,
-    "commit_from": "web",
-    "created_at": "1573330996",
-    "length": 16
-  },
-  {
     "id": 4909,
     "uuid": "3886b445-1877-4faf-8834-bb4907b3964a",
     "hitokoto": "莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。",
@@ -252,23 +238,9 @@
     "length": 46
   },
   {
-    "id": 4959,
-    "uuid": "c9726d2f-204f-440d-98f9-53fad30e61fc",
-    "hitokoto": "东隅已逝，桑榆非晚。",
-    "type": "i",
-    "from": "文学",
-    "from_who": "王勃",
-    "creator": "小轩",
-    "creator_uid": 4925,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1581698884",
-    "length": 10
-  },
-  {
     "id": 4960,
     "uuid": "583d8364-01b4-4c75-b052-37c42b61810a",
-    "hitokoto": "三尺书生，一介微命。",
+    "hitokoto": "勃，三尺微命，一介书生。",
     "type": "i",
     "from": "滕王阁序",
     "from_who": "王勃",
@@ -277,7 +249,7 @@
     "reviewer": 1044,
     "commit_from": "web",
     "created_at": "1581698862",
-    "length": 10
+    "length": 12
   },
   {
     "id": 4982,
