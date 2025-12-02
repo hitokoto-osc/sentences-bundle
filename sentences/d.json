@@ -13244,20 +13244,6 @@
     "length": 18
   },
   {
-    "id": 7098,
-    "uuid": "fb15d6a3-6aaf-4cf9-8068-33fbcd1feeba",
-    "hitokoto": "路漫漫其修远兮，吾将上下而求索。",
-    "type": "d",
-    "from": "离骚",
-    "from_who": "屈原",
-    "creator": "Lucas",
-    "creator_uid": 8756,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1615951178",
-    "length": 16
-  },
-  {
     "id": 7108,
     "uuid": "bfe01162-c0c6-47d6-9b91-52089ac8f966",
     "hitokoto": "向之所欣，俯仰之间，已为陈迹。",

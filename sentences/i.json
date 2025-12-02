@@ -2646,20 +2646,6 @@
     "length": 16
   },
   {
-    "id": 5603,
-    "uuid": "d39dad64-8d1d-4bdb-be7d-e213e1e4214e",
-    "hitokoto": "衰兰送客咸阳道，天若有情天亦老。",
-    "type": "i",
-    "from": "行路难·缚虎手",
-    "from_who": "贺铸",
-    "creator": "a632079",
-    "creator_uid": 1044,
-    "reviewer": 1044,
-    "commit_from": "api",
-    "created_at": "1586266413",
-    "length": 16
-  },
-  {
     "id": 5604,
     "uuid": "694cb000-8f27-4472-9ff2-a2657e037cf1",
     "hitokoto": "江南可采莲，莲叶何田田。",
@@ -7448,20 +7434,6 @@
     "length": 14
   },
   {
-    "id": 6015,
-    "uuid": "a743764d-a7cd-4d20-b188-470049b3b88f",
-    "hitokoto": "路漫漫其修远兮，吾将上下而求索。",
-    "type": "i",
-    "from": "离骚",
-    "from_who": "屈原",
-    "creator": "今天不散步",
-    "creator_uid": 5722,
-    "reviewer": 6,
-    "commit_from": "web",
-    "created_at": "1588567048",
-    "length": 16
-  },
-  {
     "id": 6020,
     "uuid": "c22767e1-15c1-44c6-b6c6-562057634699",
     "hitokoto": "仁不行商、义不守财；情不立威，善不居官；慈不掌兵，柔不监国。",
@@ -7474,48 +7446,6 @@
     "commit_from": "web",
     "created_at": "1586776967",
     "length": 30
-  },
-  {
-    "id": 6024,
-    "uuid": "a2ffe24c-a615-4222-a065-0ea1c3e8c645",
-    "hitokoto": "星垂平野阔，月涌大江流。",
-    "type": "i",
-    "from": "旅夜书怀",
-    "from_who": "杜甫",
-    "creator": "一剑还",
-    "creator_uid": 6207,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1589357291",
-    "length": 12
-  },
-  {
-    "id": 6025,
-    "uuid": "8866ff3c-ecc9-4d1b-8cf4-dd0b742bcacf",
-    "hitokoto": "离离原上草，一岁一枯荣。",
-    "type": "i",
-    "from": "草",
-    "from_who": "白居易",
-    "creator": "本事",
-    "creator_uid": 6206,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1589357161",
-    "length": 12
-  },
-  {
-    "id": 6026,
-    "uuid": "db09d1e8-f2ce-4b4e-af26-4259cdb8a60f",
-    "hitokoto": "故人西辞黄鹤楼，烟花三月下扬州。",
-    "type": "i",
-    "from": "黄鹤楼送孟浩然之广陵",
-    "from_who": "李白",
-    "creator": "本事",
-    "creator_uid": 6206,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1589357238",
-    "length": 16
   },
   {
     "id": 6027,
