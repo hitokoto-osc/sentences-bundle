@@ -8204,20 +8204,6 @@
     "length": 16
   },
   {
-    "id": 6976,
-    "uuid": "38b67194-dac6-4f7f-83f8-30f28d811989",
-    "hitokoto": "天生我材必有用，千金散尽还复来。",
-    "type": "i",
-    "from": "将进酒",
-    "from_who": "李白",
-    "creator": "BlueSu",
-    "creator_uid": 8526,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1613570449",
-    "length": 16
-  },
-  {
     "id": 6986,
     "uuid": "01f841ee-2092-4bec-826a-e6cd48235f1d",
     "hitokoto": "窗外日光弹指过，席前花影坐前移。",
@@ -8498,20 +8484,6 @@
     "length": 42
   },
   {
-    "id": 7537,
-    "uuid": "21bbff40-b2b3-460e-a2ad-503bb8eb4a03",
-    "hitokoto": "我本可以容忍黑暗，如果我不曾见过太阳。",
-    "type": "i",
-    "from": "艾米莉·狄金森",
-    "from_who": "艾米莉·狄金森",
-    "creator": "Clouder",
-    "creator_uid": 10584,
-    "reviewer": 7,
-    "commit_from": "web",
-    "created_at": "1634137575",
-    "length": 19
-  },
-  {
     "id": 7622,
     "uuid": "aaf971b2-0868-4827-ab3c-931a1b9f9b9a",
     "hitokoto": "须晴日，看红装素裹，分外妖娆。",
@@ -8552,20 +8524,6 @@
     "commit_from": "web",
     "created_at": "1620194985",
     "length": 63
-  },
-  {
-    "id": 7722,
-    "uuid": "6a0b94ca-cfac-4eef-a363-91d738ce9d86",
-    "hitokoto": "早知如此绊人心，何如当初莫相识。",
-    "type": "i",
-    "from": "秋风词",
-    "from_who": "李白",
-    "creator": "陈弋函",
-    "creator_uid": 10950,
-    "reviewer": 1,
-    "commit_from": "web",
-    "created_at": "1638460813",
-    "length": 16
   },
   {
     "id": 7743,
@@ -8650,20 +8608,6 @@
     "commit_from": "web",
     "created_at": "1620995345",
     "length": 10
-  },
-  {
-    "id": 7885,
-    "uuid": "5df07a35-c6c9-4461-b6f4-b5144a9f96a7",
-    "hitokoto": "我本可以忍受黑暗，可是我看见了光明。",
-    "type": "i",
-    "from": "Had I not seen the Sun",
-    "from_who": "艾米莉·狄金森",
-    "creator": "eeecm",
-    "creator_uid": 8866,
-    "reviewer": 1,
-    "commit_from": "web",
-    "created_at": "1621049138",
-    "length": 18
   },
   {
     "id": 7929,
@@ -9056,20 +9000,6 @@
     "commit_from": "web",
     "created_at": "1650466491",
     "length": 18
-  },
-  {
-    "id": 8475,
-    "uuid": "cbf57c66-0250-41d1-a817-d8f038cd5dab",
-    "hitokoto": "天生我材必有用，千金散尽还复来。",
-    "type": "i",
-    "from": "将进酒",
-    "from_who": "李白",
-    "creator": "独行长路",
-    "creator_uid": 12858,
-    "reviewer": 1,
-    "commit_from": "web",
-    "created_at": "1660640736",
-    "length": 16
   },
   {
     "id": 8552,

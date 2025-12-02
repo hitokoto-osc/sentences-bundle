@@ -14392,20 +14392,6 @@
     "length": 45
   },
   {
-    "id": 7427,
-    "uuid": "d32c6205-129c-4955-b80b-c6b2f2ca8c08",
-    "hitokoto": "我本可以忍受黑暗，如果我不曾见过太阳……然而阳光已使我的荒凉，成为更新的荒凉。",
-    "type": "d",
-    "from": "如果我不曾见过太阳",
-    "from_who": "艾米丽·狄金斯",
-    "creator": "A_Pi",
-    "creator_uid": 8981,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1618137917",
-    "length": 39
-  },
-  {
     "id": 7432,
     "uuid": "f884b077-6b23-491c-92d7-77de5edf5ade",
     "hitokoto": "有时候，真希望醒来现实不过是南柯一梦，一切回归虚无。",
