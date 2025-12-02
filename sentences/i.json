@@ -1040,7 +1040,7 @@
     "uuid": "94314e49-cff2-49b2-98bb-cee3fdff0063",
     "hitokoto": "行到水穷处，坐看云起时。",
     "type": "i",
-    "from": "终南别业 / 初至山中 / 入山寄城中故人",
+    "from": "终南别业",
     "from_who": "王维",
     "creator": "a632079",
     "creator_uid": 1044,
@@ -1811,7 +1811,7 @@
     "hitokoto": "生当复来归，死当长相思。",
     "type": "i",
     "from": "留别妻",
-    "from_who": "佚名",
+    "from_who": "苏武",
     "creator": "a632079",
     "creator_uid": 1044,
     "reviewer": 1044,
@@ -7476,20 +7476,6 @@
     "length": 36
   },
   {
-    "id": 6059,
-    "uuid": "aa6bf2cd-ca9b-4e8f-a482-c2496bab26c9",
-    "hitokoto": "行到水穷处，坐看云起时。",
-    "type": "i",
-    "from": "终南别业",
-    "from_who": "王维",
-    "creator": "voyager",
-    "creator_uid": 6023,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1587707837",
-    "length": 12
-  },
-  {
     "id": 6060,
     "uuid": "cb6ec72f-38dd-462e-932e-4649635905ac",
     "hitokoto": "无奈被些名利缚，无奈被些情担阁，可惜风流总闲却。",
@@ -7502,20 +7488,6 @@
     "commit_from": "web",
     "created_at": "1587730306",
     "length": 24
-  },
-  {
-    "id": 6092,
-    "uuid": "97309419-808c-4a8e-a937-d8503f109fc7",
-    "hitokoto": "生当复来归，死当长相思。",
-    "type": "i",
-    "from": "留别妻",
-    "from_who": "苏武",
-    "creator": "qwqbear",
-    "creator_uid": 3516,
-    "reviewer": 1044,
-    "commit_from": "web",
-    "created_at": "1590307036",
-    "length": 12
   },
   {
     "id": 6093,
@@ -7672,20 +7644,6 @@
     "length": 22
   },
   {
-    "id": 6344,
-    "uuid": "272caab9-17cd-44a5-9705-e8f0c1ba8753",
-    "hitokoto": "欲买桂花同载酒，终不似，少年游。",
-    "type": "i",
-    "from": "唐多令·芦叶满汀洲",
-    "from_who": "刘过",
-    "creator": "jscblack",
-    "creator_uid": 6603,
-    "reviewer": 1,
-    "commit_from": "web",
-    "created_at": "1593526117",
-    "length": 16
-  },
-  {
     "id": 6355,
     "uuid": "d9fac676-df5a-4bad-afac-665aa2a82408",
     "hitokoto": "但行好事，莫问前程。",
@@ -7698,20 +7656,6 @@
     "commit_from": "web",
     "created_at": "1593791760",
     "length": 10
-  },
-  {
-    "id": 6378,
-    "uuid": "5b85b9b2-3331-4c9f-b4dc-d3fd25c4b343",
-    "hitokoto": "人生如逆旅，我亦是行人。",
-    "type": "i",
-    "from": "临江仙·送钱穆父",
-    "from_who": "苏轼",
-    "creator": "长亭",
-    "creator_uid": 6758,
-    "reviewer": 6,
-    "commit_from": "web",
-    "created_at": "1595319722",
-    "length": 12
   },
   {
     "id": 6394,
@@ -7739,20 +7683,6 @@
     "reviewer": 4756,
     "commit_from": "web",
     "created_at": "1596112405",
-    "length": 16
-  },
-  {
-    "id": 6429,
-    "uuid": "74613b4e-490c-442a-ad71-76f2ed9d4cbe",
-    "hitokoto": "最是人间留不住，朱颜辞镜花辞树。",
-    "type": "i",
-    "from": "蝶恋花·阅尽天涯离别苦",
-    "from_who": "王国维",
-    "creator": "顾及",
-    "creator_uid": 6897,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1596763382",
     "length": 16
   },
   {
@@ -8624,20 +8554,6 @@
     "length": 63
   },
   {
-    "id": 7721,
-    "uuid": "f364f18b-4c9b-4c0a-8d1b-8400477b55d6",
-    "hitokoto": "人生如逆旅，我亦是行人。",
-    "type": "i",
-    "from": "临江仙·送钱穆父",
-    "from_who": "苏轼",
-    "creator": "陈弋函",
-    "creator_uid": 10950,
-    "reviewer": 1,
-    "commit_from": "web",
-    "created_at": "1638544510",
-    "length": 12
-  },
-  {
     "id": 7722,
     "uuid": "6a0b94ca-cfac-4eef-a363-91d738ce9d86",
     "hitokoto": "早知如此绊人心，何如当初莫相识。",
@@ -9014,20 +8930,6 @@
     "commit_from": "web",
     "created_at": "1650466512",
     "length": 15
-  },
-  {
-    "id": 8249,
-    "uuid": "d26b7921-4071-4d78-a5fe-c25f6bff1f99",
-    "hitokoto": "最是人间留不住，朱颜辞镜花辞树。",
-    "type": "i",
-    "from": "蝶恋花·阅尽天涯离别苦",
-    "from_who": "王国维",
-    "creator": "10000",
-    "creator_uid": 12770,
-    "reviewer": 1,
-    "commit_from": "web",
-    "created_at": "1659595834",
-    "length": 16
   },
   {
     "id": 8379,
