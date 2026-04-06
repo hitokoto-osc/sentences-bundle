@@ -23266,5 +23266,61 @@
     "commit_from": "web",
     "created_at": "1740404463",
     "length": 31
+  },
+  {
+    "id": 10288,
+    "uuid": "459adbe6-d343-4c93-b042-d83301d1764d",
+    "hitokoto": "那天的世界和往常的任何一天一样可爱，可他却在骑着骡子迈向死亡。",
+    "type": "d",
+    "from": "上帝之子",
+    "from_who": "麦卡锡",
+    "creator": "子沐枫烟",
+    "creator_uid": 10214,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1741617593",
+    "length": 31
+  },
+  {
+    "id": 10289,
+    "uuid": "ebeba1c9-030e-4d51-8ad4-598582479642",
+    "hitokoto": "他站住了，脸上浮现出欢喜和凄凉的神情，动着嘴唇，却没有作声。他的态度终于恭敬起来了，分明的叫道“老爷”！",
+    "type": "d",
+    "from": "故乡",
+    "from_who": "鲁迅",
+    "creator": "乐高",
+    "creator_uid": 10100,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1741954507",
+    "length": 52
+  },
+  {
+    "id": 10330,
+    "uuid": "28bf2bad-36d7-4d65-87db-dd88d5a2100d",
+    "hitokoto": "有家的人出远门才叫旅行，而像她一样无家可归的人，就算去了没去过的地方也只能叫做流浪。",
+    "type": "d",
+    "from": "这游戏也太真实了",
+    "from_who": "晨星LL",
+    "creator": "豕命鬼a",
+    "creator_uid": 19027,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1744994881",
+    "length": 42
+  },
+  {
+    "id": 10334,
+    "uuid": "5ae74106-9df5-483a-9d8c-19d2cbda81b8",
+    "hitokoto": "夏，只要你在我身边，无间地狱我也愿意去。",
+    "type": "d",
+    "from": "十日终焉",
+    "from_who": "余念安",
+    "creator": "xiaolu",
+    "creator_uid": 19168,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1745247385",
+    "length": 20
   }
 ]

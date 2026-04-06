@@ -19640,5 +19640,33 @@
     "commit_from": "web",
     "created_at": "1738745492",
     "length": 37
+  },
+  {
+    "id": 10299,
+    "uuid": "eea1abfb-84ef-4756-af34-d5a773ab2253",
+    "hitokoto": "爆发吧，现实！断裂吧，神经！放逐这个世界！",
+    "type": "a",
+    "from": "中二病也要谈恋爱",
+    "from_who": "小鸟游六花",
+    "creator": "日奈poi、",
+    "creator_uid": 19023,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1743233490",
+    "length": 21
+  },
+  {
+    "id": 10319,
+    "uuid": "ba8d4166-a5cb-4af4-9d95-73d9a2321eef",
+    "hitokoto": "哇呼~！",
+    "type": "a",
+    "from": "Little Busters!",
+    "from_who": "能美·库特莉亚芙卡",
+    "creator": "myee",
+    "creator_uid": 19104,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1744394712",
+    "length": 4
   }
 ]

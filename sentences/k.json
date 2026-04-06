@@ -3274,5 +3274,33 @@
     "commit_from": "web",
     "created_at": "1737386731",
     "length": 22
+  },
+  {
+    "id": 10285,
+    "uuid": "d7e39429-5d5d-48da-b66e-187f14fdd2fa",
+    "hitokoto": "只要我们开始追赶，就已经走在通往胜利的路上。",
+    "type": "k",
+    "from": "雷军",
+    "from_who": "雷军",
+    "creator": "clevali",
+    "creator_uid": 18827,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1740409653",
+    "length": 22
+  },
+  {
+    "id": 10332,
+    "uuid": "3e748829-2397-4e62-a157-6c9eafc5e8ca",
+    "hitokoto": "幸福是欲望的暂时停止，我们就像田野上的羔羊，在屠夫的注视下恣意欢愉。",
+    "type": "k",
+    "from": "作为意志和表象的世界",
+    "from_who": "阿瑟·叔本华",
+    "creator": "xionglongztz",
+    "creator_uid": 19114,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1745090890",
+    "length": 34
   }
 ]

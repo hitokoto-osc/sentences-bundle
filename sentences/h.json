@@ -2378,5 +2378,47 @@
     "commit_from": "web",
     "created_at": "1731999402",
     "length": 21
+  },
+  {
+    "id": 10312,
+    "uuid": "cc8cf067-d532-45ae-a16e-1c75c2e32c17",
+    "hitokoto": "Some of us get dipped in flat, some in satin, some in gloss. But every once in a while you find someone who's iridescent, and when you do, nothing will ever compare.",
+    "type": "h",
+    "from": "Flipped怦然心动",
+    "from_who": null,
+    "creator": "炸鸡",
+    "creator_uid": 19061,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1743858125",
+    "length": 165
+  },
+  {
+    "id": 10315,
+    "uuid": "949f996d-2dbb-443c-aba7-4553b31d5cc8",
+    "hitokoto": "恐惧，是弱点劫持了，你身体里的驾驶舱。",
+    "type": "h",
+    "from": "A Minecraft movie",
+    "from_who": null,
+    "creator": "ka339455",
+    "creator_uid": 19072,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1743932100",
+    "length": 19
+  },
+  {
+    "id": 10325,
+    "uuid": "026aabb6-58d9-4fe8-92be-67f1c8e9e33a",
+    "hitokoto": "“当你不能够再拥有，你唯一可以做的，就是令自己不要忘记！”",
+    "type": "h",
+    "from": "东邪西毒",
+    "from_who": null,
+    "creator": "一言",
+    "creator_uid": 19002,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1744696780",
+    "length": 29
   }
 ]
