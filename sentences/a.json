@@ -19724,5 +19724,47 @@
     "commit_from": "web",
     "created_at": "1751900993",
     "length": 13
+  },
+  {
+    "id": 10508,
+    "uuid": "600dd4b4-43f3-401e-a22d-0b2b51e8f04e",
+    "hitokoto": "我好喜欢你啊——我温柔的死神。",
+    "type": "a",
+    "from": "86——不存在的地域",
+    "from_who": "可蕾娜",
+    "creator": "mayinc",
+    "creator_uid": 19556,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1752907286",
+    "length": 15
+  },
+  {
+    "id": 10510,
+    "uuid": "b7221770-62f6-4389-8ad5-9cde47637642",
+    "hitokoto": "遊びはここまでだ。",
+    "type": "a",
+    "from": "火影忍者",
+    "from_who": "宇智波带土",
+    "creator": "mayinc",
+    "creator_uid": 19556,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1752908979",
+    "length": 9
+  },
+  {
+    "id": 10515,
+    "uuid": "d21dd2c6-f6eb-4074-b8e7-40b4396ce33d",
+    "hitokoto": "我在这，一直都在……",
+    "type": "a",
+    "from": "夏洛特",
+    "from_who": null,
+    "creator": "Charllote",
+    "creator_uid": 19532,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1753272788",
+    "length": 10
   }
 ]
