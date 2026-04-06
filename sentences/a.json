@@ -19850,5 +19850,61 @@
     "commit_from": "web",
     "created_at": "1775315810",
     "length": 52
+  },
+  {
+    "id": 10644,
+    "uuid": "ec9c12db-6373-43ae-b9ff-d3459594a31d",
+    "hitokoto": "这就是人的一生。世界是那么地宽广，路却很窄。能够照料的只有双手可及的范围，而那样或许就已经够奢侈了。",
+    "type": "a",
+    "from": "狼与香辛料",
+    "from_who": null,
+    "creator": "hello-world",
+    "creator_uid": 14100,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775315859",
+    "length": 50
+  },
+  {
+    "id": 10645,
+    "uuid": "e692d8f8-fdc9-4f06-9542-0007cd6480ea",
+    "hitokoto": "人生这旅程很残酷，没有重来的机会。只能不断思考某一次选择是否正确，将脚下的路走下去。",
+    "type": "a",
+    "from": "狼与香辛料",
+    "from_who": null,
+    "creator": "hello-world",
+    "creator_uid": 14100,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775315893",
+    "length": 42
+  },
+  {
+    "id": 10646,
+    "uuid": "ac9569ce-3378-4915-bd2f-dbf71204a808",
+    "hitokoto": "快乐的相反是不快乐，表示这世界上还有一倍的快乐能享。",
+    "type": "a",
+    "from": "狼与香辛料",
+    "from_who": null,
+    "creator": "hello-world",
+    "creator_uid": 14100,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775315930",
+    "length": 26
+  },
+  {
+    "id": 10647,
+    "uuid": "911dd1a6-dcf6-46d7-9f79-507bfe68c0ab",
+    "hitokoto": "死神帶來了沒好處的偶然，而命運女神是如此地殘酷。",
+    "type": "a",
+    "from": "狼与香辛料",
+    "from_who": null,
+    "creator": "hello-world",
+    "creator_uid": 14100,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775315982",
+    "length": 24
   }
 ]
