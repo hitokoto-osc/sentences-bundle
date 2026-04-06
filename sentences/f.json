@@ -11016,5 +11016,33 @@
     "commit_from": "web",
     "created_at": "1721148592",
     "length": 17
+  },
+  {
+    "id": 10005,
+    "uuid": "0b4f06f7-ace6-444f-a90c-ded64a2243eb",
+    "hitokoto": "我不相信长夜将至，因为火把就在我的手中。",
+    "type": "f",
+    "from": "凯文·杜兰特",
+    "from_who": "凯文·杜兰特",
+    "creator": "印以浮生",
+    "creator_uid": 17188,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1722836284",
+    "length": 20
+  },
+  {
+    "id": 10008,
+    "uuid": "7c030d24-d61a-4c28-9db4-32156a50594e",
+    "hitokoto": "人在面临幸福时会突然变得胆怯，想要抓住幸福，其实比忍耐痛苦更需要勇气。",
+    "type": "f",
+    "from": "来自网络",
+    "from_who": null,
+    "creator": "Mao_Aurora",
+    "creator_uid": 17858,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1722837085",
+    "length": 35
   }
 ]
