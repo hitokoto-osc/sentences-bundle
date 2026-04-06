@@ -11044,5 +11044,33 @@
     "commit_from": "web",
     "created_at": "1722837085",
     "length": 35
+  },
+  {
+    "id": 10057,
+    "uuid": "2da7404a-d345-4123-b8b4-9fef83249dc5",
+    "hitokoto": "当法律不再是人民的武器之时，武器将会成为人民的法律。",
+    "type": "f",
+    "from": "洛谷用户",
+    "from_who": "AC_love",
+    "creator": "Jerrycyx",
+    "creator_uid": 17832,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1725689440",
+    "length": 26
+  },
+  {
+    "id": 10058,
+    "uuid": "43ef7461-c939-40f6-9bc4-9c6e7f5e2a23",
+    "hitokoto": "N方过百万，暴力碾标算。暴搜挂着机，C++牛逼。打表出奇迹，骗分过样例。暴力进省一，AKCSP！",
+    "type": "f",
+    "from": "信息学竞赛",
+    "from_who": "未知",
+    "creator": "Jerrycyx",
+    "creator_uid": 17832,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1725689684",
+    "length": 48
   }
 ]
