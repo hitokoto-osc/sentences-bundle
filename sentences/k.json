@@ -3022,5 +3022,47 @@
     "commit_from": "web",
     "created_at": "1707278779",
     "length": 14
+  },
+  {
+    "id": 9746,
+    "uuid": "883e91ac-1f7a-402e-9df5-aae52a9e3c92",
+    "hitokoto": "没人喜欢血淋淋的现实，于是便给自己他人画了个大饼。",
+    "type": "k",
+    "from": "一言官方Q群",
+    "from_who": "Why",
+    "creator": "一只生菜",
+    "creator_uid": 16681,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1707735465",
+    "length": 25
+  },
+  {
+    "id": 9764,
+    "uuid": "065747fb-4633-4023-9664-862a76f9a13c",
+    "hitokoto": "一念放下，万般自在。",
+    "type": "k",
+    "from": "弘一法师",
+    "from_who": "弘一法师",
+    "creator": "楠楠",
+    "creator_uid": 16925,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1708257556",
+    "length": 10
+  },
+  {
+    "id": 9789,
+    "uuid": "58ae4703-3c7a-4e17-8cb7-36e0efc4e78f",
+    "hitokoto": "因为荒谬，我才相信。",
+    "type": "k",
+    "from": "德尔图良",
+    "from_who": "德尔图良",
+    "creator": "Custlo",
+    "creator_uid": 15958,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1708644929",
+    "length": 10
   }
 ]
