@@ -21516,5 +21516,33 @@
     "commit_from": "web",
     "created_at": "1706225987",
     "length": 30
+  },
+  {
+    "id": 9717,
+    "uuid": "fa96a8d9-a9eb-46cf-ab86-fa2d98161bd8",
+    "hitokoto": "Have a biscuit, Potter.",
+    "type": "d",
+    "from": "Harry Potter and the Order of the Phoenix",
+    "from_who": "J.K. Rowling",
+    "creator": "AMAS",
+    "creator_uid": 16804,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1706861339",
+    "length": 23
+  },
+  {
+    "id": 9720,
+    "uuid": "135746ee-f16b-47f8-a371-aa6852532abd",
+    "hitokoto": "他谈论着翅膀，可他的话语里，只有枷锁。",
+    "type": "d",
+    "from": "我的孤独是一座花园",
+    "from_who": "阿多尼斯",
+    "creator": "SimpleAstronaut",
+    "creator_uid": 16816,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1707015094",
+    "length": 19
   }
 ]
