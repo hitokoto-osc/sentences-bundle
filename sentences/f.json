@@ -10750,5 +10750,61 @@
     "commit_from": "web",
     "created_at": "1708431530",
     "length": 19
+  },
+  {
+    "id": 9794,
+    "uuid": "9a28a43d-18d1-40e0-9d01-9844cb473394",
+    "hitokoto": "如果你有机会到好望角，请在海边的石头上刻下我的故事。",
+    "type": "f",
+    "from": "网络",
+    "from_who": null,
+    "creator": "Casear",
+    "creator_uid": 17017,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1709348980",
+    "length": 26
+  },
+  {
+    "id": 9796,
+    "uuid": "58cd51de-4314-45cc-9bc0-7dbacfda34dd",
+    "hitokoto": "万般皆苦，唯有自渡。",
+    "type": "f",
+    "from": "清风Blog",
+    "from_who": "清风",
+    "creator": "清风",
+    "creator_uid": 17024,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1709426992",
+    "length": 10
+  },
+  {
+    "id": 9813,
+    "uuid": "69319cbe-f1af-401a-b9ee-fbbfab3ac7ed",
+    "hitokoto": "su↑per↓cha↑t↓啊↓里↑噶↑多↑勾↑杂↑一↑骂↑死↓。",
+    "type": "f",
+    "from": "彩虹社",
+    "from_who": "葛叶",
+    "creator": "ArashiTusKi",
+    "creator_uid": 17082,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1710054803",
+    "length": 32
+  },
+  {
+    "id": 9815,
+    "uuid": "77ae36be-f597-4bfb-a53d-a8ef6959e491",
+    "hitokoto": "哭也没关系的；说不出的话，由我来说就好。",
+    "type": "f",
+    "from": "彩虹社",
+    "from_who": "叶",
+    "creator": "ArashiTusKi",
+    "creator_uid": 17082,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1710055189",
+    "length": 20
   }
 ]

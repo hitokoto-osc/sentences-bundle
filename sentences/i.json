@@ -9644,5 +9644,61 @@
     "commit_from": "web",
     "created_at": "1707812271",
     "length": 24
+  },
+  {
+    "id": 9798,
+    "uuid": "57e07d4a-0933-49fb-a803-efb0321e5af7",
+    "hitokoto": "天地有正气，杂然赋流形。",
+    "type": "i",
+    "from": "正气歌",
+    "from_who": "文天祥",
+    "creator": "Yanel",
+    "creator_uid": 17033,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1709478525",
+    "length": 12
+  },
+  {
+    "id": 9799,
+    "uuid": "ef33def4-d65b-4ca7-800a-9ca7466090b3",
+    "hitokoto": "天行健，君子以自强不息。",
+    "type": "i",
+    "from": "周易",
+    "from_who": null,
+    "creator": "Yanel",
+    "creator_uid": 17033,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1709478631",
+    "length": 12
+  },
+  {
+    "id": 9805,
+    "uuid": "0237b8f7-661b-42dc-b2c4-d0b75a247a33",
+    "hitokoto": "亲爱如兄，字曰孔方。失之贫弱，得之富强。",
+    "type": "i",
+    "from": "钱神论",
+    "from_who": "鲁褒",
+    "creator": "北冥",
+    "creator_uid": 17077,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1710053654",
+    "length": 20
+  },
+  {
+    "id": 9816,
+    "uuid": "c1a1b9bf-707e-41be-98ae-51323965455d",
+    "hitokoto": "本以高难饱，徒劳恨费声。",
+    "type": "i",
+    "from": "蝉",
+    "from_who": "李商隐",
+    "creator": "北冥",
+    "creator_uid": 17077,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1710055225",
+    "length": 12
   }
 ]
