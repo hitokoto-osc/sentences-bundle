@@ -2924,5 +2924,33 @@
     "commit_from": "web",
     "created_at": "1698588070",
     "length": 18
+  },
+  {
+    "id": 9619,
+    "uuid": "a485559b-d063-4f7d-a688-86cb0f32898a",
+    "hitokoto": "我只知道一件事，那就是我什么都不知道。",
+    "type": "k",
+    "from": "哲学的故事",
+    "from_who": "苏格拉底",
+    "creator": "下北泽的红茶",
+    "creator_uid": 16305,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1700571834",
+    "length": 19
+  },
+  {
+    "id": 9624,
+    "uuid": "b2edbf74-b6c6-4d27-baf9-d6838e9a74ad",
+    "hitokoto": "遏制自己内心的知识优越感，才能让你发自内心的去尊重他人，避免狂妄自大，才能让你不断的丰富自己的内心。",
+    "type": "k",
+    "from": "罗翔语录",
+    "from_who": "罗翔",
+    "creator": "努力飞起来の小羊",
+    "creator_uid": 16352,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1701262280",
+    "length": 50
   }
 ]
