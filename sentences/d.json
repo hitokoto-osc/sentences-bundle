@@ -21474,5 +21474,47 @@
     "commit_from": "web",
     "created_at": "1702829631",
     "length": 12
+  },
+  {
+    "id": 9665,
+    "uuid": "829600f3-1dcd-486a-a088-d19fd7a1454c",
+    "hitokoto": "爱自己才是终身浪漫的开始！",
+    "type": "d",
+    "from": "理想丈夫",
+    "from_who": "奥斯卡·王尔德",
+    "creator": "key lin",
+    "creator_uid": 2340,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1703773925",
+    "length": 13
+  },
+  {
+    "id": 9674,
+    "uuid": "12cf504f-2294-4d9f-ba86-1bdecbd54b97",
+    "hitokoto": "天上天下，唯我独尊。",
+    "type": "d",
+    "from": "佛典",
+    "from_who": null,
+    "creator": "FrandreJoestar",
+    "creator_uid": 16505,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1704190529",
+    "length": 10
+  },
+  {
+    "id": 9690,
+    "uuid": "5c591d09-7379-4b63-bc36-8c7161f94ba4",
+    "hitokoto": "Lonely in love, alone in pain.",
+    "type": "d",
+    "from": "英国六字小说",
+    "from_who": "佚名",
+    "creator": "lei qing",
+    "creator_uid": 16756,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1706225987",
+    "length": 30
   }
 ]
