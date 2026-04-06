@@ -9966,5 +9966,47 @@
     "commit_from": "web",
     "created_at": "1753330208",
     "length": 12
+  },
+  {
+    "id": 10609,
+    "uuid": "32058f78-201a-4c67-9653-adf708ecf66e",
+    "hitokoto": "鸾歌无岁月，鹤语记春秋。",
+    "type": "i",
+    "from": "幸白鹿观应制",
+    "from_who": "崔湜",
+    "creator": "Iking",
+    "creator_uid": 19579,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1753331969",
+    "length": 12
+  },
+  {
+    "id": 10610,
+    "uuid": "3993452d-8e93-4eeb-b739-783b488fa1b2",
+    "hitokoto": "超无为以至清兮，与泰初而为邻。",
+    "type": "i",
+    "from": "远游",
+    "from_who": "屈原",
+    "creator": "Iking",
+    "creator_uid": 19579,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1753332054",
+    "length": 15
+  },
+  {
+    "id": 10611,
+    "uuid": "d2d7b50d-830a-44c3-812f-69fab74da582",
+    "hitokoto": "悲时俗之迫阨兮，愿轻举而远游。",
+    "type": "i",
+    "from": "远游",
+    "from_who": "屈原",
+    "creator": "Iking",
+    "creator_uid": 19579,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1753332147",
+    "length": 15
   }
 ]
