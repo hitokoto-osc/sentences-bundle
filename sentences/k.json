@@ -2952,5 +2952,33 @@
     "commit_from": "web",
     "created_at": "1701262280",
     "length": 50
+  },
+  {
+    "id": 9637,
+    "uuid": "0225e39b-864e-466a-b712-5f5da634ae37",
+    "hitokoto": "我们都以为雨滴落向地面，其实是我们坠入天空。",
+    "type": "k",
+    "from": "弱智吧",
+    "from_who": null,
+    "creator": "huangyx",
+    "creator_uid": 16440,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1702221845",
+    "length": 22
+  },
+  {
+    "id": 9639,
+    "uuid": "569f151e-a7dd-4580-8ec5-777c874ea566",
+    "hitokoto": "苦难是生命的防沉迷系统。",
+    "type": "k",
+    "from": "弱智吧",
+    "from_who": null,
+    "creator": "huangyx",
+    "creator_uid": 16440,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1702221883",
+    "length": 12
   }
 ]

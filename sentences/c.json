@@ -9280,5 +9280,19 @@
     "commit_from": "web",
     "created_at": "1699619953",
     "length": 16
+  },
+  {
+    "id": 9660,
+    "uuid": "4bf1a28c-e10c-442e-8c2a-d6bc7973a644",
+    "hitokoto": "即便自己寿终故去，也在祈祷你能平安归来……",
+    "type": "c",
+    "from": "原神",
+    "from_who": "旅行者",
+    "creator": "Jerry",
+    "creator_uid": 13499,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1702835489",
+    "length": 21
   }
 ]
