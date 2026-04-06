@@ -320,5 +320,33 @@
     "commit_from": "web",
     "created_at": "1695279683",
     "length": 10
+  },
+  {
+    "id": 9571,
+    "uuid": "bcfa5051-9b29-4022-8319-c8ff66cd6cda",
+    "hitokoto": "十年OI一场空，不开long long见祖宗。",
+    "type": "l",
+    "from": "NOI赛事相关名言",
+    "from_who": null,
+    "creator": "GGapa",
+    "creator_uid": 16134,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1698586628",
+    "length": 23
+  },
+  {
+    "id": 9576,
+    "uuid": "2e3a09c2-a0bc-4866-867c-15d332e10632",
+    "hitokoto": "rp++.",
+    "type": "l",
+    "from": "NOI赛事相关名言",
+    "from_who": null,
+    "creator": "GGapa",
+    "creator_uid": 16134,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1698674630",
+    "length": 5
   }
 ]

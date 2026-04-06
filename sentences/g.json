@@ -8510,5 +8510,47 @@
     "commit_from": "web",
     "created_at": "1695278340",
     "length": 46
+  },
+  {
+    "id": 9550,
+    "uuid": "33dba4a4-36d6-4d18-b996-785c36ab654b",
+    "hitokoto": "政治发展因政治衰败而经常逆转，其原因就在人类制度固有的保守性。",
+    "type": "g",
+    "from": "政治秩序的起源",
+    "from_who": "弗朗西斯·福山",
+    "creator": "尘寰梁津",
+    "creator_uid": 16095,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1698204176",
+    "length": 31
+  },
+  {
+    "id": 9568,
+    "uuid": "8772f9e1-c470-4296-906b-42e344e3227c",
+    "hitokoto": "放下遗憾的人得以安居天堂。",
+    "type": "g",
+    "from": "Phantom Regret by Jim",
+    "from_who": "The Weeknd",
+    "creator": "GGapa",
+    "creator_uid": 16134,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1698588235",
+    "length": 13
+  },
+  {
+    "id": 9582,
+    "uuid": "5b1fa773-af10-4d7a-a1d6-686ab0cd5364",
+    "hitokoto": "借由无限之翼，超越现世界限。",
+    "type": "g",
+    "from": "刻ト詩 ピアノアレンジ",
+    "from_who": null,
+    "creator": "vylf",
+    "creator_uid": 16216,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1699511698",
+    "length": 14
   }
 ]

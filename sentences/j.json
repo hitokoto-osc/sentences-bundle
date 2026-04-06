@@ -1146,5 +1146,33 @@
     "commit_from": "web",
     "created_at": "1689597544",
     "length": 80
+  },
+  {
+    "id": 9559,
+    "uuid": "30360d61-5082-408c-aa95-16e7a041bddf",
+    "hitokoto": "我从来不用void，都是用int，不返回点啥总觉得不自在。",
+    "type": "j",
+    "from": "网络",
+    "from_who": null,
+    "creator": "GGapa",
+    "creator_uid": 16134,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1698490864",
+    "length": 29
+  },
+  {
+    "id": 9570,
+    "uuid": "9534ab2e-8421-41b2-89fc-967304d0a2e5",
+    "hitokoto": "体育中考，男生跑1000，女生跑800，但也有的男孩跑了1800。",
+    "type": "j",
+    "from": "网易云音乐",
+    "from_who": "emo的海苔",
+    "creator": "GGapa",
+    "creator_uid": 16134,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1698581990",
+    "length": 33
   }
 ]
