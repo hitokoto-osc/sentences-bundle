@@ -474,5 +474,33 @@
     "commit_from": "web",
     "created_at": "1710056226",
     "length": 5
+  },
+  {
+    "id": 9915,
+    "uuid": "0b387718-069f-4625-a3c2-2ff86fc1af5c",
+    "hitokoto": "如果说存在即合理，那不合理是不是意味着不存在?",
+    "type": "l",
+    "from": "ATCraft Network",
+    "from_who": "BizonUserYakamo",
+    "creator": "GrassBlock2022",
+    "creator_uid": 17587,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1717648366",
+    "length": 23
+  },
+  {
+    "id": 9939,
+    "uuid": "cda05274-b1a6-40d7-b208-8ce31e8e5271",
+    "hitokoto": "大家别太把考试当回事，因为还有很多机会可以把人生搞砸。",
+    "type": "l",
+    "from": "bilibili",
+    "from_who": "UP主-11babeee",
+    "creator": "Cloud",
+    "creator_uid": 17718,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1719993734",
+    "length": 27
   }
 ]

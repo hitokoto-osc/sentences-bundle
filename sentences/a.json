@@ -19430,5 +19430,47 @@
     "commit_from": "web",
     "created_at": "1714561648",
     "length": 19
+  },
+  {
+    "id": 9912,
+    "uuid": "d7d2f598-4171-448f-9247-3d2a4e3f4747",
+    "hitokoto": "要以音为乐，才叫作音乐。",
+    "type": "a",
+    "from": "響け！ユーフォニアム",
+    "from_who": "橋本真博",
+    "creator": "Jerry",
+    "creator_uid": 13499,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1717342442",
+    "length": 12
+  },
+  {
+    "id": 9937,
+    "uuid": "69144440-bcbc-45b0-a3f7-b0692ea9ab0e",
+    "hitokoto": "不要逃避！不要逃避！不要逃避！",
+    "type": "a",
+    "from": "新世纪福音战士",
+    "from_who": "庵野秀明",
+    "creator": "之一",
+    "creator_uid": 17701,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1719687471",
+    "length": 15
+  },
+  {
+    "id": 9938,
+    "uuid": "855ff343-a07e-484a-8be7-8c53ea660d00",
+    "hitokoto": "不要露出这样的表情，我们还会再见的，真嗣。",
+    "type": "a",
+    "from": "新世纪福音战士",
+    "from_who": "庵野秀明",
+    "creator": "之一",
+    "creator_uid": 17701,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1719687807",
+    "length": 21
   }
 ]
