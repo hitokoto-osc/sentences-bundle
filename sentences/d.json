@@ -23070,5 +23070,61 @@
     "commit_from": "web",
     "created_at": "1735215312",
     "length": 21
+  },
+  {
+    "id": 10213,
+    "uuid": "9360056e-4108-4d5d-a6fa-bc91af8f46c3",
+    "hitokoto": "We shall never surrender!",
+    "type": "d",
+    "from": "丘吉尔演讲：我们将在海滩抗战",
+    "from_who": "丘吉尔",
+    "creator": "PanDaoxi",
+    "creator_uid": 18572,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1735653415",
+    "length": 25
+  },
+  {
+    "id": 10217,
+    "uuid": "d13add49-b53d-49f3-b972-c4473da91f13",
+    "hitokoto": "不为劳动而生，就为战斗而死！",
+    "type": "d",
+    "from": "里昂工人罢工的口号",
+    "from_who": "未知",
+    "creator": "PanDaoxi",
+    "creator_uid": 18572,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1735654187",
+    "length": 14
+  },
+  {
+    "id": 10231,
+    "uuid": "05f940be-0c33-426d-89ad-8eb792ed1c53",
+    "hitokoto": "我对三体世界说话。",
+    "type": "d",
+    "from": "三体",
+    "from_who": "罗辑",
+    "creator": "zjy114514",
+    "creator_uid": 18662,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1737331774",
+    "length": 9
+  },
+  {
+    "id": 10232,
+    "uuid": "b765e533-82b9-4112-8f3a-765d341d67d3",
+    "hitokoto": "就像，晚霞的眼睛。",
+    "type": "d",
+    "from": "三体",
+    "from_who": "罗辑",
+    "creator": "zjy114514",
+    "creator_uid": 18662,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1737331817",
+    "length": 9
   }
 ]
