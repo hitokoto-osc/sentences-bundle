@@ -10176,5 +10176,47 @@
     "commit_from": "web",
     "created_at": "1694421415",
     "length": 39
+  },
+  {
+    "id": 9532,
+    "uuid": "38874365-1cfc-4334-88e6-d730410194c0",
+    "hitokoto": "孩子：我长大以后要当医生。爸爸：好啊，医生收入多高啊！妈妈：好啊，医生社会地位高！奶奶：好啊，当个好医生名气多大啊！爷爷：好啊，当医生人脉广，路子多啊！孩子：医生不是治病救人的吗？",
+    "type": "f",
+    "from": "bilibili",
+    "from_who": "浮生-十年",
+    "creator": "空吧",
+    "creator_uid": 14633,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1696141130",
+    "length": 90
+  },
+  {
+    "id": 9541,
+    "uuid": "ce00139a-cea4-4dc3-a049-d3b5c0b334d1",
+    "hitokoto": "有时候你必须在现实中取关别人。",
+    "type": "f",
+    "from": "生活",
+    "from_who": "每个人",
+    "creator": "四季清茶",
+    "creator_uid": 16061,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1697527477",
+    "length": 15
+  },
+  {
+    "id": 9542,
+    "uuid": "cea9d88c-37c2-4dbd-874e-a3124ff1bbbb",
+    "hitokoto": "人生总有起落，精神终可继承。",
+    "type": "f",
+    "from": "网络",
+    "from_who": null,
+    "creator": "starryflow",
+    "creator_uid": 16066,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1697592074",
+    "length": 14
   }
 ]

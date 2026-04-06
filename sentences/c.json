@@ -9112,5 +9112,33 @@
     "commit_from": "web",
     "created_at": "1693316856",
     "length": 24
+  },
+  {
+    "id": 9531,
+    "uuid": "7ab0fb76-c6d6-4e5b-92e9-89e0f0355a69",
+    "hitokoto": "哪怕自身只是半缕微光，也要照亮他人。",
+    "type": "c",
+    "from": "崩坏：星穹铁道",
+    "from_who": "布洛妮娅",
+    "creator": "Jerry",
+    "creator_uid": 13499,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1696090709",
+    "length": 18
+  },
+  {
+    "id": 9539,
+    "uuid": "76c383d7-9f03-49aa-afa5-a28a7ff74911",
+    "hitokoto": "匣中久藏三尺水，何日可待试锋芒？",
+    "type": "c",
+    "from": "崩坏：星穹铁道",
+    "from_who": "景元",
+    "creator": "Jerry",
+    "creator_uid": 13499,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1697217005",
+    "length": 16
   }
 ]

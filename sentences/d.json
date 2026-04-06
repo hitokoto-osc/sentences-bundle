@@ -21012,5 +21012,47 @@
     "commit_from": "web",
     "created_at": "1694100391",
     "length": 42
+  },
+  {
+    "id": 9533,
+    "uuid": "05c5bbd6-3689-4f4f-b8ab-3a16dc6827d8",
+    "hitokoto": "往后我们还有无数的日子要过，反正到头来人生只是那么一回事。如果我把那么多事情先想来想去，未免太伤神了。你这么年轻，应该努力向前奔。",
+    "type": "d",
+    "from": "愤怒的葡萄",
+    "from_who": "约翰·斯坦贝克",
+    "creator": "Wcowin",
+    "creator_uid": 15952,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1696324397",
+    "length": 65
+  },
+  {
+    "id": 9534,
+    "uuid": "d4c0356d-c8af-4df1-886f-99acea516515",
+    "hitokoto": "对于胜利者，失败会激励他们；对于失败者，失败则会击垮他们。",
+    "type": "d",
+    "from": "富爸爸穷爸爸",
+    "from_who": "罗伯特·T·清崎",
+    "creator": "a632079",
+    "creator_uid": 1044,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1696472827",
+    "length": 29
+  },
+  {
+    "id": 9535,
+    "uuid": "3cbeeb2c-6d97-4a19-9472-e7f10b9cb08e",
+    "hitokoto": "绝大多数人接受和被迫接受这个社会，并不能减少这个社会的不合理性，使它少受指责。",
+    "type": "d",
+    "from": "单向度的人",
+    "from_who": "[美] 赫伯特·马尔库塞",
+    "creator": "a632079",
+    "creator_uid": 1044,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1696474101",
+    "length": 39
   }
 ]
