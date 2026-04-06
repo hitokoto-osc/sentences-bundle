@@ -9574,5 +9574,33 @@
     "commit_from": "web",
     "created_at": "1746451657",
     "length": 23
+  },
+  {
+    "id": 10422,
+    "uuid": "12f766e2-58f3-4845-8fcd-7ee312d94324",
+    "hitokoto": "告诉你一个发现，你和我都会感动，世界很小是个家庭。",
+    "type": "g",
+    "from": "编辑部的故事",
+    "from_who": "冯小刚",
+    "creator": "Beluga",
+    "creator_uid": 19292,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1748151372",
+    "length": 25
+  },
+  {
+    "id": 10435,
+    "uuid": "159f78c5-2439-4e3b-af31-0b74c2ce95e8",
+    "hitokoto": "谁不是在崩溃的边缘苦求着希望，想要用魔法解开生活的惆怅。",
+    "type": "g",
+    "from": "天真的橡皮",
+    "from_who": "白水寒",
+    "creator": "lihansen",
+    "creator_uid": 19182,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1748853551",
+    "length": 28
   }
 ]

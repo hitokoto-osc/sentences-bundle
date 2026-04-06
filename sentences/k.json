@@ -3302,5 +3302,47 @@
     "commit_from": "web",
     "created_at": "1745090890",
     "length": 34
+  },
+  {
+    "id": 10427,
+    "uuid": "ac5ed860-bb9f-4d86-b649-5724cd14e964",
+    "hitokoto": "我们爱生活，并非我们习惯于生活，而是我们习惯于爱。",
+    "type": "k",
+    "from": "查拉图斯特拉如是说",
+    "from_who": "尼采",
+    "creator": "Shakir",
+    "creator_uid": 19367,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1748706785",
+    "length": 25
+  },
+  {
+    "id": 10429,
+    "uuid": "c494a593-81e0-45ac-b2d0-bdb8d5252ca3",
+    "hitokoto": "哲学是世界观和方法论的统一。",
+    "type": "k",
+    "from": "辩证唯物主义",
+    "from_who": "马克思主义哲学",
+    "creator": "reikuu",
+    "creator_uid": 19370,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1748798458",
+    "length": 14
+  },
+  {
+    "id": 10434,
+    "uuid": "294c4328-5c3b-4df3-a539-1c59df52cdaf",
+    "hitokoto": "一个人若是没有热情，他将一事无成，而热情的基点正是责任心。",
+    "type": "k",
+    "from": "名人名言",
+    "from_who": "托尔斯泰",
+    "creator": "lihansen",
+    "creator_uid": 19182,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1748853271",
+    "length": 29
   }
 ]
