@@ -11632,5 +11632,61 @@
     "commit_from": "web",
     "created_at": "1746812544",
     "length": 85
+  },
+  {
+    "id": 10402,
+    "uuid": "5c42f363-413e-4f4b-8024-42c05598f44d",
+    "hitokoto": "半生车马，轻舟劳顿，随波逐流，不知何处归乡。",
+    "type": "c",
+    "from": "三国杀十周年",
+    "from_who": "刘巴",
+    "creator": "岳不群",
+    "creator_uid": 19278,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1746991445",
+    "length": 22
+  },
+  {
+    "id": 10403,
+    "uuid": "0d17f5e0-b4c4-4534-9a9a-97d289f3f5c9",
+    "hitokoto": "一路坎坷，流转八方，幸苍天怜我，使风雨不侵。",
+    "type": "c",
+    "from": "三国杀",
+    "from_who": "刘巴",
+    "creator": "岳不群",
+    "creator_uid": 19278,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1746991514",
+    "length": 22
+  },
+  {
+    "id": 10404,
+    "uuid": "2d427807-0502-4ad3-88c6-f5776309a79c",
+    "hitokoto": "世界上有那么多地方，你偏偏走进了阿萨拉。阿萨拉有那么多地方，你却偏偏走进了阿萨拉Radio90.8蓝调山城！",
+    "type": "c",
+    "from": "三角洲行动",
+    "from_who": "肘击王雷斯",
+    "creator": "岳不群",
+    "creator_uid": 19278,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1746991703",
+    "length": 54
+  },
+  {
+    "id": 10414,
+    "uuid": "d94cb7d1-071f-4809-9b79-8930bcb18e2d",
+    "hitokoto": "止戈为武，仁者无敌。",
+    "type": "c",
+    "from": "侠客风云传",
+    "from_who": null,
+    "creator": "Beluga",
+    "creator_uid": 19292,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1747150436",
+    "length": 10
   }
 ]
