@@ -16364,5 +16364,61 @@
     "commit_from": "web",
     "created_at": "1708490261",
     "length": 19
+  },
+  {
+    "id": 9834,
+    "uuid": "df32b714-89be-41df-b459-dd2f414e306f",
+    "hitokoto": "我们就像木偶一样被人摆弄，有的付出了一切得到了自己所想要的，有的则永远成为了木偶。",
+    "type": "e",
+    "from": "清风",
+    "from_who": "清风",
+    "creator": "清风",
+    "creator_uid": 17024,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1710562090",
+    "length": 41
+  },
+  {
+    "id": 9836,
+    "uuid": "9a24d06f-1253-4bb7-91d1-1836a137b550",
+    "hitokoto": "我原是碳碳三键，遇到你之后便成了碳碳双键。记住，我的心里有两个属于咱俩的位置……",
+    "type": "e",
+    "from": "化学",
+    "from_who": "龙井logy",
+    "creator": "倒霉の龙井logy（bili）",
+    "creator_uid": 17147,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1711208295",
+    "length": 40
+  },
+  {
+    "id": 9840,
+    "uuid": "5c84d454-68c1-4069-8607-dbd8144c33ca",
+    "hitokoto": "无诗可读的时候，我便读你的眼睛。",
+    "type": "e",
+    "from": "我爸写的诗",
+    "from_who": "程平发",
+    "creator": "Mahowanai",
+    "creator_uid": 17203,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1712044807",
+    "length": 16
+  },
+  {
+    "id": 9852,
+    "uuid": "e3e093b8-9548-4334-ae08-7d7c8e8f3be0",
+    "hitokoto": "向前看，不要胆怯，不要在原地停留。",
+    "type": "e",
+    "from": "合集",
+    "from_who": "岁曳",
+    "creator": "岁曳",
+    "creator_uid": 17261,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1712845866",
+    "length": 17
   }
 ]

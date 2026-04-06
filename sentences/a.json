@@ -19388,5 +19388,33 @@
     "commit_from": "web",
     "created_at": "1710056612",
     "length": 15
+  },
+  {
+    "id": 9824,
+    "uuid": "311d1103-bedb-447b-bb5e-2975cd9e82b7",
+    "hitokoto": "只做我一个人的学院偶像，好吗？",
+    "type": "a",
+    "from": "LoveLive!虹之咲学院偶像同好会",
+    "from_who": "上原歩夢",
+    "creator": "yumitage",
+    "creator_uid": 17080,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1710057076",
+    "length": 15
+  },
+  {
+    "id": 9828,
+    "uuid": "bb5a4040-7c91-4b8b-be58-a35907cbf8a9",
+    "hitokoto": "我可是——要成为秧歌star的男人！",
+    "type": "a",
+    "from": "JOJO的奇妙冒险 黄金之风",
+    "from_who": "乔鲁诺·乔巴拿",
+    "creator": "yumitage",
+    "creator_uid": 17080,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1710058038",
+    "length": 18
   }
 ]
