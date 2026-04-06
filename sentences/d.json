@@ -23938,5 +23938,47 @@
     "commit_from": "web",
     "created_at": "1751087166",
     "length": 26
+  },
+  {
+    "id": 10502,
+    "uuid": "744f0571-2b41-4c55-a985-cedfd23a89b0",
+    "hitokoto": "时间赐我青春与死亡，尽管我带着镣铐，依然像大海一样歌唱。",
+    "type": "d",
+    "from": "羊齿山",
+    "from_who": "狄兰·托马斯",
+    "creator": "WorldHim",
+    "creator_uid": 19514,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1752295831",
+    "length": 28
+  },
+  {
+    "id": 10503,
+    "uuid": "d8dd67e6-f7be-4ab1-9f50-dfccb8eb1500",
+    "hitokoto": "所有的结局都已写好，所有的泪水也都已启程，却忽然忘了是怎么样的一个开始，在那个古老的不再回来的夏日。",
+    "type": "d",
+    "from": "青春",
+    "from_who": "席慕容",
+    "creator": "WorldHim",
+    "creator_uid": 19514,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1752295920",
+    "length": 50
+  },
+  {
+    "id": 10505,
+    "uuid": "be4e0678-c4d7-4d04-9035-c35938b15acf",
+    "hitokoto": "这泪从童年起就长途跋涉，一直到现在才抵达出海口，那种咸也因此像上古时代的盐。",
+    "type": "d",
+    "from": "在密室看海",
+    "from_who": "简媜",
+    "creator": "凌琉纾",
+    "creator_uid": 19524,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1752500512",
+    "length": 38
   }
 ]
