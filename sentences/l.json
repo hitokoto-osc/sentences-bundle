@@ -684,5 +684,19 @@
     "commit_from": "web",
     "created_at": "1775571382",
     "length": 16
+  },
+  {
+    "id": 10925,
+    "uuid": "afcae998-e832-47eb-9e8b-1a5786f7d369",
+    "hitokoto": "我偷了李白的酒，却写不出盛世风流，我想了能有半宿，还是不懂诗仙的愁，也许诗仙并无愁，谪仙下凡堪风流。",
+    "type": "l",
+    "from": "网络",
+    "from_who": "网友",
+    "creator": "郁离",
+    "creator_uid": 15811,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775572472",
+    "length": 50
   }
 ]
