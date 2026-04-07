@@ -20088,5 +20088,47 @@
     "commit_from": "web",
     "created_at": "1687426466",
     "length": 49
+  },
+  {
+    "id": 10831,
+    "uuid": "114680d3-8d42-4dcd-8e0a-ecb177463836",
+    "hitokoto": "真的啊……我在发光。不过我和大家的光芒比起来太小了，就自己丧失了自信，变得胆小，可只要我没放弃想让珍爱的人变得幸福，多少次我都能发出光芒。",
+    "type": "a",
+    "from": "少女歌剧",
+    "from_who": null,
+    "creator": "花谱",
+    "creator_uid": 15246,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1689060818",
+    "length": 69
+  },
+  {
+    "id": 10837,
+    "uuid": "e78b4c70-e0c6-4b78-b5e8-eb0d90fab8bc",
+    "hitokoto": "每隔半年左右，都会有情绪低落得不能再低落的时候，这时的我会觉得，自己果然是个平凡的人啊……不过话说回来，如此平凡的我……真的还有时间低头回望吗？",
+    "type": "a",
+    "from": "排球少年",
+    "from_who": "田中龙之介",
+    "creator": "席霖",
+    "creator_uid": 9559,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1689253484",
+    "length": 72
+  },
+  {
+    "id": 10838,
+    "uuid": "4a8fbb02-0435-4cd4-aab1-fdf9acef87fd",
+    "hitokoto": "万事并非开头就喜欢，准备开始做某事时，就算没有绝不动摇的意志也无所谓，顺势开始的事会慢慢变得重要，凡事伊始只需稍许好奇心。",
+    "type": "a",
+    "from": "排球少年",
+    "from_who": "清水洁子",
+    "creator": "席霖",
+    "creator_uid": 9559,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1689253557",
+    "length": 61
   }
 ]
