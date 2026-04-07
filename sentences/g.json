@@ -9854,5 +9854,47 @@
     "commit_from": "web",
     "created_at": "1681460532",
     "length": 17
+  },
+  {
+    "id": 10781,
+    "uuid": "0794f5d7-d679-41be-a8a7-2b2a8bc104cf",
+    "hitokoto": "生命的短暂/生活的阻碍，已经逝去的五分之三，还有多少安排/有多少期待，过去的梦何时捡起来。",
+    "type": "g",
+    "from": "一半一半",
+    "from_who": "张碧晨",
+    "creator": "某不科学的猹",
+    "creator_uid": 14861,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1683987185",
+    "length": 45
+  },
+  {
+    "id": 10782,
+    "uuid": "59f45a5c-3de3-4ec1-9817-db92fba13034",
+    "hitokoto": "所以生命啊，它璀璨如歌。",
+    "type": "g",
+    "from": "我用什么把你留住",
+    "from_who": "福禄寿FloruitShow",
+    "creator": "一只咸鱼",
+    "creator_uid": 14341,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1684065359",
+    "length": 12
+  },
+  {
+    "id": 10783,
+    "uuid": "b6ead712-0e4b-406f-b516-f5ce5be6cd77",
+    "hitokoto": "当你在恼火没有买到复刻的新鞋，但有人出生就被没收视力还有听觉。当你在西式餐厅挑剔螃蟹的个子，世界的另个角落里有孩子正被饿死。",
+    "type": "g",
+    "from": "信仰",
+    "from_who": "Jony J",
+    "creator": "新之助多动脑",
+    "creator_uid": 13190,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1684152944",
+    "length": 62
   }
 ]
