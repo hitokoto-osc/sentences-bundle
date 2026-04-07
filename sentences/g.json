@@ -9756,5 +9756,33 @@
     "commit_from": "web",
     "created_at": "1683986436",
     "length": 20
+  },
+  {
+    "id": 10685,
+    "uuid": "075d055f-1b4d-46ef-bb32-acbed9db5dcd",
+    "hitokoto": "Имя твоё неизвестно. Подвиг твой бессмертен（你的名字无人知晓，你的功绩永世长存）。",
+    "type": "g",
+    "from": "莫斯科无名烈士墓",
+    "from_who": null,
+    "creator": "a4566089",
+    "creator_uid": 14906,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1684563435",
+    "length": 63
+  },
+  {
+    "id": 10694,
+    "uuid": "8ccc1ffb-e0f5-4050-8220-029fcb05e3ba",
+    "hitokoto": "Don't judge a book by its cover.",
+    "type": "g",
+    "from": "英语谚语",
+    "from_who": null,
+    "creator": "修豪",
+    "creator_uid": 13468,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1686483193",
+    "length": 32
   }
 ]

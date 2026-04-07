@@ -4086,5 +4086,47 @@
     "commit_from": "web",
     "created_at": "1753357145",
     "length": 22
+  },
+  {
+    "id": 10681,
+    "uuid": "88d42006-71a6-425a-8af6-f090af512bb1",
+    "hitokoto": "慎终如始，则无败事。",
+    "type": "k",
+    "from": "道德经",
+    "from_who": "老子",
+    "creator": "一只咸鱼",
+    "creator_uid": 14341,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1684065760",
+    "length": 10
+  },
+  {
+    "id": 10693,
+    "uuid": "cd80c2bd-e9cb-4494-a7b2-4bdd280a9941",
+    "hitokoto": "Do one thing at a time, and do well.",
+    "type": "k",
+    "from": "英语谚语",
+    "from_who": null,
+    "creator": "修豪",
+    "creator_uid": 13468,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1686483034",
+    "length": 36
+  },
+  {
+    "id": 10695,
+    "uuid": "55757788-abce-4b12-b833-10f288b5a7df",
+    "hitokoto": "已有的事，后必再有；已行的事，后必再行。日光之下，并无新事。",
+    "type": "k",
+    "from": "圣经",
+    "from_who": null,
+    "creator": "The Hanged Man",
+    "creator_uid": 15056,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1686564124",
+    "length": 30
   }
 ]
