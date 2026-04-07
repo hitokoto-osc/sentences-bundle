@@ -9924,5 +9924,33 @@
     "commit_from": "web",
     "created_at": "1689205859",
     "length": 27
+  },
+  {
+    "id": 10852,
+    "uuid": "bcc672b7-9566-409a-a96a-0807c73a7bee",
+    "hitokoto": "半山腰太挤了，我想去山顶看看。",
+    "type": "g",
+    "from": "必刷题",
+    "from_who": null,
+    "creator": "不染",
+    "creator_uid": 15306,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1689592956",
+    "length": 15
+  },
+  {
+    "id": 10873,
+    "uuid": "2be31056-c160-4557-94f9-63bd186e7493",
+    "hitokoto": "超越一切，震慑凡人，带来终结，机械降神，风暴之力，充满全身，最后一击，核心共振！",
+    "type": "g",
+    "from": "歌曲核心共振",
+    "from_who": "烈风",
+    "creator": "Zirconium",
+    "creator_uid": 15388,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1690528788",
+    "length": 40
   }
 ]

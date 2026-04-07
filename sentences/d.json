@@ -25114,5 +25114,33 @@
     "commit_from": "web",
     "created_at": "1689479294",
     "length": 54
+  },
+  {
+    "id": 10850,
+    "uuid": "ea9fd4b7-1345-4637-9249-624e6fa1ddbc",
+    "hitokoto": "我再咽不下了。所有我曾经咽下的现在都从喉咙汹涌而出，在祖国的领土上铺成一首耻辱的诗。",
+    "type": "d",
+    "from": "我咽下一枚铁做的月亮",
+    "from_who": "许立志",
+    "creator": "随波逐流",
+    "creator_uid": 15290,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1689479857",
+    "length": 42
+  },
+  {
+    "id": 10870,
+    "uuid": "788c57cc-63f3-4051-923e-8cc6b75171ee",
+    "hitokoto": "存人失地，人地皆存。存地失人，人地皆失。",
+    "type": "d",
+    "from": "在晋绥干部会议上的讲话",
+    "from_who": "毛泽东",
+    "creator": "机器人114514",
+    "creator_uid": 15351,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1690084879",
+    "length": 20
   }
 ]
