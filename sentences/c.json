@@ -12570,5 +12570,33 @@
     "commit_from": "web",
     "created_at": "1693589970",
     "length": 33
+  },
+  {
+    "id": 10941,
+    "uuid": "f91d4f52-fc6c-4556-828a-70e32a147ad3",
+    "hitokoto": "或许过往已无可溯洄，但好在还有可以与你相遇的明天。",
+    "type": "c",
+    "from": "原神",
+    "from_who": null,
+    "creator": "nDhnzr6r",
+    "creator_uid": 18296,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775589955",
+    "length": 25
+  },
+  {
+    "id": 10944,
+    "uuid": "372f1607-546a-4444-bdc6-a8c4181adb4d",
+    "hitokoto": "所以有时候像这样变得像孩子一样不好吗?",
+    "type": "c",
+    "from": "剧透勇者",
+    "from_who": "法师玛莎·背叛者",
+    "creator": "nDhnzr6r",
+    "creator_uid": 18296,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775590170",
+    "length": 19
   }
 ]
