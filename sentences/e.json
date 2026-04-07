@@ -19080,5 +19080,33 @@
     "commit_from": "web",
     "created_at": "1775573987",
     "length": 41
+  },
+  {
+    "id": 10930,
+    "uuid": "08e95cc9-6e00-435d-83bd-313eed263b13",
+    "hitokoto": "当你逃脱法律监管的同时，也失去了法律的保护。",
+    "type": "e",
+    "from": "nDhnzr6r",
+    "from_who": "nDhnzr6r",
+    "creator": "nDhnzr6r",
+    "creator_uid": 18296,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775589362",
+    "length": 22
+  },
+  {
+    "id": 10932,
+    "uuid": "4f3be90d-4ec7-43b2-86d3-7cf67b96b60e",
+    "hitokoto": "再爱你10年，我也才26。",
+    "type": "e",
+    "from": "nDhnzr6r",
+    "from_who": "nDhnzr6r",
+    "creator": "nDhnzr6r",
+    "creator_uid": 18296,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775589540",
+    "length": 13
   }
 ]
