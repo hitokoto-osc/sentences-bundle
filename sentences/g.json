@@ -9714,5 +9714,47 @@
     "commit_from": "web",
     "created_at": "1753589561",
     "length": 17
+  },
+  {
+    "id": 10667,
+    "uuid": "3f4dfa24-e7d0-4f2d-a0e3-183762d9eb78",
+    "hitokoto": "前灯，尾灯，旅途还未结束。",
+    "type": "g",
+    "from": "ヘッドライト・テールライト",
+    "from_who": "中島みゆき",
+    "creator": "Kwysongshu",
+    "creator_uid": 14805,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1683503991",
+    "length": 13
+  },
+  {
+    "id": 10672,
+    "uuid": "7c76a75c-64d4-48fc-82ee-c4f16d7c99fb",
+    "hitokoto": "更愿诸君，矢勤矢勇，指戈长白山麓。",
+    "type": "g",
+    "from": "骊歌",
+    "from_who": "华文宪",
+    "creator": "某不科学的猹",
+    "creator_uid": 14861,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1683985078",
+    "length": 17
+  },
+  {
+    "id": 10674,
+    "uuid": "bb0d03a4-1bd0-42b8-8218-62bfaa924b44",
+    "hitokoto": "咨尔多士，为民前锋；夙夜匪懈，主义是从。",
+    "type": "g",
+    "from": "三民主义歌",
+    "from_who": "孙中山",
+    "creator": "某不科学的猹",
+    "creator_uid": 14861,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1683986436",
+    "length": 20
   }
 ]
