@@ -10120,5 +10120,19 @@
     "commit_from": "web",
     "created_at": "1689479501",
     "length": 68
+  },
+  {
+    "id": 10888,
+    "uuid": "d1c57a08-5a18-42f8-abb7-a111c2e23220",
+    "hitokoto": "飞光飞光，劝尔一杯酒。",
+    "type": "i",
+    "from": "苦昼短",
+    "from_who": "李贺",
+    "creator": "游泳的小羊",
+    "creator_uid": 15692,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1693059501",
+    "length": 11
   }
 ]

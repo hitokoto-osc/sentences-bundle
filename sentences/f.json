@@ -12276,5 +12276,61 @@
     "commit_from": "web",
     "created_at": "1689501553",
     "length": 31
+  },
+  {
+    "id": 10876,
+    "uuid": "f7a06845-6813-4785-8b93-4e5c50e61fa1",
+    "hitokoto": "恋爱的人碰到床腿会啊得一声歪倒哀嚎，演技胜过演员；单身的人只发出咝得一声，如同雨水落在炙热下水道盖上，孤独如大雨淹没了痛感。",
+    "type": "f",
+    "from": "steam评论区",
+    "from_who": null,
+    "creator": "德属中非の经济学教授",
+    "creator_uid": 15631,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1692597596",
+    "length": 62
+  },
+  {
+    "id": 10882,
+    "uuid": "b8782af1-c101-4922-aedd-5f9b9326a8d7",
+    "hitokoto": "人生的胜负并不重要，但求尽心尽力，问心无愧。",
+    "type": "f",
+    "from": "网络",
+    "from_who": null,
+    "creator": "德属中非の经济学教授",
+    "creator_uid": 15631,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1692598186",
+    "length": 22
+  },
+  {
+    "id": 10886,
+    "uuid": "8a589ba3-bcf2-4001-a412-cb88c6adc0fe",
+    "hitokoto": "当天空黑到一定程度时候，星星便熠熠生辉。",
+    "type": "f",
+    "from": "网络",
+    "from_who": null,
+    "creator": "molen",
+    "creator_uid": 15670,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1692870820",
+    "length": 20
+  },
+  {
+    "id": 10887,
+    "uuid": "d29e70f7-1269-4919-8d13-a46017e0f025",
+    "hitokoto": "我没有失去任何东西，因为我一无所有。",
+    "type": "f",
+    "from": "网络",
+    "from_who": "FanChestnut",
+    "creator": "rumble",
+    "creator_uid": 15680,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1692935866",
+    "length": 18
   }
 ]
