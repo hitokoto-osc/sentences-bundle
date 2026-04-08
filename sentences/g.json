@@ -9966,5 +9966,19 @@
     "commit_from": "web",
     "created_at": "1692606315",
     "length": 14
+  },
+  {
+    "id": 10959,
+    "uuid": "eef1e1da-8c44-4b85-af81-4adc7591fa75",
+    "hitokoto": "We choose to go to the moon in this decade and do the other things. Not because they are easy, but because they are hard.",
+    "type": "g",
+    "from": "We Choose To Go To The Moon",
+    "from_who": "John Kennedy",
+    "creator": "AweiX",
+    "creator_uid": 16850,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775662539",
+    "length": 121
   }
 ]
