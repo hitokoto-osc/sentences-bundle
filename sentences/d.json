@@ -25324,5 +25324,19 @@
     "commit_from": "web",
     "created_at": "1775911346",
     "length": 36
+  },
+  {
+    "id": 11010,
+    "uuid": "20206496-7bd7-4737-923d-eaa78ac45fcb",
+    "hitokoto": "骑在人民头上的，人民把他摔垮；给人民作牛马的，人民永远记住他！把名字刻入石头的，名字比尸首烂得更早；只要春风吹到的地方，到处是青青的野草。",
+    "type": "d",
+    "from": "有的人",
+    "from_who": "臧克家",
+    "creator": "xionglongztz",
+    "creator_uid": 19114,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775911742",
+    "length": 69
   }
 ]
