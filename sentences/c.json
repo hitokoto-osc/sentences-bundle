@@ -12640,5 +12640,61 @@
     "commit_from": "web",
     "created_at": "1775959328",
     "length": 9
+  },
+  {
+    "id": 11014,
+    "uuid": "d8623d4d-4396-4753-a13f-875698135e56",
+    "hitokoto": "法律是冷冰冰的条文，而正义是它跳动的心脏。",
+    "type": "c",
+    "from": "蛋仔派对",
+    "from_who": "执法官布谷",
+    "creator": "ken",
+    "creator_uid": 20398,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775959529",
+    "length": 21
+  },
+  {
+    "id": 11015,
+    "uuid": "0089a0e1-ba79-4faa-95e1-19ac8a0fa953",
+    "hitokoto": "如果思念有声音，那一定是最动听的乐章。",
+    "type": "c",
+    "from": "蛋仔派对",
+    "from_who": "水母莱莱",
+    "creator": "ken",
+    "creator_uid": 20398,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775959562",
+    "length": 19
+  },
+  {
+    "id": 11016,
+    "uuid": "168dae18-b012-4b25-9d54-103dbc370ce1",
+    "hitokoto": "无坚不摧的从来不是铠甲，而是我的意志。",
+    "type": "c",
+    "from": "蛋仔派对",
+    "from_who": "天穹骑士",
+    "creator": "ken",
+    "creator_uid": 20398,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775959582",
+    "length": 19
+  },
+  {
+    "id": 11017,
+    "uuid": "4d963b92-918b-4d32-a1a4-446f629734d7",
+    "hitokoto": "一味地等待风吹来，不如追风而去。",
+    "type": "c",
+    "from": "蛋仔派对",
+    "from_who": "白羽仙女索菲",
+    "creator": "ken",
+    "creator_uid": 20398,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1775959647",
+    "length": 16
   }
 ]
