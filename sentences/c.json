@@ -12752,5 +12752,19 @@
     "commit_from": "web",
     "created_at": "1776868304",
     "length": 37
+  },
+  {
+    "id": 11062,
+    "uuid": "6afb3af4-e837-4727-b563-c5a7cd8b7a01",
+    "hitokoto": "迷路有什么大不了的！我连人生的方向都迷失了。",
+    "type": "c",
+    "from": "宝可梦传说 Z-A",
+    "from_who": null,
+    "creator": "LampyStar",
+    "creator_uid": 20318,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1776869802",
+    "length": 22
   }
 ]
