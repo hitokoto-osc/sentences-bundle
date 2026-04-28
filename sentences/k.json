@@ -4198,5 +4198,19 @@
     "commit_from": "web",
     "created_at": "1777027703",
     "length": 24
+  },
+  {
+    "id": 11173,
+    "uuid": "9a2d36c3-42d7-4c39-a1e0-213e51f82303",
+    "hitokoto": "The only true wisdom is in knowing you know nothing.",
+    "type": "k",
+    "from": "Plato's Apology",
+    "from_who": "Socrates",
+    "creator": "a632079",
+    "creator_uid": 1044,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1777344304",
+    "length": 52
   }
 ]
