@@ -782,5 +782,19 @@
     "commit_from": "web",
     "created_at": "1776869885",
     "length": 13
+  },
+  {
+    "id": 11177,
+    "uuid": "c87e68ad-5461-4049-80ca-dd29a55730c1",
+    "hitokoto": "可口可乐和百事可乐相比之下，冰镇可乐喝得更痛快。",
+    "type": "l",
+    "from": "网络",
+    "from_who": null,
+    "creator": "nDhnzr6r",
+    "creator_uid": 18296,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1777398085",
+    "length": 24
   }
 ]
