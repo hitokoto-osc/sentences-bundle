@@ -19696,5 +19696,33 @@
     "commit_from": "web",
     "created_at": "1777642916",
     "length": 12
+  },
+  {
+    "id": 11261,
+    "uuid": "35392a53-7d3b-4cb1-badb-12cc37819d1f",
+    "hitokoto": "我不是天才少女，也不是勤奋“卷王”，只是对OI有点兴趣、又有点天赋的普通人。",
+    "type": "e",
+    "from": "NOI参赛总结",
+    "from_who": "Cindy_Li",
+    "creator": "Cindy_Li",
+    "creator_uid": 18795,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1777643939",
+    "length": 38
+  },
+  {
+    "id": 11262,
+    "uuid": "ffe0af8b-edbf-4ba6-863a-ca2160f286c6",
+    "hitokoto": "我从未后悔走上OI这座独木桥，因为我知道下面不是湍急的河谷，而是高考的阳关大道。",
+    "type": "e",
+    "from": "NOI参赛总结",
+    "from_who": "Cindy_Li",
+    "creator": "Cindy_Li",
+    "creator_uid": 18795,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1777644049",
+    "length": 40
   }
 ]
