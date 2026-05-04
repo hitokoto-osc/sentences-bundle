@@ -25800,5 +25800,19 @@
     "commit_from": "web",
     "created_at": "1777620100",
     "length": 32
+  },
+  {
+    "id": 11272,
+    "uuid": "bf2e2009-eead-4a3c-9a19-0774e59ec343",
+    "hitokoto": "岁月失语，惟石能言。",
+    "type": "d",
+    "from": "贺兰山题岩画",
+    "from_who": "冯骥才",
+    "creator": "qf",
+    "creator_uid": 20641,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1777906592",
+    "length": 10
   }
 ]
