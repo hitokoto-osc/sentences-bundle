@@ -25828,5 +25828,61 @@
     "commit_from": "web",
     "created_at": "1779007437",
     "length": 26
+  },
+  {
+    "id": 11292,
+    "uuid": "c8130d36-b7c5-4615-a241-ba51a4c32739",
+    "hitokoto": "身为军人能壮烈战死于保卫祖国的沙场,美名千古流芳,这正是最大的吉利.",
+    "type": "d",
+    "from": "紫川",
+    "from_who": "老猪",
+    "creator": "Snow-In-Twilight",
+    "creator_uid": 20693,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1779007545",
+    "length": 34
+  },
+  {
+    "id": 11293,
+    "uuid": "27f18902-c18a-4806-ad91-0f9a959a0356",
+    "hitokoto": "人们不能抗拒死亡，但人们却能选择死亡的方式，高贵或者卑贱，全在一念之间。",
+    "type": "d",
+    "from": "紫川",
+    "from_who": "老猪",
+    "creator": "Snow-In-Twilight",
+    "creator_uid": 20693,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1779007614",
+    "length": 36
+  },
+  {
+    "id": 11294,
+    "uuid": "d2d49513-c933-4d46-bd91-2c5fda0479aa",
+    "hitokoto": "是的，刀剑无法谋杀思想，但却可以消灭思想的载体。",
+    "type": "d",
+    "from": "紫川",
+    "from_who": "老猪",
+    "creator": "Snow-In-Twilight",
+    "creator_uid": 20693,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1779007660",
+    "length": 24
+  },
+  {
+    "id": 11295,
+    "uuid": "458d9488-e99b-4d43-bb13-3aabffe15d41",
+    "hitokoto": "一见君，误终生！",
+    "type": "d",
+    "from": "紫川•天意弄人",
+    "from_who": "老猪",
+    "creator": "Snow-In-Twilight",
+    "creator_uid": 20693,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1779007704",
+    "length": 8
   }
 ]
