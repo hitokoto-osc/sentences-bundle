@@ -25954,5 +25954,47 @@
     "commit_from": "web",
     "created_at": "1779008249",
     "length": 16
+  },
+  {
+    "id": 11301,
+    "uuid": "3b5f2beb-a4e9-4946-95d3-4e746a05ce59",
+    "hitokoto": "历史早就证明了，一个民族如果被击败，只要不是被彻底摧毁，两三代人以后，这个民族会比以往任何时候都要强大。我们会重新强大起来的，我对此确信无疑。",
+    "type": "d",
+    "from": "紫川",
+    "from_who": "老猪",
+    "creator": "Snow-In-Twilight",
+    "creator_uid": 20693,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1779008380",
+    "length": 71
+  },
+  {
+    "id": 11302,
+    "uuid": "d1096772-bbfa-4c29-8d5e-4bf42f78eccb",
+    "hitokoto": "世界无限广阔，男儿切莫固步自封！",
+    "type": "d",
+    "from": "紫川",
+    "from_who": "老猪",
+    "creator": "Snow-In-Twilight",
+    "creator_uid": 20693,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1779008500",
+    "length": 16
+  },
+  {
+    "id": 11303,
+    "uuid": "21d0e21b-5bcb-447e-9427-9298d3258754",
+    "hitokoto": "无需解释，无需语言，在那个凝固的瞬间，无数的思想都在那目光中交流了。一种超越国界和仇恨的思想悄然沟通。同为人类，我们患难与共。",
+    "type": "d",
+    "from": "紫川",
+    "from_who": "老猪",
+    "creator": "Snow-In-Twilight",
+    "creator_uid": 20693,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1779008594",
+    "length": 63
   }
 ]
