@@ -25884,5 +25884,61 @@
     "commit_from": "web",
     "created_at": "1779007704",
     "length": 8
+  },
+  {
+    "id": 11296,
+    "uuid": "4b59261e-fbb2-4e05-acec-6746770cbba8",
+    "hitokoto": "一个高贵的人格，能给身边的人以巨大的影响！",
+    "type": "d",
+    "from": "紫川",
+    "from_who": "老猪",
+    "creator": "Snow-In-Twilight",
+    "creator_uid": 20693,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1779007786",
+    "length": 21
+  },
+  {
+    "id": 11297,
+    "uuid": "6a69c8a7-78c6-4d7b-84d0-a418eb4a36bb",
+    "hitokoto": "此时此刻，他感到的并不是征服者的昂扬快意，反倒眼睛一酸有种想落泪的感觉。",
+    "type": "d",
+    "from": "紫川",
+    "from_who": "老猪",
+    "creator": "Snow-In-Twilight",
+    "creator_uid": 20693,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1779007803",
+    "length": 36
+  },
+  {
+    "id": 11298,
+    "uuid": "3b4dc80f-8f95-4a0a-be2d-bb8b043b3b2e",
+    "hitokoto": "「不。」云浅雪说：「正是对生命的热爱，使得他们如此强大。」他想，这是一个永不能征服的民族。",
+    "type": "d",
+    "from": "紫川",
+    "from_who": "老猪",
+    "creator": "Snow-In-Twilight",
+    "creator_uid": 20693,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1779007869",
+    "length": 45
+  },
+  {
+    "id": 11299,
+    "uuid": "c9f7969a-7456-49f2-a13e-88f2dc61e3a9",
+    "hitokoto": "征尘与热泪，原来无论哪个种族都一样的啊！并非只有人类才懂得悲伤与欢笑。",
+    "type": "d",
+    "from": "紫川",
+    "from_who": "老猪",
+    "creator": "Snow-In-Twilight",
+    "creator_uid": 20693,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1779007990",
+    "length": 35
   }
 ]
