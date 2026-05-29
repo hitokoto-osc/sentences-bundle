@@ -14166,5 +14166,47 @@
     "commit_from": "web",
     "created_at": "1780081905",
     "length": 20
+  },
+  {
+    "id": 11344,
+    "uuid": "aea2d6d0-1e13-48d2-a10e-2033bdc05c34",
+    "hitokoto": "火可熄而不可夺其热，士可伤却不可损其志。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "李信",
+    "creator": "食铁牲",
+    "creator_uid": 20744,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1780082848",
+    "length": 20
+  },
+  {
+    "id": 11345,
+    "uuid": "c305b23f-9600-4147-b42f-4e12c737645d",
+    "hitokoto": "听天，不会由命！",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "李信",
+    "creator": "食铁牲",
+    "creator_uid": 20744,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1780082876",
+    "length": 8
+  },
+  {
+    "id": 11346,
+    "uuid": "18c40270-b03c-4f81-bda8-5b140985cf80",
+    "hitokoto": "还未行至绝路，便要言弃吗？",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "李信",
+    "creator": "食铁牲",
+    "creator_uid": 20744,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1780082979",
+    "length": 13
   }
 ]
