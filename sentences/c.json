@@ -14096,5 +14096,61 @@
     "commit_from": "web",
     "created_at": "1780080934",
     "length": 22
+  },
+  {
+    "id": 11338,
+    "uuid": "c635953b-383a-463e-a201-fe757d813ccd",
+    "hitokoto": "当月光照进海底，我们约好再次相遇。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "马可波罗",
+    "creator": "食铁牲",
+    "creator_uid": 20744,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1780081350",
+    "length": 17
+  },
+  {
+    "id": 11339,
+    "uuid": "a37bee34-01d4-4735-8110-6b2db54b1b29",
+    "hitokoto": "重要的不是你去哪里，而是你将要去哪里。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "马可波罗",
+    "creator": "食铁牲",
+    "creator_uid": 20744,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1780081366",
+    "length": 19
+  },
+  {
+    "id": 11340,
+    "uuid": "bb305d0e-f971-4a02-9181-b8466d53070e",
+    "hitokoto": "够危险，才够迷人。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "马可波罗",
+    "creator": "食铁牲",
+    "creator_uid": 20744,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1780081386",
+    "length": 9
+  },
+  {
+    "id": 11341,
+    "uuid": "8c9366a9-59fb-47fb-844b-a82a0c9d2a7b",
+    "hitokoto": "某些时候，耐心和持久更胜于激烈与狂热。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "马可波罗",
+    "creator": "食铁牲",
+    "creator_uid": 20744,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1780081403",
+    "length": 19
   }
 ]
