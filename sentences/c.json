@@ -14152,5 +14152,19 @@
     "commit_from": "web",
     "created_at": "1780081403",
     "length": 19
+  },
+  {
+    "id": 11342,
+    "uuid": "fe84e2d7-2861-41b9-bbf6-3c1dfcae04e3",
+    "hitokoto": "重要的不是你来自哪里，而是你将去往哪里。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "马可波罗",
+    "creator": "食铁牲",
+    "creator_uid": 20744,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1780081905",
+    "length": 20
   }
 ]
