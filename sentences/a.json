@@ -20326,5 +20326,47 @@
     "commit_from": "web",
     "created_at": "1780242592",
     "length": 20
+  },
+  {
+    "id": 11358,
+    "uuid": "aa228641-39a3-45ca-a4f2-d903086c28ef",
+    "hitokoto": "以后要好好依赖大家哦，因为我们是乐队嘛。",
+    "type": "a",
+    "from": "孤独摇滚！",
+    "from_who": null,
+    "creator": "qft",
+    "creator_uid": 20753,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1780242730",
+    "length": 20
+  },
+  {
+    "id": 11359,
+    "uuid": "674b54e3-ac20-4149-8bd6-29f91dcc3486",
+    "hitokoto": "舍弃个性，就等于死亡。",
+    "type": "a",
+    "from": "孤独摇滚！",
+    "from_who": "はまじあき",
+    "creator": "qft",
+    "creator_uid": 20753,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1780242745",
+    "length": 11
+  },
+  {
+    "id": 11360,
+    "uuid": "eeb764bb-5eff-4140-9a19-30fc3f2b016a",
+    "hitokoto": "我喜欢你了十年，却用了整个四月，编织了一个我不爱你的谎言。",
+    "type": "a",
+    "from": "四月是你的谎言",
+    "from_who": null,
+    "creator": "qft",
+    "creator_uid": 20753,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1780242823",
+    "length": 29
   }
 ]
