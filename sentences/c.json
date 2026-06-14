@@ -14348,5 +14348,33 @@
     "commit_from": "web",
     "created_at": "1781430129",
     "length": 20
+  },
+  {
+    "id": 11390,
+    "uuid": "269bbe11-37ff-48e0-a7ee-49ca8894fb6a",
+    "hitokoto": "凝霜灿雪偃月刀，鲜衣怒马少年郎。",
+    "type": "c",
+    "from": "三国杀",
+    "from_who": "大帅",
+    "creator": "THY",
+    "creator_uid": 20787,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1781430363",
+    "length": 16
+  },
+  {
+    "id": 11392,
+    "uuid": "0db09be0-8f40-41c6-8446-b539f97ea537",
+    "hitokoto": "列腾八荒，领你不朽。",
+    "type": "c",
+    "from": "崩坏：星穹铁道",
+    "from_who": "丹恒·腾荒",
+    "creator": "THY",
+    "creator_uid": 20787,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1781430513",
+    "length": 10
   }
 ]
