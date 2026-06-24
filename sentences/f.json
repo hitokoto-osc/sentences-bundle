@@ -14236,5 +14236,33 @@
     "commit_from": "web",
     "created_at": "1782046871",
     "length": 14
+  },
+  {
+    "id": 11552,
+    "uuid": "36688dfe-3e8d-4d43-90ce-38ac0eb3cc4d",
+    "hitokoto": "编译驱动这事，说真的，不该让普通用户干。",
+    "type": "f",
+    "from": "openKylin联网那些“坑”，我们都填了",
+    "from_who": "openKylin",
+    "creator": "vylf",
+    "creator_uid": 16216,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1782306849",
+    "length": 20
+  },
+  {
+    "id": 11553,
+    "uuid": "f9709ca0-c3f2-4e80-bb50-8df25cf81639",
+    "hitokoto": "有时候，\"体验好\"不是加了什么功能，而是少了一个让人抓狂的瞬间。",
+    "type": "f",
+    "from": "openKylin联网那些“坑”，我们都填了",
+    "from_who": "openKylin",
+    "creator": "vylf",
+    "creator_uid": 16216,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1782306884",
+    "length": 32
   }
 ]
