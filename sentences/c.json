@@ -14740,5 +14740,33 @@
     "commit_from": "web",
     "created_at": "1782540875",
     "length": 15
+  },
+  {
+    "id": 11570,
+    "uuid": "96661f10-322b-42b3-b482-c01ecceffae9",
+    "hitokoto": "等待雪埋葬这一切……",
+    "type": "c",
+    "from": "明日方舟",
+    "from_who": "凛御银灰",
+    "creator": "沉默的若叶睦",
+    "creator_uid": 20828,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1782541002",
+    "length": 10
+  },
+  {
+    "id": 11571,
+    "uuid": "02109b3e-373f-4db9-b708-17c656d5d4bf",
+    "hitokoto": "令人惊讶的成果，我本以为对于你带来的胜利我早已习以为常。",
+    "type": "c",
+    "from": "明日方舟",
+    "from_who": "凛御银灰",
+    "creator": "沉默的若叶睦",
+    "creator_uid": 20828,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1782541039",
+    "length": 28
   }
 ]
