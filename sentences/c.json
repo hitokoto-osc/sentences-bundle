@@ -15314,5 +15314,47 @@
     "commit_from": "web",
     "created_at": "1782542944",
     "length": 27
+  },
+  {
+    "id": 11615,
+    "uuid": "0f4599b4-86bf-4f76-880a-8066ad3196c9",
+    "hitokoto": "冰雪不曾怀有怜悯。",
+    "type": "c",
+    "from": "明日方舟",
+    "from_who": "圣聆初雪",
+    "creator": "沉默的若叶睦",
+    "creator_uid": 20828,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1782543102",
+    "length": 9
+  },
+  {
+    "id": 11616,
+    "uuid": "6cc604cd-d44e-4a19-ab4b-a862003c0c75",
+    "hitokoto": "圣山所见证的胜利。披挂风雪的战士啊，我们即将踏上归途。",
+    "type": "c",
+    "from": "明日方舟",
+    "from_who": null,
+    "creator": "沉默的若叶睦",
+    "creator_uid": 20828,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1782543117",
+    "length": 27
+  },
+  {
+    "id": 11617,
+    "uuid": "e13a0b6b-1d9e-4328-a12c-f57d0afbc8d7",
+    "hitokoto": "来，摸摸头，摸摸头......赐福？不，不是圣女的赐福，是初雪的赐福才对——某种意义上来说，这个才更稀有呢。",
+    "type": "c",
+    "from": "明日方舟",
+    "from_who": "圣聆初雪",
+    "creator": "沉默的若叶睦",
+    "creator_uid": 20828,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1782543152",
+    "length": 54
   }
 ]
