@@ -11016,5 +11016,33 @@
     "commit_from": "web",
     "created_at": "1782275860",
     "length": 21
+  },
+  {
+    "id": 11591,
+    "uuid": "c3b08184-fe2b-4e66-ae9e-3f94190af15d",
+    "hitokoto": "做科研要有底线，数据不造假，论文不挂名，对后辈不压榨。",
+    "type": "g",
+    "from": "中山大学毕业典礼上高天明院士致辞",
+    "from_who": "高天明",
+    "creator": "vylf",
+    "creator_uid": 16216,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1782542022",
+    "length": 27
+  },
+  {
+    "id": 11592,
+    "uuid": "68782358-520e-4401-bf72-36be82fc12e6",
+    "hitokoto": "善良无非就是三件事：凭良心做事、与人为善、常怀感恩之心。",
+    "type": "g",
+    "from": "中山大学毕业典礼上高天明院士致辞",
+    "from_who": "高天明",
+    "creator": "vylf",
+    "creator_uid": 16216,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1782542056",
+    "length": 28
   }
 ]
