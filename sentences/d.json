@@ -26822,5 +26822,19 @@
     "commit_from": "web",
     "created_at": "1783661875",
     "length": 18
+  },
+  {
+    "id": 11713,
+    "uuid": "c2f6d7b3-bd96-416e-bc19-ca47c972643c",
+    "hitokoto": "人不可貌相，海水不可斗量。",
+    "type": "d",
+    "from": "西游记第十二回",
+    "from_who": "吴承恩",
+    "creator": "HuPan.winp",
+    "creator_uid": 20894,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1784024899",
+    "length": 13
   }
 ]
