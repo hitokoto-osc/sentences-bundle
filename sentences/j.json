@@ -1846,5 +1846,33 @@
     "commit_from": "web",
     "created_at": "1784262334",
     "length": 21
+  },
+  {
+    "id": 11730,
+    "uuid": "0fcd008e-9871-4e11-b063-486de02c183c",
+    "hitokoto": "I just wanna rewind...",
+    "type": "j",
+    "from": "网易云Rewind评论区",
+    "from_who": "ReyseMeUp",
+    "creator": "Peter",
+    "creator_uid": 20900,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1784262636",
+    "length": 22
+  },
+  {
+    "id": 11731,
+    "uuid": "790f2302-7ea6-4afc-8a91-a75b77c2ed7b",
+    "hitokoto": "别同情尾气的耳朵了，因为同情心是把刀。",
+    "type": "j",
+    "from": "Sympathy is a knife",
+    "from_who": "未知",
+    "creator": "Peter",
+    "creator_uid": 20900,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1784262859",
+    "length": 19
   }
 ]
