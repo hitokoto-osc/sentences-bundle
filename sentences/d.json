@@ -26850,5 +26850,47 @@
     "commit_from": "web",
     "created_at": "1784261981",
     "length": 38
+  },
+  {
+    "id": 11733,
+    "uuid": "417a784c-6c9d-456a-9093-8ef841edb2b5",
+    "hitokoto": "最纯粹的爱情总在青春年少时，你一无所知却满怀期待，不顾一切地爱上一个人。",
+    "type": "d",
+    "from": "龙族",
+    "from_who": "江南",
+    "creator": "WYW_link",
+    "creator_uid": 20905,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1784358865",
+    "length": 36
+  },
+  {
+    "id": 11734,
+    "uuid": "1a28681c-0150-43ba-80c9-1b081c77e685",
+    "hitokoto": "世界上最悲催的事，是你暗恋的女孩正和别人在一起，而你却在同一片月光下独自神伤。",
+    "type": "d",
+    "from": "龙族",
+    "from_who": "江南",
+    "creator": "WYW_link",
+    "creator_uid": 20905,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1784358885",
+    "length": 39
+  },
+  {
+    "id": 11735,
+    "uuid": "e9729b02-90df-4f2b-85ad-84af2f3bc707",
+    "hitokoto": "人的两只眼睛是平行的，却能不平等地看人；人的两只耳朵是分开的，却总喜欢听一面之词；人只有一张嘴巴，却喜欢说两面话。",
+    "type": "d",
+    "from": "蛊真人",
+    "from_who": "蛊真人",
+    "creator": "WYW_link",
+    "creator_uid": 20905,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1784358920",
+    "length": 57
   }
 ]
