@@ -13312,5 +13312,33 @@
     "commit_from": "web",
     "created_at": "1786091931",
     "length": 14
+  },
+  {
+    "id": 11992,
+    "uuid": "0b7f7c2f-0553-4360-a04b-902556b717d6",
+    "hitokoto": "あなたの言葉を胸に抱いて",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786093922",
+    "length": 12
+  },
+  {
+    "id": 11993,
+    "uuid": "c608d73b-ef7f-4474-afd6-065643cd2f0c",
+    "hitokoto": "还保留着每一张合照，这么多年哪舍得删掉。",
+    "type": "g",
+    "from": "我很好",
+    "from_who": "刘大壮",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786093969",
+    "length": 20
   }
 ]
