@@ -11914,48 +11914,6 @@
     "length": 17
   },
   {
-    "id": 11842,
-    "uuid": "44781359-4666-4a3a-9ecb-61073b111fe8",
-    "hitokoto": "ถ้าไม่คิด อย่าทำให้คิด ถ้าไม่รัก อย่าทำเหมือนรักกัน",
-    "type": "g",
-    "from": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
-    "from_who": "Nigel Tay",
-    "creator": "小孟科技",
-    "creator_uid": 20798,
-    "reviewer": 20537,
-    "commit_from": "web",
-    "created_at": "1786088188",
-    "length": 51
-  },
-  {
-    "id": 11843,
-    "uuid": "95366d40-8bc5-4439-9890-0b1799856d9f",
-    "hitokoto": "อย่าให้ความหวัง ถ้าไม่มีสักครั้งที่ในใจ",
-    "type": "g",
-    "from": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
-    "from_who": "Nigel Tay",
-    "creator": "小孟科技",
-    "creator_uid": 20798,
-    "reviewer": 20537,
-    "commit_from": "web",
-    "created_at": "1786088191",
-    "length": 39
-  },
-  {
-    "id": 11844,
-    "uuid": "a173b283-efd7-41d0-8742-aaba209091af",
-    "hitokoto": "คำที่เธอพูดไป ทำให้ฉันคิดไกล ถ้าข้างในใจเธอ ไม่มีฉันเลย",
-    "type": "g",
-    "from": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
-    "from_who": "Nigel Tay",
-    "creator": "小孟科技",
-    "creator_uid": 20798,
-    "reviewer": 20537,
-    "commit_from": "web",
-    "created_at": "1786088201",
-    "length": 55
-  },
-  {
     "id": 11846,
     "uuid": "90e68da3-1f4b-4ba5-aeb6-895060e673a6",
     "hitokoto": "当我们的枝干触碰在一起，我不确定那是纠葛还是一种蜿蜒的爱意",
@@ -12754,34 +12712,6 @@
     "length": 21
   },
   {
-    "id": 11933,
-    "uuid": "1458de26-bf14-4423-bc3c-6aa723248a6d",
-    "hitokoto": "คำที่เธอพูดไป ทำให้ฉันแอบคิดไปไกล อย่าให้ความหวัง ถ้าไม่มีสักครั้งที่ในใจ",
-    "type": "g",
-    "from": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
-    "from_who": "Nigel Tay",
-    "creator": "小孟科技",
-    "creator_uid": 20798,
-    "reviewer": 20537,
-    "commit_from": "web",
-    "created_at": "1786090901",
-    "length": 73
-  },
-  {
-    "id": 11934,
-    "uuid": "de645e92-e145-4157-817f-1a557ddc2e51",
-    "hitokoto": "คำที่เธอพูดไป เธอก็รู้ทำให้ฉันคิดไกล ในความสัมพันธ์ ที่มีแค่ฉัน ถ้าสุดท้าย เธอจะจากไป",
-    "type": "g",
-    "from": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
-    "from_who": "Nigel Tay",
-    "creator": "小孟科技",
-    "creator_uid": 20798,
-    "reviewer": 20537,
-    "commit_from": "web",
-    "created_at": "1786090907",
-    "length": 85
-  },
-  {
     "id": 11940,
     "uuid": "f21b8ca6-dc0d-422d-85c1-4866d46fa66f",
     "hitokoto": "友达以上，恋人未满。",
@@ -12990,20 +12920,6 @@
     "commit_from": "web",
     "created_at": "1786091576",
     "length": 26
-  },
-  {
-    "id": 11958,
-    "uuid": "b9d00e88-69d0-47cf-8f67-a973e6bea39e",
-    "hitokoto": "Every night I trace your name into the sky.",
-    "type": "g",
-    "from": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
-    "from_who": "Nigel Tay",
-    "creator": "小孟科技",
-    "creator_uid": 20798,
-    "reviewer": 20537,
-    "commit_from": "web",
-    "created_at": "1786091617",
-    "length": 43
   },
   {
     "id": 11962,
