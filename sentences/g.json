@@ -13006,34 +13006,6 @@
     "length": 26
   },
   {
-    "id": 11956,
-    "uuid": "b1061e3a-72f6-42d7-b167-dd9ac7c27a89",
-    "hitokoto": "เหมือนเดินวน อยู่ในวังวนที่รักเธอ",
-    "type": "g",
-    "from": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
-    "from_who": "Nigel Tay",
-    "creator": "小孟科技",
-    "creator_uid": 20798,
-    "reviewer": 20537,
-    "commit_from": "web",
-    "created_at": "1786091610",
-    "length": 33
-  },
-  {
-    "id": 11957,
-    "uuid": "974f4c22-3beb-4d5e-9a67-68caa7acf802",
-    "hitokoto": "ยิ่งห้ามใจ ยิ่งเดินกลับไปเจอ",
-    "type": "g",
-    "from": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
-    "from_who": "Nigel Tay",
-    "creator": "小孟科技",
-    "creator_uid": 20798,
-    "reviewer": 20537,
-    "commit_from": "web",
-    "created_at": "1786091614",
-    "length": 28
-  },
-  {
     "id": 11958,
     "uuid": "b9d00e88-69d0-47cf-8f67-a973e6bea39e",
     "hitokoto": "Every night I trace your name into the sky.",
