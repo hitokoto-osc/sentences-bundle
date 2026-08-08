@@ -15902,5 +15902,19 @@
     "commit_from": "web",
     "created_at": "1786199592",
     "length": 27
+  },
+  {
+    "id": 12330,
+    "uuid": "6a513413-b3ef-4c1e-b64e-4f55ad5d93c4",
+    "hitokoto": "从不避免双重否定！",
+    "type": "c",
+    "from": "Minecraft闪烁标语",
+    "from_who": "Mojang",
+    "creator": "retaWtaC",
+    "creator_uid": 20973,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786201547",
+    "length": 9
   }
 ]
