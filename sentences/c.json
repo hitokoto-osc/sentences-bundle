@@ -14112,20 +14112,6 @@
     "length": 17
   },
   {
-    "id": 11339,
-    "uuid": "a37bee34-01d4-4735-8110-6b2db54b1b29",
-    "hitokoto": "重要的不是你去哪里，而是你将要去哪里。",
-    "type": "c",
-    "from": "王者荣耀",
-    "from_who": "马可波罗",
-    "creator": "食铁牲",
-    "creator_uid": 20744,
-    "reviewer": 20537,
-    "commit_from": "web",
-    "created_at": "1780081366",
-    "length": 19
-  },
-  {
     "id": 11340,
     "uuid": "bb305d0e-f971-4a02-9181-b8466d53070e",
     "hitokoto": "够危险，才够迷人。",
@@ -14268,7 +14254,7 @@
   {
     "id": 11368,
     "uuid": "8c8a695f-fae4-4c5e-b7b8-19a6e19e795d",
-    "hitokoto": "宁如飞萤赴火，不作樛木长春。",
+    "hitokoto": "宁如飞萤赴火，不作樗木长春。",
     "type": "c",
     "from": "崩坏：星穹铁道",
     "from_who": "应星",
