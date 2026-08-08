@@ -13606,5 +13606,61 @@
     "commit_from": "web",
     "created_at": "1786168054",
     "length": 14
+  },
+  {
+    "id": 12039,
+    "uuid": "8d978a64-fb11-4392-9ae0-ec1a61ce64d8",
+    "hitokoto": "五感働いて、君を救う。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786168691",
+    "length": 11
+  },
+  {
+    "id": 12040,
+    "uuid": "982e13b3-fc49-46c4-b0fd-6f9435ec394f",
+    "hitokoto": "僕も救う。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786168701",
+    "length": 5
+  },
+  {
+    "id": 12041,
+    "uuid": "39b987ef-c619-4e2c-971e-ee07e2238aff",
+    "hitokoto": "I love youの先へ、僕はもう独りじゃないね。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786168717",
+    "length": 26
+  },
+  {
+    "id": 12042,
+    "uuid": "19c43fe9-f7ea-4cb8-97b8-775754076daf",
+    "hitokoto": "もう胸の傷が痛む頃。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786168736",
+    "length": 10
   }
 ]
