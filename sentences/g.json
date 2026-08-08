@@ -14530,5 +14530,33 @@
     "commit_from": "api",
     "created_at": "1786172061",
     "length": 22
+  },
+  {
+    "id": 12139,
+    "uuid": "8ab82767-2a2c-4acf-9902-e3f7bf17657b",
+    "hitokoto": "Turn up.",
+    "type": "g",
+    "from": "TURN UP",
+    "from_who": "周梦忆",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1786172094",
+    "length": 8
+  },
+  {
+    "id": 12140,
+    "uuid": "de4f5c69-934b-47e6-9f22-7c874ddbfe5b",
+    "hitokoto": "就现在 (Hey turn up turn up tonight)。",
+    "type": "g",
+    "from": "TURN UP",
+    "from_who": "周梦忆",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1786172160",
+    "length": 34
   }
 ]
