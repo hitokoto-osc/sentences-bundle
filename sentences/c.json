@@ -16056,5 +16056,47 @@
     "commit_from": "web",
     "created_at": "1786852509",
     "length": 16
+  },
+  {
+    "id": 12353,
+    "uuid": "3b0e50a2-8212-4602-8106-fd006290db09",
+    "hitokoto": "卡丘世界的秩序，由我来维护！",
+    "type": "c",
+    "from": "卡拉彼丘",
+    "from_who": "米雪儿",
+    "creator": "kami",
+    "creator_uid": 21014,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786870707",
+    "length": 14
+  },
+  {
+    "id": 12354,
+    "uuid": "7e1f6544-0502-4f8a-aac0-dae3a69a3b45",
+    "hitokoto": "我将揭开卡丘世界的虚伪面纱。",
+    "type": "c",
+    "from": "卡拉彼丘",
+    "from_who": "拉薇",
+    "creator": "kami",
+    "creator_uid": 21014,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786870750",
+    "length": 14
+  },
+  {
+    "id": 12355,
+    "uuid": "4124ef5d-5118-4ee7-90c8-2bb6399fafbf",
+    "hitokoto": "今日即便赴死，我也毫无遗憾！",
+    "type": "c",
+    "from": "卡拉彼丘",
+    "from_who": "明",
+    "creator": "kami",
+    "creator_uid": 21014,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1786870797",
+    "length": 14
   }
 ]
