@@ -10540,47 +10540,5 @@
     "commit_from": "web",
     "created_at": "1787381715",
     "length": 16
-  },
-  {
-    "id": 12393,
-    "uuid": "01f2b144-c5f9-4937-b9c9-6e974a0a5bc9",
-    "hitokoto": "行到水穷处，坐看云起时。",
-    "type": "i",
-    "from": "终南别业",
-    "from_who": "王维（唐）",
-    "creator": "NiceDevin",
-    "creator_uid": 21034,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1787551310",
-    "length": 12
-  },
-  {
-    "id": 12394,
-    "uuid": "da0ba13a-bac1-4b53-8eac-05090ce83c71",
-    "hitokoto": "凡是过去，皆为序章。",
-    "type": "i",
-    "from": "暴风雨",
-    "from_who": "莎士比亚",
-    "creator": "NiceDevin",
-    "creator_uid": 21034,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1787551348",
-    "length": 10
-  },
-  {
-    "id": 12395,
-    "uuid": "d49f89aa-b920-43e3-bb64-3c2f5aecf7c4",
-    "hitokoto": "家人闲坐，灯火可亲。",
-    "type": "i",
-    "from": "冬天",
-    "from_who": "汪曾祺",
-    "creator": "NiceDevin",
-    "creator_uid": 21034,
-    "reviewer": 4756,
-    "commit_from": "web",
-    "created_at": "1787551378",
-    "length": 10
   }
 ]
