@@ -22496,5 +22496,47 @@
     "commit_from": "api",
     "created_at": "1788025607",
     "length": 10
+  },
+  {
+    "id": 13020,
+    "uuid": "7a714ec6-2d9b-469b-bdc4-b6246b0e6dfe",
+    "hitokoto": "Every old love song sounds like us.",
+    "type": "g",
+    "from": "HEAVENLY JUMPSTYLE",
+    "from_who": "John Kell",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788025718",
+    "length": 35
+  },
+  {
+    "id": 13021,
+    "uuid": "3648522b-4f8a-4472-8840-8ec4892c76f6",
+    "hitokoto": "Checked my phone, nothing from you.",
+    "type": "g",
+    "from": "HEAVENLY JUMPSTYLE",
+    "from_who": "John Kell",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788025721",
+    "length": 35
+  },
+  {
+    "id": 13022,
+    "uuid": "6b4494f6-3b18-4da3-821f-3b6fd0365513",
+    "hitokoto": "Every \"we'll talk\" turned into air。",
+    "type": "g",
+    "from": "HEAVENLY JUMPSTYLE",
+    "from_who": "John Kell",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788025743",
+    "length": 35
   }
 ]
