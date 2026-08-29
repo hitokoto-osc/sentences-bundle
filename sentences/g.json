@@ -21880,5 +21880,33 @@
     "commit_from": "api",
     "created_at": "1788019814",
     "length": 36
+  },
+  {
+    "id": 12953,
+    "uuid": "733b4bba-b7f0-4b41-acf2-a18e48c892fd",
+    "hitokoto": "Hoy va a bailar sin precedentes.",
+    "type": "g",
+    "from": "Bum Bum Tam Tam",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788019920",
+    "length": 32
+  },
+  {
+    "id": 12954,
+    "uuid": "2920b492-6e18-4168-ba04-2938c5194dde",
+    "hitokoto": "Pa' arriba, pa' abajo.",
+    "type": "g",
+    "from": "Bum Bum Tam Tam",
+    "from_who": "MC Fioti",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788019948",
+    "length": 22
   }
 ]
