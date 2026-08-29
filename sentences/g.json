@@ -17218,5 +17218,33 @@
     "commit_from": "web",
     "created_at": "1788012075",
     "length": 16
+  },
+  {
+    "id": 12470,
+    "uuid": "5320e407-e165-437a-b5a3-7b9172535dc2",
+    "hitokoto": "脑袋空白在此刻我写了这首歌。",
+    "type": "g",
+    "from": "别错过",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788012350",
+    "length": 14
+  },
+  {
+    "id": 12471,
+    "uuid": "2054ac38-8bad-4305-ac09-8379aad17a93",
+    "hitokoto": "心里的每句话。",
+    "type": "g",
+    "from": "命运在手心（feat.初音ミク\u0026洛天依）",
+    "from_who": "Randy Bennett",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788012410",
+    "length": 7
   }
 ]
