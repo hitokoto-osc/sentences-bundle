@@ -16728,5 +16728,19 @@
     "commit_from": "api",
     "created_at": "1787841696",
     "length": 6
+  },
+  {
+    "id": 12425,
+    "uuid": "ceb80bc1-b707-47b0-b1c8-b6e5f036c48d",
+    "hitokoto": "令我痴，令我癫。",
+    "type": "g",
+    "from": "2 Phút Hơn (KAIZ Remix)",
+    "from_who": "Pháo",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1788008569",
+    "length": 8
   }
 ]
