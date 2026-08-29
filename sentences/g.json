@@ -17442,5 +17442,19 @@
     "commit_from": "api",
     "created_at": "1788012933",
     "length": 20
+  },
+  {
+    "id": 12505,
+    "uuid": "d5bc7493-72a3-4897-9f16-81c89ec6e4f7",
+    "hitokoto": "君を救う。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788013133",
+    "length": 5
   }
 ]
