@@ -22552,5 +22552,47 @@
     "commit_from": "api",
     "created_at": "1788025757",
     "length": 38
+  },
+  {
+    "id": 13025,
+    "uuid": "9a4e7a52-3146-4839-9f2a-282c6b43e017",
+    "hitokoto": "Yeah, I'm a savage, some of 'em 21, some of 'em cougars.",
+    "type": "g",
+    "from": "Bum Bum Tam Tam",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788026004",
+    "length": 56
+  },
+  {
+    "id": 13026,
+    "uuid": "bedeaf4d-a176-4e34-b702-7adb341c3481",
+    "hitokoto": "Yeah, if you got good bum bum, let me hear you say Hallelujah.",
+    "type": "g",
+    "from": "Bum Bum Tam Tam",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788026015",
+    "length": 62
+  },
+  {
+    "id": 13027,
+    "uuid": "dee754c0-7a22-4722-95ea-4d790141d5f0",
+    "hitokoto": "僕も救う。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788026453",
+    "length": 5
   }
 ]
