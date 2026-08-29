@@ -22020,5 +22020,19 @@
     "commit_from": "api",
     "created_at": "1788020702",
     "length": 6
+  },
+  {
+    "id": 12963,
+    "uuid": "86a18818-52fc-4054-a557-22caf48ccc8f",
+    "hitokoto": "只剩下落寞。",
+    "type": "g",
+    "from": "你有没有真的爱过我",
+    "from_who": "廖伟志",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788020731",
+    "length": 6
   }
 ]
