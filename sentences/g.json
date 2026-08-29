@@ -21740,5 +21740,33 @@
     "commit_from": "api",
     "created_at": "1788018430",
     "length": 8
+  },
+  {
+    "id": 12935,
+    "uuid": "8648c662-93ac-4da5-8d91-e70a6cc2450b",
+    "hitokoto": "Left with the light on, hoping you'd call.",
+    "type": "g",
+    "from": "HEAVENLY JUMPSTYLE",
+    "from_who": "John Kell",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788018587",
+    "length": 42
+  },
+  {
+    "id": 12937,
+    "uuid": "95066920-a406-498a-8a9f-fc69baf00b70",
+    "hitokoto": "Checked my phone, nothing from you.",
+    "type": "g",
+    "from": "HEAVENLY JUMPSTYLE",
+    "from_who": "John Kell",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788018608",
+    "length": 35
   }
 ]
