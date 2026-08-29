@@ -18814,5 +18814,61 @@
     "commit_from": "api",
     "created_at": "1788014516",
     "length": 34
+  },
+  {
+    "id": 12621,
+    "uuid": "658847be-543e-46c8-9d88-dc6196bb19b4",
+    "hitokoto": "Every word you said.",
+    "type": "g",
+    "from": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
+    "from_who": "Nigel Tay",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788014561",
+    "length": 20
+  },
+  {
+    "id": 12622,
+    "uuid": "16d3a5d8-ba3a-4fdb-9598-b2a7e9daa744",
+    "hitokoto": "It keeps replaying in my head.",
+    "type": "g",
+    "from": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
+    "from_who": "Nigel Tay",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788014564",
+    "length": 30
+  },
+  {
+    "id": 12623,
+    "uuid": "5c8454bc-ecc2-4c64-9779-5ec99b8d1daf",
+    "hitokoto": "My heart's calling out your name.",
+    "type": "g",
+    "from": "If You Don't Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
+    "from_who": "Nigel Tay",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788014568",
+    "length": 33
+  },
+  {
+    "id": 12624,
+    "uuid": "1eeca28f-ce6f-4ada-adfe-4fc5b65b0016",
+    "hitokoto": "And I keep losing to this game.",
+    "type": "g",
+    "from": "If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)",
+    "from_who": "Nigel Tay",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788014571",
+    "length": 31
   }
 ]
