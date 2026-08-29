@@ -18856,5 +18856,47 @@
     "commit_from": "api",
     "created_at": "1788016935",
     "length": 6
+  },
+  {
+    "id": 12771,
+    "uuid": "0375ba48-d490-4767-b5a9-dc8ed2c4e29c",
+    "hitokoto": "寒蝉是盛夏死骸。",
+    "type": "f",
+    "from": "精卫(史诗版)",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788016960",
+    "length": 8
+  },
+  {
+    "id": 12772,
+    "uuid": "c377e48a-342f-43b0-b586-7b9c058521ec",
+    "hitokoto": "我只是想要被平等对待。",
+    "type": "f",
+    "from": "精卫(史诗版)",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788017010",
+    "length": 11
+  },
+  {
+    "id": 12773,
+    "uuid": "faab9e25-bb33-4d38-b324-756044330b15",
+    "hitokoto": "难道我注定困在尘埃。",
+    "type": "f",
+    "from": "精卫(史诗版)",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788017017",
+    "length": 10
   }
 ]
