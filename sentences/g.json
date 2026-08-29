@@ -22076,5 +22076,47 @@
     "commit_from": "api",
     "created_at": "1788020967",
     "length": 42
+  },
+  {
+    "id": 12969,
+    "uuid": "636842c6-f5b5-4f04-ae0e-f58115ecd03c",
+    "hitokoto": "結局僕らは、人と人。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788021658",
+    "length": 10
+  },
+  {
+    "id": 12970,
+    "uuid": "68604f2f-81be-4156-9352-50c475f7d3e0",
+    "hitokoto": "何を救う？",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788021701",
+    "length": 5
+  },
+  {
+    "id": 12971,
+    "uuid": "df317143-4baf-44ad-b324-9499d3c2c46c",
+    "hitokoto": "僕の正しさはここにある。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788021712",
+    "length": 12
   }
 ]
