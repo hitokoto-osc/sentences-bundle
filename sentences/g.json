@@ -16854,5 +16854,61 @@
     "commit_from": "web",
     "created_at": "1788008946",
     "length": 11
+  },
+  {
+    "id": 12434,
+    "uuid": "64f54710-f127-4568-ae35-719fe8c337a0",
+    "hitokoto": "結局僕らは、人と人。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788009665",
+    "length": 10
+  },
+  {
+    "id": 12435,
+    "uuid": "3af74334-9bcc-4388-9e1e-d93bfbf277e5",
+    "hitokoto": "独りじゃないね。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788009672",
+    "length": 8
+  },
+  {
+    "id": 12436,
+    "uuid": "a137c945-5f03-436e-8685-18d13ab2da68",
+    "hitokoto": "山风山风等等我。",
+    "type": "g",
+    "from": "山风山风等等我",
+    "from_who": "王健美",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788009688",
+    "length": 8
+  },
+  {
+    "id": 12438,
+    "uuid": "d9ad7105-80f3-4924-bc10-37e34bd3c989",
+    "hitokoto": "你有没有真的爱过我？",
+    "type": "g",
+    "from": "你有没有真的爱过我",
+    "from_who": "廖伟志",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788009736",
+    "length": 10
   }
 ]
