@@ -22188,5 +22188,61 @@
     "commit_from": "api",
     "created_at": "1788022409",
     "length": 60
+  },
+  {
+    "id": 12986,
+    "uuid": "6e116a11-5bab-463e-b4e9-0a8f63833f45",
+    "hitokoto": "五感働いて。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788022840",
+    "length": 6
+  },
+  {
+    "id": 12987,
+    "uuid": "bf12ec1b-e99d-429b-8896-4691c424bfcf",
+    "hitokoto": "君を救う。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788022844",
+    "length": 5
+  },
+  {
+    "id": 12988,
+    "uuid": "d6f5433a-e898-47c8-9ac3-442dac00ed67",
+    "hitokoto": "I love youの先へ。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788022862",
+    "length": 14
+  },
+  {
+    "id": 12989,
+    "uuid": "f941ecd6-49ed-4047-a5b5-435e79bd6f8d",
+    "hitokoto": "Up beatで。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788022873",
+    "length": 9
   }
 ]
