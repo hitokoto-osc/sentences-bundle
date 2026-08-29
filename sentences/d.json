@@ -27172,5 +27172,33 @@
     "commit_from": "api",
     "created_at": "1788015251",
     "length": 11
+  },
+  {
+    "id": 12764,
+    "uuid": "83084ed5-b346-4515-80b1-29401cc19da2",
+    "hitokoto": "我与你先论旧形骸。",
+    "type": "d",
+    "from": "精卫(史诗版)",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788016916",
+    "length": 9
+  },
+  {
+    "id": 12768,
+    "uuid": "66fd2a4e-440b-455b-a525-902a440d00df",
+    "hitokoto": "如我的哀。",
+    "type": "d",
+    "from": "精卫(史诗版)",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788016938",
+    "length": 5
   }
 ]
