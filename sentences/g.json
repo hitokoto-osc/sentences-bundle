@@ -17568,5 +17568,47 @@
     "commit_from": "api",
     "created_at": "1788013212",
     "length": 11
+  },
+  {
+    "id": 12514,
+    "uuid": "4948727e-bf04-4ef3-bed7-8f6da00f1a01",
+    "hitokoto": "やるせない何かと。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788013220",
+    "length": 9
+  },
+  {
+    "id": 12515,
+    "uuid": "cb781b11-e08d-4fbf-a9a0-71a9df3273c5",
+    "hitokoto": "雨に唄って。",
+    "type": "g",
+    "from": "雨に唄って",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788013238",
+    "length": 6
+  },
+  {
+    "id": 12516,
+    "uuid": "2724db05-f654-4516-bf76-5207e6e588a2",
+    "hitokoto": "山风山风等等我。",
+    "type": "g",
+    "from": "山风山风等等我",
+    "from_who": "王健美",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788013277",
+    "length": 8
   }
 ]
