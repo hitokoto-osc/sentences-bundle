@@ -21782,5 +21782,19 @@
     "commit_from": "api",
     "created_at": "1788018670",
     "length": 30
+  },
+  {
+    "id": 12940,
+    "uuid": "d521eedd-4953-4901-866c-baa4cd3d3f06",
+    "hitokoto": "Izquierda, derecha.",
+    "type": "g",
+    "from": "Bum Bum Tam Tam",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788018822",
+    "length": 19
   }
 ]
