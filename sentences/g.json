@@ -19290,5 +19290,33 @@
     "commit_from": "api",
     "created_at": "1788015435",
     "length": 14
+  },
+  {
+    "id": 12679,
+    "uuid": "f75baf8d-04c5-4cca-a04b-b8eeebcd72a4",
+    "hitokoto": "握紧。",
+    "type": "g",
+    "from": "命运在手心（feat.初音ミク\u0026洛天依）",
+    "from_who": "Randy Bennett",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788015512",
+    "length": 3
+  },
+  {
+    "id": 12680,
+    "uuid": "c2e4f89a-6101-4b60-9e54-327e2e8e06cf",
+    "hitokoto": "对你发出信号。",
+    "type": "g",
+    "from": "命运在手心（feat.初音ミク\u0026洛天依）",
+    "from_who": "Randy Bennett",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788015541",
+    "length": 7
   }
 ]
