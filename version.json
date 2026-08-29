@@ -1,7 +1,7 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.999",
-  "updated_at": 1788016536341,
+  "bundle_version": "1.0.1000",
+  "updated_at": 1788016845151,
   "categories": {
     "path": "./categories.json",
     "timestamp": 1597712000881
