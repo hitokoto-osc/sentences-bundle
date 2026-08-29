@@ -22118,5 +22118,19 @@
     "commit_from": "api",
     "created_at": "1788021712",
     "length": 12
+  },
+  {
+    "id": 12972,
+    "uuid": "8e6b1224-b233-4942-8bf4-1617ab4e7f40",
+    "hitokoto": "雨に唄って。",
+    "type": "g",
+    "from": "雨に唄って",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788021751",
+    "length": 6
   }
 ]
