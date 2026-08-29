@@ -21908,5 +21908,47 @@
     "commit_from": "api",
     "created_at": "1788019948",
     "length": 22
+  },
+  {
+    "id": 12955,
+    "uuid": "155f6a87-bd50-4904-a380-e9986cd93eb0",
+    "hitokoto": "Tam tam tam.",
+    "type": "g",
+    "from": "Bum Bum Tam Tam",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788020033",
+    "length": 12
+  },
+  {
+    "id": 12956,
+    "uuid": "673d6323-d7e1-43a9-b7cc-3843e6f0726c",
+    "hitokoto": "孤独を知って、愛を知る。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788020438",
+    "length": 12
+  },
+  {
+    "id": 12957,
+    "uuid": "263cbb9a-4ffe-45dc-a134-8b3938d2daca",
+    "hitokoto": "君を救う。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788020448",
+    "length": 5
   }
 ]
