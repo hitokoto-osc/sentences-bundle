@@ -27130,5 +27130,19 @@
     "commit_from": "api",
     "created_at": "1788012250",
     "length": 12
+  },
+  {
+    "id": 12650,
+    "uuid": "9360f576-0421-4fbd-9fc2-a2c1a72281ad",
+    "hitokoto": "他们离开后他坐在我的身边说。",
+    "type": "d",
+    "from": "倾斜的婚礼",
+    "from_who": "道雀Bzz",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788015118",
+    "length": 14
   }
 ]
