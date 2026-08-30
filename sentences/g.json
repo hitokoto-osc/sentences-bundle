@@ -22902,5 +22902,33 @@
     "commit_from": "api",
     "created_at": "1788029605",
     "length": 60
+  },
+  {
+    "id": 13063,
+    "uuid": "ea324cc3-6071-4e20-a6df-d7fa320e6aac",
+    "hitokoto": "君を救う。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788030057",
+    "length": 5
+  },
+  {
+    "id": 13064,
+    "uuid": "1894f26d-e667-4ef3-9ed2-b95779291b19",
+    "hitokoto": "I love youの先へ。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788030075",
+    "length": 14
   }
 ]
