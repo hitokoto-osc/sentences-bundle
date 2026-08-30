@@ -24274,5 +24274,19 @@
     "commit_from": "api",
     "created_at": "1788043975",
     "length": 25
+  },
+  {
+    "id": 13213,
+    "uuid": "d87266de-6172-4717-a06b-85fb42a0f933",
+    "hitokoto": "We makin' love the first night, bum bum pac pac bum。",
+    "type": "g",
+    "from": "Bum Bum Tam Tam",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788044168",
+    "length": 52
   }
 ]
