@@ -23504,5 +23504,33 @@
     "commit_from": "api",
     "created_at": "1788036055",
     "length": 5
+  },
+  {
+    "id": 13126,
+    "uuid": "502d99c3-b2e8-4df9-9b0c-05446a314383",
+    "hitokoto": "希望とシェイクハンドして。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788036165",
+    "length": 13
+  },
+  {
+    "id": 13127,
+    "uuid": "78362dbc-ace5-4b8d-a608-c6bf2d93ba46",
+    "hitokoto": "山风山风等等我。",
+    "type": "g",
+    "from": "山风山风等等我",
+    "from_who": "王健美",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788036190",
+    "length": 8
   }
 ]
