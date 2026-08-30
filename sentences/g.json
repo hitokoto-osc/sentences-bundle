@@ -23238,5 +23238,33 @@
     "commit_from": "api",
     "created_at": "1788033012",
     "length": 53
+  },
+  {
+    "id": 13097,
+    "uuid": "63a25fa5-9c67-41c2-90a6-0faee7b9cdf6",
+    "hitokoto": "Yeah, hey, big up my jeweler, big up my .45, big up my Ruger.",
+    "type": "g",
+    "from": "Bum Bum Tam Tam",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788033194",
+    "length": 61
+  },
+  {
+    "id": 13098,
+    "uuid": "5f7eb13b-1f5b-4d56-b38f-c85961f63dfd",
+    "hitokoto": "孤独を知って、愛を知る。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788033645",
+    "length": 12
   }
 ]
