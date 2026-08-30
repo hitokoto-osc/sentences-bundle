@@ -24288,5 +24288,33 @@
     "commit_from": "api",
     "created_at": "1788044168",
     "length": 52
+  },
+  {
+    "id": 13214,
+    "uuid": "22420e60-f3e3-48b6-b383-d3597a792b5e",
+    "hitokoto": "今日も戦ってる。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788044533",
+    "length": 8
+  },
+  {
+    "id": 13215,
+    "uuid": "a3c8c5fb-2686-4821-83ba-8e93ad94f2c9",
+    "hitokoto": "雨に唄って。",
+    "type": "g",
+    "from": "雨に唄って",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788044547",
+    "length": 6
   }
 ]
