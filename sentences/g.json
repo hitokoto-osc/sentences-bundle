@@ -25352,5 +25352,61 @@
     "commit_from": "api",
     "created_at": "1788054081",
     "length": 5
+  },
+  {
+    "id": 13322,
+    "uuid": "0f8f0556-26f2-41b8-8588-2dcfd34a7dcd",
+    "hitokoto": "僕は僕を。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788054170",
+    "length": 5
+  },
+  {
+    "id": 13323,
+    "uuid": "e4cf603e-029c-44de-8f3c-0758a4811af5",
+    "hitokoto": "雨に唄って。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788054177",
+    "length": 6
+  },
+  {
+    "id": 13324,
+    "uuid": "e5db6797-2be6-4b05-9125-00e8f4b18611",
+    "hitokoto": "スイングをして。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788054181",
+    "length": 8
+  },
+  {
+    "id": 13325,
+    "uuid": "c27de46f-377f-43a8-a3a0-e6b3285935f4",
+    "hitokoto": "真新しい自分。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788054199",
+    "length": 7
   }
 ]
