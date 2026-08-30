@@ -25016,5 +25016,47 @@
     "commit_from": "api",
     "created_at": "1788050460",
     "length": 12
+  },
+  {
+    "id": 13283,
+    "uuid": "f482cacc-12fe-4197-8151-5da395d92731",
+    "hitokoto": "人と人。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788050485",
+    "length": 4
+  },
+  {
+    "id": 13284,
+    "uuid": "b965fcd0-43d3-434d-ba4a-319bc11fb9ac",
+    "hitokoto": "胸に抱いて。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788050510",
+    "length": 6
+  },
+  {
+    "id": 13285,
+    "uuid": "ee69bc1e-e0a1-41f3-b12e-0e4fc7c185ac",
+    "hitokoto": "何を救う？",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788050524",
+    "length": 5
   }
 ]
