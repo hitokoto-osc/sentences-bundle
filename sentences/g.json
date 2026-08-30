@@ -23266,5 +23266,33 @@
     "commit_from": "api",
     "created_at": "1788033645",
     "length": 12
+  },
+  {
+    "id": 13099,
+    "uuid": "d99be1b8-ad19-4de2-b012-91b5303fa933",
+    "hitokoto": "息をして。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788033726",
+    "length": 5
+  },
+  {
+    "id": 13100,
+    "uuid": "44fd2ac2-e3d5-493d-8e50-b6f3c436fbda",
+    "hitokoto": "ただ更新して。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788033759",
+    "length": 7
   }
 ]
