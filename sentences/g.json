@@ -25492,5 +25492,47 @@
     "commit_from": "api",
     "created_at": "1788054623",
     "length": 52
+  },
+  {
+    "id": 13339,
+    "uuid": "05471e46-158a-472e-b770-df8edd8da6e3",
+    "hitokoto": "We makin' love the first night, bum bum pac pac bum.",
+    "type": "g",
+    "from": "Bum Bum Tam Tam",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788054836",
+    "length": 52
+  },
+  {
+    "id": 13340,
+    "uuid": "6c2885f6-f524-44c5-9bc7-9ee5d1d4d7dc",
+    "hitokoto": "Hey, big up the bad bih, call that chimmie like king of Zamunda。",
+    "type": "g",
+    "from": "Bum Bum Tam Tam",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788054843",
+    "length": 64
+  },
+  {
+    "id": 13341,
+    "uuid": "57632dd5-6087-46a8-8b53-53c29b18beef",
+    "hitokoto": "君を救う。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788055249",
+    "length": 5
   }
 ]
