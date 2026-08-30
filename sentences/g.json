@@ -23042,5 +23042,47 @@
     "commit_from": "api",
     "created_at": "1788030819",
     "length": 61
+  },
+  {
+    "id": 13076,
+    "uuid": "ba0f2f34-6010-46b8-900b-b9b6d67a37a0",
+    "hitokoto": "もう胸の傷が痛む頃。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788031296",
+    "length": 10
+  },
+  {
+    "id": 13077,
+    "uuid": "3b8c8e5b-a6a8-4d24-91ec-37e804e34758",
+    "hitokoto": "今日も戦ってる。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788031339",
+    "length": 8
+  },
+  {
+    "id": 13078,
+    "uuid": "7b1437f2-2b06-4e15-9611-2a643d15a27a",
+    "hitokoto": "雨に唄って。",
+    "type": "g",
+    "from": "雨に唄って",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788031354",
+    "length": 6
   }
 ]
