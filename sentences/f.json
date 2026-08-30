@@ -20858,5 +20858,19 @@
     "commit_from": "api",
     "created_at": "1788046987",
     "length": 8
+  },
+  {
+    "id": 13250,
+    "uuid": "4ea7d6b6-1de9-4efc-8aac-6652b00d159c",
+    "hitokoto": "I'll be forced to trash 'em, may the best man win this.",
+    "type": "f",
+    "from": "METAMORPHOSIS",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788047477",
+    "length": 55
   }
 ]
