@@ -22930,5 +22930,33 @@
     "commit_from": "api",
     "created_at": "1788030075",
     "length": 14
+  },
+  {
+    "id": 13065,
+    "uuid": "8685c66e-9189-4e03-9f58-4313b3295964",
+    "hitokoto": "繭に包まれた。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788030168",
+    "length": 7
+  },
+  {
+    "id": 13066,
+    "uuid": "433bc362-685a-46f9-b60b-25c66fb02c78",
+    "hitokoto": "真新しい自分。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788030182",
+    "length": 7
   }
 ]
