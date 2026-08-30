@@ -25198,5 +25198,33 @@
     "commit_from": "api",
     "created_at": "1788052000",
     "length": 10
+  },
+  {
+    "id": 13303,
+    "uuid": "105165eb-e764-4ee8-9465-ad7c2d710349",
+    "hitokoto": "还不死心承受着折磨。",
+    "type": "g",
+    "from": "你有没有真的爱过我",
+    "from_who": "廖伟志",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788052029",
+    "length": 10
+  },
+  {
+    "id": 13307,
+    "uuid": "79bf8d94-1fe6-43c1-b7ab-d98d3f13fd20",
+    "hitokoto": "Checked my phone, nothing from you.",
+    "type": "g",
+    "from": "HEAVENLY JUMPSTYLE",
+    "from_who": "John Kell",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788052131",
+    "length": 35
   }
 ]
