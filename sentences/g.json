@@ -23700,5 +23700,47 @@
     "commit_from": "api",
     "created_at": "1788037519",
     "length": 25
+  },
+  {
+    "id": 13144,
+    "uuid": "d33c3510-6131-4bf0-9612-fe9fa8bf8825",
+    "hitokoto": "今日も戦ってる。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788037536",
+    "length": 8
+  },
+  {
+    "id": 13145,
+    "uuid": "74f5ef32-167f-47da-b09a-f8f7dfbf08c9",
+    "hitokoto": "真新しい自分。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788037572",
+    "length": 7
+  },
+  {
+    "id": 13146,
+    "uuid": "3b10fc77-416f-4e4c-a842-479212ebccc0",
+    "hitokoto": "山风山风等等我。",
+    "type": "g",
+    "from": "山风山风等等我",
+    "from_who": "王健美",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788037590",
+    "length": 8
   }
 ]
