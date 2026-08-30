@@ -22972,5 +22972,33 @@
     "commit_from": "api",
     "created_at": "1788030372",
     "length": 10
+  },
+  {
+    "id": 13069,
+    "uuid": "07ad4cb0-c120-4cd2-a9f8-7a6d41bebb02",
+    "hitokoto": "Every old love song sounds like us.",
+    "type": "g",
+    "from": "HEAVENLY JUMPSTYLE",
+    "from_who": "John Kell",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788030539",
+    "length": 35
+  },
+  {
+    "id": 13070,
+    "uuid": "d89e72b5-dad0-47ac-9272-2af8f2d1fb76",
+    "hitokoto": "You were beside me—now you're not there.",
+    "type": "g",
+    "from": "HEAVENLY JUMPSTYLE",
+    "from_who": "John Kell",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788030567",
+    "length": 40
   }
 ]
