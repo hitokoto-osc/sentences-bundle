@@ -24764,5 +24764,19 @@
     "commit_from": "api",
     "created_at": "1788048613",
     "length": 53
+  },
+  {
+    "id": 13262,
+    "uuid": "e58dcebf-8c78-4b74-b7a0-d92d13ccdbd8",
+    "hitokoto": "やるせない何かと。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788049332",
+    "length": 9
   }
 ]
