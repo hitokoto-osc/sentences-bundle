@@ -25240,5 +25240,47 @@
     "commit_from": "api",
     "created_at": "1788052400",
     "length": 32
+  },
+  {
+    "id": 13311,
+    "uuid": "7d90de6c-7dc7-4596-84ee-607556ea0da1",
+    "hitokoto": "犠牲を払って。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788052898",
+    "length": 7
+  },
+  {
+    "id": 13312,
+    "uuid": "70427d28-5aea-4433-bb68-2e26115b7533",
+    "hitokoto": "何を救う？",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788052901",
+    "length": 5
+  },
+  {
+    "id": 13313,
+    "uuid": "a2c2dbbd-b00e-4d1a-8cbb-20a9a0d9cc76",
+    "hitokoto": "息をして。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788052916",
+    "length": 5
   }
 ]
