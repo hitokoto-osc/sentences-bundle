@@ -25324,5 +25324,19 @@
     "commit_from": "api",
     "created_at": "1788053328",
     "length": 35
+  },
+  {
+    "id": 13320,
+    "uuid": "46d7af4e-bf51-49ab-b6e7-7cb12b9329a6",
+    "hitokoto": "愛を知る。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788054066",
+    "length": 5
   }
 ]
