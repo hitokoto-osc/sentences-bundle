@@ -23644,5 +23644,61 @@
     "commit_from": "api",
     "created_at": "1788036812",
     "length": 62
+  },
+  {
+    "id": 13140,
+    "uuid": "f3f3896d-6d12-4b18-a6b6-0a5fe64fc588",
+    "hitokoto": "僕も救う。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788037404",
+    "length": 5
+  },
+  {
+    "id": 13141,
+    "uuid": "33c05f9c-eed4-4603-aedc-e91fd0e9261b",
+    "hitokoto": "Up beatで。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788037441",
+    "length": 9
+  },
+  {
+    "id": 13142,
+    "uuid": "7c03158c-1880-4566-a16b-675e966bc018",
+    "hitokoto": "僕の正しさはここにある。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788037503",
+    "length": 12
+  },
+  {
+    "id": 13143,
+    "uuid": "a5f48ba3-c6b0-4c23-8a15-a642b29e23c1",
+    "hitokoto": "生きることのひどい痛みには、意味があると信じてる。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788037519",
+    "length": 25
   }
 ]
