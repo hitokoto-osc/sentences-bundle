@@ -24750,5 +24750,19 @@
     "commit_from": "api",
     "created_at": "1788048520",
     "length": 35
+  },
+  {
+    "id": 13260,
+    "uuid": "5f99aa34-c9e4-4d61-8455-a99569cd02d0",
+    "hitokoto": "And when they tryna ease up, tell the man, \"So long.\"",
+    "type": "g",
+    "from": "Murder In My Mind",
+    "from_who": null,
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788048613",
+    "length": 53
   }
 ]
