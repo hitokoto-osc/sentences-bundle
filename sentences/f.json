@@ -21488,5 +21488,19 @@
     "commit_from": "api",
     "created_at": "1788059416",
     "length": 33
+  },
+  {
+    "id": 13380,
+    "uuid": "5b532f1a-faaf-4bc7-9e48-896209e0ce48",
+    "hitokoto": "Every old love song sounds like us.",
+    "type": "f",
+    "from": "HEAVENLY JUMPSTYLE",
+    "from_who": "John Kell",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788059444",
+    "length": 35
   }
 ]
