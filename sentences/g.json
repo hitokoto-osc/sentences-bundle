@@ -25870,5 +25870,47 @@
     "commit_from": "api",
     "created_at": "1788059495",
     "length": 23
+  },
+  {
+    "id": 13386,
+    "uuid": "c5a31f5c-922c-4434-973c-441250afb282",
+    "hitokoto": "愛を知る。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788060043",
+    "length": 5
+  },
+  {
+    "id": 13387,
+    "uuid": "ac7b136b-644c-47e6-8733-ffc5f3263b96",
+    "hitokoto": "結局僕らは、人と人。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788060061",
+    "length": 10
+  },
+  {
+    "id": 13388,
+    "uuid": "b235f526-ba99-4abc-a677-ba89c67e0231",
+    "hitokoto": "独りじゃないね。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788060075",
+    "length": 8
   }
 ]
