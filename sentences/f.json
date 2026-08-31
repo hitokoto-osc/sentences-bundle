@@ -21474,5 +21474,19 @@
     "commit_from": "api",
     "created_at": "1788058869",
     "length": 12
+  },
+  {
+    "id": 13379,
+    "uuid": "79634c65-47b1-43aa-b5a7-f9616dbc6159",
+    "hitokoto": "If you leave me, leave me, leave.",
+    "type": "f",
+    "from": "HEAVENLY JUMPSTYLE",
+    "from_who": "John Kell",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788059416",
+    "length": 33
   }
 ]
