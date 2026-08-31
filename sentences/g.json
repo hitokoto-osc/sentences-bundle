@@ -25716,5 +25716,19 @@
     "commit_from": "api",
     "created_at": "1788057808",
     "length": 11
+  },
+  {
+    "id": 13362,
+    "uuid": "5117581e-f22b-4cfb-b7e0-584f8c82968b",
+    "hitokoto": "希望とシェイクハンドして。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788057812",
+    "length": 13
   }
 ]
