@@ -25688,5 +25688,33 @@
     "commit_from": "api",
     "created_at": "1788057708",
     "length": 8
+  },
+  {
+    "id": 13360,
+    "uuid": "f650996d-8268-4780-b6a1-078d91e16557",
+    "hitokoto": "と同時に。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788057772",
+    "length": 5
+  },
+  {
+    "id": 13361,
+    "uuid": "3e814aae-765a-4d4b-a62c-8c466ba4cdd7",
+    "hitokoto": "繭に包まれた、人の夢。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788057808",
+    "length": 11
   }
 ]
