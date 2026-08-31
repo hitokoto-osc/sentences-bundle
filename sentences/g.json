@@ -25996,5 +25996,19 @@
     "commit_from": "api",
     "created_at": "1788060723",
     "length": 55
+  },
+  {
+    "id": 13396,
+    "uuid": "2b17f78b-b2fd-4f37-adaf-1cdafeebd77a",
+    "hitokoto": "それはつまり。",
+    "type": "g",
+    "from": "Brand New",
+    "from_who": "大森元貴",
+    "creator": "小孟科技",
+    "creator_uid": 20798,
+    "reviewer": 20537,
+    "commit_from": "api",
+    "created_at": "1788061256",
+    "length": 7
   }
 ]
