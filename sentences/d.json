@@ -27340,5 +27340,19 @@
     "commit_from": "web",
     "created_at": "1789265204",
     "length": 16
+  },
+  {
+    "id": 13428,
+    "uuid": "155f3b50-eac6-4c84-a561-7ce1891e3922",
+    "hitokoto": "在你们身上，寄托着人类和中国的将来。",
+    "type": "d",
+    "from": "致中共中央",
+    "from_who": "鲁迅",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1789265675",
+    "length": 18
   }
 ]

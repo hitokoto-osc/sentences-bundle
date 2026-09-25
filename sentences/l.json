@@ -1132,5 +1132,47 @@
     "commit_from": "web",
     "created_at": "1787145427",
     "length": 20
+  },
+  {
+    "id": 13433,
+    "uuid": "fc86d7fe-6b63-4a13-ad7e-2d6affd0a98e",
+    "hitokoto": "高三的活人感还没有三高的人强。",
+    "type": "l",
+    "from": "弱智吧",
+    "from_who": "hantuo321",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1789267143",
+    "length": 15
+  },
+  {
+    "id": 13434,
+    "uuid": "d5ade6d8-92e8-409a-8fd1-c3bf6f8cfc27",
+    "hitokoto": "耶稣是男性，所以他是公主。",
+    "type": "l",
+    "from": "弱智吧",
+    "from_who": "笺墨无言",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1789267218",
+    "length": 13
+  },
+  {
+    "id": 13454,
+    "uuid": "986a5d46-e232-43a5-a461-13012cb6d5a7",
+    "hitokoto": "AK虐场未有时，手打暴力祭沧海！",
+    "type": "l",
+    "from": "信息学竞赛",
+    "from_who": "佚名",
+    "creator": "SigmaDCY",
+    "creator_uid": 21091,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1789301442",
+    "length": 16
   }
 ]
