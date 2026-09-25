@@ -16308,5 +16308,33 @@
     "commit_from": "web",
     "created_at": "1788608155",
     "length": 29
+  },
+  {
+    "id": 13409,
+    "uuid": "659c6595-bd03-4904-b1a7-5c56c2327901",
+    "hitokoto": "要是手里有剑的人都退了，那手里无剑的人该怎么办？",
+    "type": "c",
+    "from": "燕云十六声",
+    "from_who": "少东家",
+    "creator": "FUZHU",
+    "creator_uid": 21028,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1788176591",
+    "length": 24
+  },
+  {
+    "id": 13410,
+    "uuid": "94b34fcb-9f73-4dd7-b72d-7e3916e78d85",
+    "hitokoto": "他知道，这一刀将是斩无不断的刀锋。这一刀能代表那些被吃干抹净的卑微者，能切开天、切开地、切开尘世所有的不公。",
+    "type": "c",
+    "from": "饿殍：明末千里行",
+    "from_who": "良",
+    "creator": "FUZHU",
+    "creator_uid": 21028,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1788177914",
+    "length": 54
   }
 ]
