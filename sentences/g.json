@@ -26444,5 +26444,61 @@
     "commit_from": "web",
     "created_at": "1791007225",
     "length": 16
+  },
+  {
+    "id": 13503,
+    "uuid": "e44bbe64-02b6-420b-8c56-0c0e31865502",
+    "hitokoto": "丑陋的毛毛虫，好不容易可以在梦境中忘记自己的软弱，却又生出美丽的翅膀。",
+    "type": "g",
+    "from": "妄想症Paranoia",
+    "from_who": "雨狸",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791007362",
+    "length": 35
+  },
+  {
+    "id": 13504,
+    "uuid": "ca25f17b-a4a3-4fcc-b06f-d0f445fe3671",
+    "hitokoto": "在旧的规则被毁灭的同时，世界会因我们的抗争，而迎来新生。",
+    "type": "g",
+    "from": "妄想症Paranoia",
+    "from_who": "雨狸",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791007413",
+    "length": 28
+  },
+  {
+    "id": 13505,
+    "uuid": "5b2f0fcd-c2ef-4a0a-970f-a2f6cd946ef5",
+    "hitokoto": "灵魂被装在躯壳之中，像是被层层叠叠的红瓣所呵护的花蕊，即使由于过重而坠落，也必定看不到自己的葬身之所。",
+    "type": "g",
+    "from": "妄想症Paranoia",
+    "from_who": "雨狸",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791007721",
+    "length": 51
+  },
+  {
+    "id": 13506,
+    "uuid": "189aa229-f43f-4ab4-9a08-981e3c8bbb34",
+    "hitokoto": "影子在身后追逐，边缘是如同冰棱般尖锐的利刃。",
+    "type": "g",
+    "from": "妄想症Paranoia",
+    "from_who": "雨狸",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791007736",
+    "length": 22
   }
 ]
