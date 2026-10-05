@@ -27494,5 +27494,61 @@
     "commit_from": "web",
     "created_at": "1791176660",
     "length": 19
+  },
+  {
+    "id": 13518,
+    "uuid": "44e7f97a-996e-490f-927a-823f4b917a71",
+    "hitokoto": "当科学迷失了人性，一切的文明都是没有意义的。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791176694",
+    "length": 22
+  },
+  {
+    "id": 13519,
+    "uuid": "123c5571-a490-4101-af89-f873bd10a7e2",
+    "hitokoto": "梦想不是空谈，而是一步一个脚印的慢慢积累。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791176728",
+    "length": 21
+  },
+  {
+    "id": 13520,
+    "uuid": "ab9deb65-ab0f-4175-b73c-1ca5bd08de57",
+    "hitokoto": "真正的美丽，不是光鲜的外表，不是显赫的身世，而是绽放的心灵。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791176743",
+    "length": 30
+  },
+  {
+    "id": 13521,
+    "uuid": "410b17f2-8ab0-4324-a975-a265462edba8",
+    "hitokoto": "珍惜你所拥有的每一天，才会拥有一个永无遗憾的生命。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791176844",
+    "length": 25
   }
 ]
