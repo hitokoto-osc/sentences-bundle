@@ -27550,5 +27550,33 @@
     "commit_from": "web",
     "created_at": "1791176844",
     "length": 25
+  },
+  {
+    "id": 13522,
+    "uuid": "9fdfac89-398b-4baa-87d9-50ee9bedd133",
+    "hitokoto": "衡量人生价值的并不是生命的长度，而是生命的宽度。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791177071",
+    "length": 24
+  },
+  {
+    "id": 13523,
+    "uuid": "7009cafd-8fdc-4cb1-aa27-2c7a678c069f",
+    "hitokoto": "多一份真诚，少一点猜忌，人们的心灵将得到净化。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791177094",
+    "length": 23
   }
 ]
