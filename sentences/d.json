@@ -27410,5 +27410,47 @@
     "commit_from": "web",
     "created_at": "1790690663",
     "length": 34
+  },
+  {
+    "id": 13511,
+    "uuid": "2122509a-8ff1-43f9-85f1-cb17189a9276",
+    "hitokoto": "谨以此书，纪念我的童年，那是一段小有遗憾的幸福时光。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791176244",
+    "length": 26
+  },
+  {
+    "id": 13512,
+    "uuid": "5ebeae4e-1fef-49fe-bdeb-5c6c6ac48223",
+    "hitokoto": "你所浪费的今天，是昨天已死之人苦苦哀求的明天。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791176316",
+    "length": 23
+  },
+  {
+    "id": 13513,
+    "uuid": "4a08e0e7-d6c7-4737-a3d8-24190dc3052f",
+    "hitokoto": "你所耽误的现在，是将来永远得不到的曾经。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791176324",
+    "length": 20
   }
 ]
