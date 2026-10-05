@@ -27452,5 +27452,47 @@
     "commit_from": "web",
     "created_at": "1791176324",
     "length": 20
+  },
+  {
+    "id": 13514,
+    "uuid": "46be344b-575b-4528-aec3-daeb447d7da5",
+    "hitokoto": "流出的血无法收回，倒下的人无法重生，恶魔即使放下手中的利刃，泣血般忏悔着，依然得不到上帝的宽恕。",
+    "type": "d",
+    "from": "查理九世-海龟岛狩猎者",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791176492",
+    "length": 48
+  },
+  {
+    "id": 13515,
+    "uuid": "7568fb58-3a79-4059-8621-09dc2124fbea",
+    "hitokoto": "也许爱和责任会让人感觉到有压力，但这份压力能让生活充满阳光，让内心充满力量。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791176553",
+    "length": 38
+  },
+  {
+    "id": 13517,
+    "uuid": "29c759f4-c61a-41a9-8d92-aa71ddbeb031",
+    "hitokoto": "敢于向黑暗宣战的人，心里必须充满光明。",
+    "type": "d",
+    "from": "查理九世",
+    "from_who": "雷欧幻像",
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791176660",
+    "length": 19
   }
 ]
