@@ -16434,5 +16434,33 @@
     "commit_from": "web",
     "created_at": "1791195479",
     "length": 15
+  },
+  {
+    "id": 13535,
+    "uuid": "e4c28e6f-0383-4fba-98a0-f7350794dc3e",
+    "hitokoto": "爱，是不能忘记的。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "西施",
+    "creator": "凡兔兔",
+    "creator_uid": 21223,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791478436",
+    "length": 9
+  },
+  {
+    "id": 13536,
+    "uuid": "88ce05f1-083e-42a9-a89a-815c83fb4b31",
+    "hitokoto": "谣言哪有真凭据，只凭他人道长短。",
+    "type": "c",
+    "from": "王者荣耀",
+    "from_who": "西施",
+    "creator": "凡兔兔",
+    "creator_uid": 21223,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1791478476",
+    "length": 16
   }
 ]
