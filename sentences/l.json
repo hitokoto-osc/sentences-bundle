@@ -1202,5 +1202,19 @@
     "commit_from": "web",
     "created_at": "1791983929",
     "length": 26
+  },
+  {
+    "id": 13552,
+    "uuid": "0062b3da-a48f-4a43-b220-c8200c558446",
+    "hitokoto": "好好学习但成绩上不来的原因：又有上进心、又懒、又倔、又自负。",
+    "type": "l",
+    "from": "网络",
+    "from_who": null,
+    "creator": "碧水凌涛",
+    "creator_uid": 20913,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1792675078",
+    "length": 30
   }
 ]
