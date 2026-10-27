@@ -16518,5 +16518,47 @@
     "commit_from": "web",
     "created_at": "1791659637",
     "length": 51
+  },
+  {
+    "id": 13558,
+    "uuid": "46df1439-e9d4-4bd3-a9d5-35868a1cb1bb",
+    "hitokoto": "听说至冬的夜晚，天上会挂着彩色的极光。等长大了，我们一起去看看吧！",
+    "type": "c",
+    "from": "原神",
+    "from_who": "克蕾薇",
+    "creator": "佩露薇利",
+    "creator_uid": 21290,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793082474",
+    "length": 33
+  },
+  {
+    "id": 13560,
+    "uuid": "3ac84c27-e25d-4e8e-aab6-b7aed7755a59",
+    "hitokoto": "如果再不采取行动，我们就要失败了！",
+    "type": "c",
+    "from": "战争雷霆",
+    "from_who": "Gaijin Entertainment",
+    "creator": "佩露薇利",
+    "creator_uid": 21290,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793089244",
+    "length": 17
+  },
+  {
+    "id": 13561,
+    "uuid": "b0fdb2db-1e1b-4842-a8a7-365d1c695717",
+    "hitokoto": "胜败乃兵家常事，但是下一次，我们会赢回来的！",
+    "type": "c",
+    "from": "战争雷霆",
+    "from_who": "战争雷霆",
+    "creator": "佩露薇利",
+    "creator_uid": 21290,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793089269",
+    "length": 22
   }
 ]
