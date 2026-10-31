@@ -27844,5 +27844,33 @@
     "commit_from": "web",
     "created_at": "1793442553",
     "length": 18
+  },
+  {
+    "id": 13595,
+    "uuid": "d7344115-83b5-41e1-8f33-1558c5e9b001",
+    "hitokoto": "公理之下，正义不朽。",
+    "type": "d",
+    "from": "一级律师",
+    "from_who": "木苏里",
+    "creator": "失昭昭",
+    "creator_uid": 21307,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793442798",
+    "length": 10
+  },
+  {
+    "id": 13596,
+    "uuid": "3fe77016-52b8-4c27-aea0-9b4fee0cccb6",
+    "hitokoto": "老将不死，薪火相传。",
+    "type": "d",
+    "from": "AWM[绝地求生]",
+    "from_who": "漫漫何其多",
+    "creator": "失昭昭",
+    "creator_uid": 21307,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793442902",
+    "length": 10
   }
 ]
