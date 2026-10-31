@@ -27760,5 +27760,33 @@
     "commit_from": "web",
     "created_at": "1793441351",
     "length": 10
+  },
+  {
+    "id": 13588,
+    "uuid": "86d52a62-2f74-486b-a742-ab7221230919",
+    "hitokoto": "戒烟，戒酒，戒你。",
+    "type": "d",
+    "from": "台风眼",
+    "from_who": "潭石",
+    "creator": "失昭昭",
+    "creator_uid": 21307,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793441508",
+    "length": 9
+  },
+  {
+    "id": 13589,
+    "uuid": "60aa1184-25ae-4531-b0e0-2853763adadc",
+    "hitokoto": "“喻同学，请你收下我的情书。”",
+    "type": "d",
+    "from": "放学等我",
+    "from_who": "酱子贝",
+    "creator": "失昭昭",
+    "creator_uid": 21307,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793441663",
+    "length": 15
   }
 ]
