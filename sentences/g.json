@@ -26696,5 +26696,33 @@
     "commit_from": "web",
     "created_at": "1793657096",
     "length": 11
+  },
+  {
+    "id": 13613,
+    "uuid": "0aad63e0-82a1-4732-9844-f8a3ec0826c1",
+    "hitokoto": "今日饮一杯愁滋味不醉不归。",
+    "type": "g",
+    "from": "梦幻诛仙",
+    "from_who": "汪苏泷",
+    "creator": "铃初亿",
+    "creator_uid": 21314,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793657987",
+    "length": 13
+  },
+  {
+    "id": 13614,
+    "uuid": "d6210033-a00a-494c-8528-870543b7735b",
+    "hitokoto": "成长的代价，像一堆筹码，赌注是谁能先放下。",
+    "type": "g",
+    "from": "你最近好吗",
+    "from_who": "汪苏泷",
+    "creator": "铃初亿",
+    "creator_uid": 21314,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793658240",
+    "length": 21
   }
 ]
