@@ -26724,5 +26724,19 @@
     "commit_from": "web",
     "created_at": "1793658240",
     "length": 21
+  },
+  {
+    "id": 13616,
+    "uuid": "31ee2ba3-0ebf-4f6a-a9c6-42d295a38f41",
+    "hitokoto": "就承认一笑倾城一见自难忘。",
+    "type": "g",
+    "from": "一笑倾城",
+    "from_who": "汪苏泷",
+    "creator": "铃初亿",
+    "creator_uid": 21314,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793658429",
+    "length": 13
   }
 ]
