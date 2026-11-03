@@ -2756,5 +2756,19 @@
     "commit_from": "web",
     "created_at": "1792090577",
     "length": 34
+  },
+  {
+    "id": 13617,
+    "uuid": "03a1d5a3-630e-49af-bb06-65c66cd6045d",
+    "hitokoto": "八十万对六十万，优势在我！",
+    "type": "h",
+    "from": "大决战",
+    "from_who": "蒋中正",
+    "creator": "taikongsha",
+    "creator_uid": 21313,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793674252",
+    "length": 13
   }
 ]
