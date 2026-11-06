@@ -28138,5 +28138,47 @@
     "commit_from": "web",
     "created_at": "1793976653",
     "length": 15
+  },
+  {
+    "id": 13632,
+    "uuid": "3b2ffb32-86fc-4106-af94-b10321ac6d6b",
+    "hitokoto": "谁把谁当真，谁比谁认真。",
+    "type": "d",
+    "from": "谁把谁当真",
+    "from_who": "水千丞",
+    "creator": "失昭昭",
+    "creator_uid": 21307,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793976702",
+    "length": 12
+  },
+  {
+    "id": 13633,
+    "uuid": "1503d212-a7e2-4c84-9552-8a7f25339fda",
+    "hitokoto": "我简隋英哪样不是出类拔萃？",
+    "type": "d",
+    "from": "你却爱着一个傻逼",
+    "from_who": "水千丞",
+    "creator": "失昭昭",
+    "creator_uid": 21307,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793976825",
+    "length": 13
+  },
+  {
+    "id": 13634,
+    "uuid": "60831734-2996-4517-a890-cd977c19dfb2",
+    "hitokoto": "何故……我要何故……把何故还给我……",
+    "type": "d",
+    "from": "一醉经年",
+    "from_who": "水千丞",
+    "creator": "失昭昭",
+    "creator_uid": 21307,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1793976979",
+    "length": 18
   }
 ]
