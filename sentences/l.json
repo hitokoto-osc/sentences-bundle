@@ -1272,5 +1272,19 @@
     "commit_from": "web",
     "created_at": "1793869545",
     "length": 7
+  },
+  {
+    "id": 13639,
+    "uuid": "cbba65a3-6dcb-4576-a261-07cfbe900605",
+    "hitokoto": "人心很脏，所以叫心脏。",
+    "type": "l",
+    "from": "网络",
+    "from_who": null,
+    "creator": "akink",
+    "creator_uid": 21328,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1794658478",
+    "length": 11
   }
 ]
