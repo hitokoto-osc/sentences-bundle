@@ -26738,5 +26738,19 @@
     "commit_from": "web",
     "created_at": "1793658429",
     "length": 13
+  },
+  {
+    "id": 13643,
+    "uuid": "7443d0f4-9774-4eb8-8cbe-f8077e577f7e",
+    "hitokoto": "请别遗忘，我用泪与火尽力歌唱；请别遥望，林野与花海覆上风霜。",
+    "type": "g",
+    "from": "碎镜",
+    "from_who": "被遗忘者的哀伤/北山薇",
+    "creator": "D!s!llus!on",
+    "creator_uid": 20901,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1794826692",
+    "length": 30
   }
 ]
