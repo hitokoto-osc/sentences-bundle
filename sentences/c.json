@@ -16896,5 +16896,33 @@
     "commit_from": "web",
     "created_at": "1794917805",
     "length": 20
+  },
+  {
+    "id": 13654,
+    "uuid": "44b42346-7699-41bf-8c26-f8310e020725",
+    "hitokoto": "请签署生死状……还有，我是庄家。",
+    "type": "c",
+    "from": "恶魔轮盘",
+    "from_who": "庄家",
+    "creator": "佩露薇利",
+    "creator_uid": 21290,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1795523688",
+    "length": 16
+  },
+  {
+    "id": 13655,
+    "uuid": "32ed19cb-4994-4757-8c48-9a2fee791ff4",
+    "hitokoto": "不再有心脏除颤器，也没有输血。现在，你我二人，在生与死的边缘起舞。",
+    "type": "c",
+    "from": "恶魔轮盘",
+    "from_who": "庄家",
+    "creator": "佩露薇利",
+    "creator_uid": 21290,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1795523711",
+    "length": 33
   }
 ]
