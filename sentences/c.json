@@ -16924,5 +16924,19 @@
     "commit_from": "web",
     "created_at": "1795523711",
     "length": 33
+  },
+  {
+    "id": 13657,
+    "uuid": "4773012a-eea2-4b21-9a13-1e769f18020a",
+    "hitokoto": "我的「慈爱」无法治愈你的诅咒，愿你安眠，我的孩子。",
+    "type": "c",
+    "from": "原神",
+    "from_who": "安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅",
+    "creator": "佩露薇利",
+    "creator_uid": 21290,
+    "reviewer": 20537,
+    "commit_from": "web",
+    "created_at": "1795614279",
+    "length": 25
   }
 ]
